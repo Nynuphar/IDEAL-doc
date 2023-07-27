@@ -18,18 +18,54 @@ IDEAL has different users, who have different permissions, and consequentently a
 IDEAL users
 **************
 
+This section provides information about the different types of users and respective permissions.
+
 .. toctree::
    :maxdepth: 2
 
    users
 
-How to
-************
+Patient study area
+********************
+
+This section explains how to create, modify and import patients to a new study.
 
 .. toctree::
    :maxdepth: 2
 
    new_study
-   study_details
-   import_study
+
+Carecenter area
+*****************
+
+This section explains how to check patients from the hospital and for example add a new carecenter patient to a study.
+
+.. toctree::
+   :maxdepth: 2
+
+   carecenter
+
+
+IDEAL linkage
+*********
+
+This area explains how to inspect the linkage
+
+.. toctree::
+   :maxdepth: 2
+
+   linkage
+
+File export
+************
+
+This area explains how to export files.
+
+.. toctree::
+   :maxdepth: 2
+
+   export
+
+
+
 
