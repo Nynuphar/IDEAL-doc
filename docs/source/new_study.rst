@@ -1,4 +1,4 @@
-IDEAL Manager
+New study
 ===============
 
 .. autosummary::
