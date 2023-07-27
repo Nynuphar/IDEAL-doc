@@ -21,7 +21,7 @@ IDEAL users
 This section provides information about the different types of users and respective permissions.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    users
 
@@ -31,7 +31,7 @@ Patient study area
 This section explains how to create, modify and import patients to a new study.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    study
 
@@ -41,7 +41,7 @@ Carecenter area
 This section explains how to check patients from the hospital and for example add a new carecenter patient to a study.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    carecenter
 
@@ -52,7 +52,7 @@ IDEAL linkage
 This area explains how to inspect the linkage
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    linkage
 
@@ -62,7 +62,7 @@ File export
 This area explains how to export files.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    export
 
