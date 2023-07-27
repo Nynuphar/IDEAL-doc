@@ -1,5 +1,5 @@
 IDEAL Superuser
-===
+================
 
 .. autosummary::
    :toctree: generated
