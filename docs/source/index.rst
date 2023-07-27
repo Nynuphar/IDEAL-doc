@@ -28,7 +28,7 @@ Contents
 
 .. toctree::
 
-   IDEAL Superuser
-   IDEAL Manager
-   IDEAL User
+   Superuser
+   Manager
+   User
 
