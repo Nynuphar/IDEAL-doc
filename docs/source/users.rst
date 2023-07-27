@@ -1,5 +1,5 @@
-IDEAL Users
-#############
+IDEAL Users - types and permissions
+######################################
 
 Types
 ********
