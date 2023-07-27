@@ -8,10 +8,11 @@ Read more about the IDEAL project `here <https://ideal-project.ch/about/>`_.
 This documentation aims to provide information about the different IDEAL functionalities and moreover provide a step-by-step guidance for a new user.
 
 IDEAL has different users, who have different permissions, and consequentently also see different IDEAL interfaces. Check out the :doc:`users` section for further information about user permissions.
-Note that only authorized users will be able to access the IDEAL functionalities.
+
+..warning::
+   Only authorized users will be able to access the IDEAL functionalities.
 
 .. note::
-
    This project is under active development.
 
 Contents
