@@ -27,7 +27,8 @@ How to
 *********
 
 .. toctree::
-   
+   :maxdepth: 1
+
    new_study
    study_details
    import_study
