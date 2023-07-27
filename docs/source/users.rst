@@ -4,8 +4,6 @@ IDEAL Users
 Types
 ********
 
-
-
 Administrator
 ===============
 
@@ -17,3 +15,6 @@ Manager
 
 User
 ======
+
+Permissions
+*************
