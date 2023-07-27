@@ -28,7 +28,7 @@ Contents
 
 .. toctree::
 
-   Superuser
-   Manager
-   User
+   superuser
+   manager
+   user
 
