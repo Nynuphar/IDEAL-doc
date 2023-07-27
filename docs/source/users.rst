@@ -1,14 +1,19 @@
 IDEAL Users
-============
+#############
 
-Administrator
-**************
-
-Superuser
-**********
-
-Manager
+Types
 ********
 
+
+
+Administrator
+===============
+
+Superuser
+==========
+
+Manager
+=========
+
 User
-*****
+======
