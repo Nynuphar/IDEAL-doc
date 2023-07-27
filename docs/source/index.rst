@@ -22,5 +22,5 @@ Contents
    users   
    new_study
    study_details
-   impot_study
+   import_study
 
