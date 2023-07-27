@@ -19,7 +19,7 @@ IDEAL users
 **************
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    users
 
@@ -27,7 +27,7 @@ How to
 *********
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    new_study
    study_details
