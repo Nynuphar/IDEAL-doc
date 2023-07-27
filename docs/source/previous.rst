@@ -1,4 +1,4 @@
-New study
+Previous
 ===============
 
 .. autosummary::
