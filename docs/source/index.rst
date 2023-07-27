@@ -1,5 +1,11 @@
-Welcome to Lumache's documentation!
+Step-by-step IDEAL user guide
 ===================================
+
+This documentation aims to provide information about the different IDEAL functionalities and moreover provide a step-by-step guidance for a new user.
+
+IDEAL has different users who have different permission and also different user interfaces.
+
+
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
