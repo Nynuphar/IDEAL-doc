@@ -33,7 +33,7 @@ This section explains how to create, modify and import patients to a new study.
 .. toctree::
    :maxdepth: 2
 
-   new_study
+   study
 
 Carecenter area
 *****************
