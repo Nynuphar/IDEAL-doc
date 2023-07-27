@@ -27,6 +27,7 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 1
 
    superuser
    manager
