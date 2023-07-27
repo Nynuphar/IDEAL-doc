@@ -1,3 +1,5 @@
-Edit the study details
+How to
 #########################
 
+Edit the study details
+***********************
