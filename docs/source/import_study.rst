@@ -1,8 +1,4 @@
-Import study
+Import a new study
 ==============
 
-Test 1
-*******
 
-Test 2
-*******
