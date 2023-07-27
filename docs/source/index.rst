@@ -24,11 +24,10 @@ IDEAL users
    users
 
 How to
-*******
+*********
 
 .. toctree::
-   :maxdepth: 
-
+   
    new_study
    study_details
    import_study
