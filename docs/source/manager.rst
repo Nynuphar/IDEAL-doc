@@ -1,4 +1,5 @@
-IDEAL Manager ===
+IDEAL Manager
+===============
 
 .. autosummary::
    :toctree: generated
