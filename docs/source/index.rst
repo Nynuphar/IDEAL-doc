@@ -1,5 +1,5 @@
 IDEAL user guide
-===================================
+###################
 
 IDEAL is a patient identity management tool, which connects the patient information in the hospital to their pseudonym in the study or cohort. IDEAL aims therfore to enable data sharing for research, while protecting patient identifying information.
 
@@ -15,12 +15,20 @@ IDEAL has different users, who have different permissions, and consequentently a
 .. note::
    This project is under active development.
 
-Contents
---------
+IDEAL users
+**************
 
 .. toctree::
+   :maxdepth: 1
 
-   users   
+   users
+
+How to
+*******
+
+.. toctree::
+   :maxdepth: 
+
    new_study
    study_details
    import_study
