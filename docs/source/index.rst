@@ -24,7 +24,7 @@ IDEAL users
    users
 
 How to
-*********
+************
 
 .. toctree::
    :maxdepth: 2
