@@ -1,4 +1,4 @@
-API
+IDEAL Superuser
 ===
 
 .. autosummary::
