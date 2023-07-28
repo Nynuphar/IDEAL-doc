@@ -62,11 +62,11 @@ Summary table
     - 
     - 
     - 
-    - Export of subject identification log
+  * - Export of subject identification log
     - no
     - yes
     - yes
-    - Export of screening log
+  * - Export of screening log
     - no
     - yes
     - yes
@@ -74,10 +74,29 @@ Summary table
     - 
     - 
     - 
-  * - **Management of study information**
+  * - Create new studies
+    - yes
+    - yes
     - no
+  * - Manage registered studies
     - yes
     - yes
-
+    - no
+  * - Approve new studies
+    - yes
+    - no
+    - no
+  * - **User management**
+    - 
+    - 
+    - 
+  * - Invite new users
+    - yes
+    - no
+    - no
+  * - Assing users to new studies
+    - yes
+    - no
+    - no
 
 
