@@ -1,11 +1,6 @@
 IDEAL Users - types and permissions
 ######################################
 
-
-
-
-
-
 Types
 ********
 
@@ -28,7 +23,7 @@ Summary table
 ***************
 
 .. list-table:: Users rights and permissions
-  :widths: 50, 30, 30, 30
+  :widths: 70, 30, 30, 30
   :header-rows: 1
 
   * - **Action**
@@ -64,6 +59,14 @@ Summary table
     - yes
     - yes
   * - **File extraction**
+    - 
+    - 
+    - 
+    - Export of subject identification log
+    - no
+    - yes
+    - yes
+    - Export of screening log
     - no
     - yes
     - yes
