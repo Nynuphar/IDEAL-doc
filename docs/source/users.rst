@@ -35,7 +35,7 @@ Summary table
 ***************
 
 .. list-table:: Users rights and permissions
-  :widths: 70, 30, 30, 30
+  :widths: 90, 30, 30, 30
   :header-rows: 1
 
   * - **Action**
