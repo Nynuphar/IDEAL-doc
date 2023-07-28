@@ -110,7 +110,7 @@ Summary table
     - yes
     - no
     - no
-  * - Assign users to new studies
+  * - Assign users to studies
     - yes
     - yes
     - no
