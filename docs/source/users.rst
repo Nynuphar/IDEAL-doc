@@ -9,16 +9,28 @@ Superuser
 
 The IDEAL Superuser is a local administrator.
 
-The main responsibility of a Superuser is to approve new studies and new user accounts. They can equally invite new users.
+The main responsibility of a Superuser is to approve new studies and new user accounts, and equally invite new users.
 
-Although able to approve and create a new study, the Superuser does not have direct access to the patient information of a study. Therefore, they are not able to import a study patient list. Equally, the Superuser is not able to do the IDEAL linkage between the patients in the carecenter/study.
+Although able to approve and create a new study, the Superuser does not have direct access to the patient information of a study. Therefore, they are not able to import a study patient list. Equally, the Superuser is not able to do the IDEAL linkage between the patients in the carecenter/study and is not able to export any patient related files.
 
 Manager
 =========
 
+An IDEAL Manager could be a principle investigator or a senior study nurse.
+
+The Manager has access to the patients in the carecenter and study. The Manager can import patients to a study and link these to the patients in the carecenter.
+
+The Manager has a similar role to the IDEAL user (see below) but it is able to create and manage new studies and new user accounts. Both new study and users need then to be approved by the IDEAL Superuser).
+
 User
 ======
 
+In most cases, the IDEAL user is a local study nurse or data manager.
+
+The User has a more limited role than an IDEAL manager. The User has equally access to the patients in the carecenter and study. Equally, the User can import patients to a study and link these to the patients in the carecenter.
+
+The User does not have permission to manage users or studies.
+ 
 Summary table
 ***************
 
@@ -94,9 +106,13 @@ Summary table
     - yes
     - no
     - no
-  * - Assing users to new studies
+  * - Approve new users
     - yes
     - no
+    - no
+  * - Assign users to new studies
+    - yes
+    - yes
     - no
 
 
