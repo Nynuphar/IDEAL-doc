@@ -3,7 +3,7 @@ IDEAL user guide
 
 IDEAL is a patient identity management tool, which connects the patient information in the hospital to their pseudonym in the study or cohort. IDEAL aims therfore to enable data sharing for research, while protecting patient identifying information.
 
-Read more about the IDEAL project `here <https://ideal-project.ch/about/>`_.
+Read more about the `IDEAL project <https://ideal-project.ch/about/>`_ here.
 
 This documentation aims to provide information about the different IDEAL functionalities and moreover provide a step-by-step guidance for a new user.
 
