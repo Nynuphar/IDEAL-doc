@@ -13,21 +13,27 @@ Here you can name your study, select an acronym and add a short description for 
 
 A test study named "Test01" was created here as an example, as shown below.
 
+
 .. image:: StudyTestCreated.png
    :width: 600
+
 
 Please select the:
    * "**Authorized users**", who will be able to edit and manage patients from a study, but will not be able to edit the study.
    * "**Local responsible operators**", who will be able to manage users and edit the study.  "**Local responsible operators**" can also manage patients.
 
+
 .. image:: UsersStudySelect.png
+
 
 .. note::
    To select multiple users, please use the CTRL + left click button.
 
 You can now click to save and create your study. Your study can now be seen in the "**Studies**" area, as seen below:
 
+
 .. image:: WaitForSuperuser.png
+
 
 Now, your study needs to be approved by the Superuser. Check the next section to understand how to *Approve a new study*.
 
@@ -36,7 +42,9 @@ Approve a new study
 
 When logged in as Superuser, you will find the study to be approved in your "**Dashboard**":
 
+
 .. image:: StudyApprovalSuperuser.png
+
 
 Click on the "**✓**" to approve the study.
 
@@ -49,13 +57,27 @@ Edit a study
 
 If you are an IDEAL Manager or Superuser (see :doc:`users` for more information about IDEAL users and their rights and permissions), you have the right to edit a study by selecting this icon, on your "**Dashboard**" or "**Studies**">"**Create Study**":
 
+
 .. image:: EditStudy.png
+
 
 .. warning::
    Any change on a Study will require re-approval from a Superuser.
 
-Define study details (file specs)
+.. note::
+   Hovering with the mouse over the icons will show you their functions.
+
+Define study data format
 ***********************************
+
+Before importing the patients of your study, you need to check the study details. For this click on the *eye* icon on the bar:
+
+
+.. image:: IconsStudyDetails.png
+
+
+Here you will have access to the "**Study metadata**" and "**My Study Data Format**". This last section is especially important before importing the patient data from your study, as it allows to match the format of your study data (column names, date format, etc) to the format IDEAL "expects".
+
 
 
 
