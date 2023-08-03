@@ -67,7 +67,7 @@ If you are an IDEAL Manager or Superuser (see :doc:`users` for more information 
 .. note::
    Hovering with the mouse over the icons will show you their functions.
 
-Define study data format
+Define data format of a study
 ***********************************
 
 Before importing the patients of your study, you need to check the study details. For this click on the *eye* icon on the bar:
@@ -76,8 +76,35 @@ Before importing the patients of your study, you need to check the study details
 .. image:: IconsStudyDetails.png
 
 
-Here you will have access to the "**Study metadata**" and "**My Study Data Format**". This last section is especially important before importing the patient data from your study, as it allows to match the format of your study data (column names, date format, etc) to the format IDEAL "expects".
+Here you will have access to the "**Study metadata**" and "**My Study Data Format**". This last section is especially important before bulk import of the patient data from your study, as it allows to match the format of your study data (column names, date format, etc) to the format IDEAL "expects". The format of your data will be "**SOURCE**" and what IDEAL "expects" would be "*IDEAL REPRESENTATION**". 
 
+.. warning::
+   To bulk import patients, IDEAL only supports .CSV documents at the moment. Most programs (for example MS EXCEL) supports  conversion into .CSV.
+
+Let's take this dummy file as an example: it contains the information of 3 "patients" (disclaimer: these "patients" are fake "patients", who were created to explain this section and are not enrolled, as far as we know, in any kind of real study). This is a CSV file with the follwing columns:
+   * StudyPatientID: patient identification number
+   * FirstName: first name of the patient
+   * LastName: surname of the patient
+   * DOB: date of birth
+   * Gender: gender
+   * DOE: date of enrollment
+   * E: whether the patient is enrolled 
+
+
+.. image:: PatientsFake.png
+
+
+Let's go step by step, taking the above data as example:
+
+In IDEAL, in the "**My Study Data Format**", you can see the following fields:
+
+* "**CSV delimiter**": here choose what is the separator used on your file
+   * our file is already separated by "," - no change required
+* "**CSV quotation mark*"": here choose the appropriate quotation mark
+   * our file is already separated by "," - no change required
+* "**Date format**": default is set to %Y-%m-%d (format specifier). This means that IDEAL expects the date in the following format: YYYY-mm-dd (for example: 2023-08-01).
+   * our data has a different date format: dd.mm.YYYY (or %d.%m.%Y) - this needs to be updated
+   
 
 
 
