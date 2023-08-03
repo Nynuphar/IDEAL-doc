@@ -97,9 +97,8 @@ Let's take this dummy file as an example: it contains the information of 3 "pati
 .. warning::
     Disclaimer: these "patients" are fake "patients", who were created to explain this section and are not enrolled, as far as we know, in any kind of real study.
 
-Let's go step by step, taking the above data as example:
+Let's go step by step, taking the above data as example. In IDEAL, in the "**My Study Data Format**", you can see the following fields:
 
-In IDEAL, in the "**My Study Data Format**", you can see the following fields:
    - "**CSV delimiter**": here choose what is the separator used on your file
       * our study is already separated by "," - no change required
    * "**CSV quotation mark**": here choose the appropriate quotation mark
@@ -108,9 +107,25 @@ In IDEAL, in the "**My Study Data Format**", you can see the following fields:
       * our data has a different date format: dd.mm.YYYY (or %d.%m.%Y) - this needs to be updated
    * "**Gender representation**": IDEAL representation of Female is defined by "**F**", Male by "**M**" and "**Unknown**" to "**O**". Here the source default is pre-set to "Female", "Male", "Unknown", respectively to the IDEAL representation.
       * in our study, the gender is also set to "**F**" and "**M**" - this needs to be updated. This file is too short to understand how "**Unknown**" is set to, so we will set it as **U** for now.
-   * "**Boolean representation**": 
+   * "**Boolean representation**": here IDEAL expects the value True/False, while the source default is set to Ja/Nein/Unknown,
+      * in our study, the boolean values for **enrolled** are also described as True/False - this needs to be updated
+   * "**Column mapping**": here we need to match the names of our columns to the IDEAL representation. Here the default source columns need to be updated to match the names of our columns, as they are set to the same as the IDEAL representation:
+      * study_patient_id
+      * first_name
+      * last_name
+      * date_of_birth
+      * gender
+      * date_of_enrollment
+      * enrolled
+
+After the updates mentioned above, IDEAL looks like this:
+
+.. image:: StudyDetails1.png
+.. image:: StudyDetails2.png
 
    
+
+
 
 
 
