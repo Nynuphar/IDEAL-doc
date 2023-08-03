@@ -53,10 +53,21 @@ Click on the "**✓**" to approve the study.
 
  Now your study has been approved.
 
+Delete a study
+********************
+
+An IDEAL manager can delete a study before this has been approved by a Superuser. After the study has been approved, only the Superuser has the right to delete the study.
+
+To delete a study just navigate to your "**Dashboard**" and select the appropriate icon as shown below:
+
+.. image:: DeleteStudy.png
+
+A message will appear for you to confirm this action.
+
 Edit a study
 ********************
 
-If you are an IDEAL Manager or Superuser (see :doc:`users` for more information), you have the right to edit a study by selecting this icon, on your "**Dashboard**" or "**Studies**">"**Create Study**":
+If you are an IDEAL **Manager** or **Superuser** (see :doc:`users` for more information), you have the right to edit a study by selecting this icon, on your "**Dashboard**" or "**Studies**">"**Create Study**":
 
 
 .. image:: EditStudy.png
@@ -110,7 +121,7 @@ Let's go step by step, taking the above data as example. In IDEAL, in the "**My 
       * in our study, the gender is also set to "**F**" and "**M**" - this needs to be updated. This file is too short to understand how "**Unknown**" is set to, so we will set it as **U** for now.
    * "**Boolean representation**": here IDEAL expects the value True/False, while the source default is set to Ja/Nein/Unknown,
       * in our study, the boolean values for **enrolled** are also described as True/False - this needs to be updated
-   * "**Column mapping**": here we need to match the names of our columns to the IDEAL representation. Here the default source columns need to be updated to match the names of our columns, as they are set to the same as the IDEAL representation:
+   * "**Column mapping**": here we need to match the names of our columns to the IDEAL representation. Here the default source columns need to be updated to match the names of our columns, as they are currently set to the same as the IDEAL representation:
       * study_patient_id
       * first_name
       * last_name
@@ -131,6 +142,9 @@ Your study format has been set and you can "**Save**".
 
 .. warning::
    If a mismatch between the source (your study) and IDEAL formats occurs, the patient bulk import to IDEAL will fail.
+
+.. warning::
+   Every time a new study is created, the source will reset to the default mentioned above. Therefore, every time a new study is created, the Study data format will have to be specified.
 
 Import study patients
 ***********************
