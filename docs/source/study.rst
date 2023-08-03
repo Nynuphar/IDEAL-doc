@@ -9,15 +9,16 @@ To create a new study, select "**Studies**" on the sidebar navigation, and then 
 Here you can name your study, select an acronym and add a short description for your study.
 
 .. note::
-   The items detailed with "*" are mandatory when creating a study.
+   The items detailed with "*****" are mandatory when creating a study.
 
 A test study named "Test01" was created here as an example, as shown below.
 
 .. image:: StudyTestCreated.png
    :width: 600
 
-"**Authorized users**", who will be able to edit and manage patients from a study, but will not be able to edit the study.
-"**Local responsible operators**", who will be able to manage users and edit the study.  "**Local responsible operators**" can also manage patients.
+Please select the:
+   * "**Authorized users**", who will be able to edit and manage patients from a study, but will not be able to edit the study.
+   * "**Local responsible operators**", who will be able to manage users and edit the study.  "**Local responsible operators**" can also manage patients.
 
 .. image:: UsersStudySelect.png
 
@@ -28,32 +29,28 @@ You can now click to save and create your study. Your study can now be seen in t
 
 .. image:: WaitForSuperuser.png
 
+Now, your study needs to be approved by the Superuser. Check the next section to understand how to *Approve a new study*.
+
 Approve a new study
 ********************
 
-Now, your study needs to be approved by the Superuser.
-
 When logged in as Superuser, you will find the study to be approved in your "**Dashboard**":
 
-.. image:: StudyApprovalSuperuser
+.. image:: StudyApprovalSuperuser.png
 
 Click on the "**✓**" to approve the study.
 
 .. warning:: Only the IDEAL Superuser can approve the study. Until then, it is not possible to either import or add patients to the study.
 
- 
+ Now your study has been approved.
 
-You can check your study details here
-
-
-
-
+Edit a study
+********************
 
 Define study details (file specs)
 ***********************************
 
-Edit a study
-********************
+
 
 Import study patients
 ***********************
