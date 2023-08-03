@@ -47,6 +47,13 @@ Click on the "**✓**" to approve the study.
 Edit a study
 ********************
 
+If you are an IDEAL Manager or Superuser (see :doc:`users` for more information about IDEAL users and their rights and permissions), you have the right to edit a study by selecting this icon, on your "**Dashboard**" or "**Studies**">"**Create Study**":
+
+.. image:: EditUser.png
+
+.. warning::
+   Any change on a Study will require re-approval from a Superuser.
+
 Define study details (file specs)
 ***********************************
 
