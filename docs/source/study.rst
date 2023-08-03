@@ -93,7 +93,11 @@ Here you will have access to the "**Study metadata**" and "**My Study Data Forma
 .. warning::
    To bulk import patients, IDEAL only supports .CSV files at the moment. Most programs (for example MS EXCEL) supports  conversion into .CSV.
 
-Let's take this dummy file as an example: it contains the information of 3 "patients". This is a CSV file with the follwing columns:
+Let's take this dummy file as an example: 
+
+.. image:: PatientsFake.png
+
+It contains the information of 3 "patients". This is a CSV file with the follwing columns:
 
    * StudyPatientID: patient identification number
    * FirstName: first name of the patient
@@ -102,9 +106,6 @@ Let's take this dummy file as an example: it contains the information of 3 "pati
    * Gender: gender
    * DOE: date of enrollment
    * E: whether the patient is enrolled 
-
-
-.. image:: PatientsFake.png
 
 .. warning::
     Disclaimer: these "patients" are fake "patients", who were created to explain this section and are not enrolled, as far as we know, in any kind of real study.
