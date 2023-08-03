@@ -88,10 +88,10 @@ Before importing the patients of your study, you need to check the study details
 .. image:: IconsStudyDetails.png
 
 
-Here you will have access to the "**Study metadata**" and "**My Study Data Format**". This last section is especially important before bulk import of the patient data from your study, as it allows to match the format of your study data (column names, date format, etc) to the format IDEAL "expects". The format of your data will be "**SOURCE**" and what IDEAL "expects" would be "*IDEAL REPRESENTATION**". 
+Here you will have access to the "**Study metadata**" and "**My Study Data Format**". This last section is especially important before bulk import of the patient data from your study, as it allows to match the format of your study data (column names, date format, etc) to the format IDEAL "expects". The format of your data will be "**Source**" and what IDEAL "expects" would be "*IDEAL representation**". 
 
 .. warning::
-   To bulk import patients, IDEAL only supports .CSV files at the moment. Most programs (for example MS EXCEL) supports  conversion into .CSV.
+   To bulk import patients, IDEAL only supports .CSV files at the moment. Most programs (for example MS Excel) supports  conversion into .CSV.
 
 Let's take this dummy file as an example: 
 
