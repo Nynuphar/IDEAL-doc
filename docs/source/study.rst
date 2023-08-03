@@ -19,6 +19,7 @@ A test study named "Test01" was created here as an example, as shown below.
 
 
 Please select the:
+
    * "**Authorized users**", who will be able to edit and manage patients from a study, but will not be able to edit the study.
    * "**Local responsible operators**", who will be able to manage users and edit the study.  "**Local responsible operators**" can also manage patients.
 
@@ -79,7 +80,7 @@ Before importing the patients of your study, you need to check the study details
 Here you will have access to the "**Study metadata**" and "**My Study Data Format**". This last section is especially important before bulk import of the patient data from your study, as it allows to match the format of your study data (column names, date format, etc) to the format IDEAL "expects". The format of your data will be "**SOURCE**" and what IDEAL "expects" would be "*IDEAL REPRESENTATION**". 
 
 .. warning::
-   To bulk import patients, IDEAL only supports .CSV documents at the moment. Most programs (for example MS EXCEL) supports  conversion into .CSV.
+   To bulk import patients, IDEAL only supports .CSV files at the moment. Most programs (for example MS EXCEL) supports  conversion into .CSV.
 
 Let's take this dummy file as an example: it contains the information of 3 "patients". This is a CSV file with the follwing columns:
 
@@ -118,16 +119,18 @@ Let's go step by step, taking the above data as example. In IDEAL, in the "**My 
       * date_of_enrollment
       * enrolled
 
-After the updates mentioned above, IDEAL looks like this:
+After the updates mentioned above, "**My Study Data Format**" looks like this:
 
 .. image:: StudyDetails1.png
 .. image:: StudyDetails2.png
 
-   
+Your study format has been set and you can "**Save**".
 
+.. note::
+   You will need to specify the study format before importing the patient data. You can also format your data to match the default IDEAL.
 
-
-
+.. warning::
+   If a mismatch between the source (your study) and IDEAL formats occurs, the patient bulk import to IDEAL will fail.
 
 Import study patients
 ***********************
