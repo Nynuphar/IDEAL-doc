@@ -149,3 +149,9 @@ Your study format has been set and you can "**Save**".
 
 Import study patients
 ***********************
+
+To import a new study, select "**Import**" in the "**Patients**" area:
+
+.. image:: ImportStudy.png
+
+
