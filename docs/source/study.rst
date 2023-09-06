@@ -155,3 +155,4 @@ To import a new study, select "**Import**" in the "**Patients**" area:
 .. image:: ImportStudy.png
 
 
+.. image:: PatientsFake.png
