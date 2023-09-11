@@ -147,11 +147,14 @@ Your study format has been set and you can "**Save**".
 .. warning::
    Every time a new study is created, the source will reset to the default mentioned above. Therefore, every time a new study is created, the Study data format will have to be specified.
 
-Import study patients
-***********************
+Import study patients (bulk import from CSV file)
+***************************************************************
 
 To import a new study, select "**Import**" in the "**Patients**" area:
 
 .. image:: ImportStudy.png
 
+Here, select the study you want to import patients to and select the CSV file which contains the Study patients.
 
+..warning::
+   Confirm the format and the name of your columns matches the format expected by IDEAL!
