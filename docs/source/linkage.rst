@@ -12,6 +12,14 @@ Here for example, 100 patients were imported and from these, 80 had an immediate
 
 "Similar pairs" likely have some similarity conflicts, but were still close enough to be considered a match.
 
+In the "**Patients**" section, under "**Patients list**" you can observe which patients were automatically linked and matched to a patient in the hospital database.
+
+..image::LinkOverview.png
+
+In the above figure, you can see the 10 first patients which were linked  TJP100 and the 
+
+When navigating 
+
 See some examples of these "similar pairs" below:
 
 In this case, this patient has been recorded in the hospital database with two first names "Donald Timothy", while in the study he was introduced as only "Timothy".
