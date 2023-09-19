@@ -1,5 +1,5 @@
-Patients
-#####################
+IDEAL linkage study - hospital
+################################
 
 Linkage
 *********
@@ -26,11 +26,10 @@ When hovering over the different icons on the right, you can see different funct
 ..image::Icons.png
 
 ..note::
-  For a linked patient, the icon "**Link patient**" will be displayed in gray, while a non-linked patient will be displayed in white.  
+  For a linked patient, the icon "**Link patient**" will be displayed in gray, while a non-linked patient will be displayed in white.
 
-
-
-
+Linkage examples
+******************
 
 In this case, this patient has been recorded in the hospital database with two first names "Donald Timothy", while in the study he was introduced as only "Timothy".
 
@@ -38,12 +37,12 @@ In this case, this patient has been recorded in the hospital database with two f
 
 However, because the rest of the information (surname, date of birth) is the same, the similarity is good enough for IDEAL to link them as a pair.
 
-Similarly in the case of 
+Similarly in the case below, the patient "Jennyfer Vengerberg" had been recorded as only "Jen" instead of "Jennyfer" in the study. As the rest of the information is the same, this patient was still correctly linked.
 
+..image::Jen.png
 
-..note::
-  To check the 
-
+Edit a patient from the study
+*******************************
 
 
 
