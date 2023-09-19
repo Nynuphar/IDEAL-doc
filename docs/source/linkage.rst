@@ -14,6 +14,22 @@ Here for example, 100 patients were imported and from these, 80 had an immediate
 
 We will look at some examples of "similar pairs" below, but first let's navigate to our study and have an overview of the patients.
 
+Study overview after patient import and linkage
+******************************************************
+
+By navigating to the area "**Patients**" and then to "**Patients List**", you can see here the patients which were imported to your study (in my case the study TJP100).
+
+.. image::LinkOverview.png
+
+When hovering over the different icons on the right, you can see different functions - see below.
+
+..image::Icons.png
+
+..note::
+  For a linked patient, the icon "**Link patient**" will be displayed in gray, while a non-linked patient will be displayed in white.  
+
+
+
 
 
 In this case, this patient has been recorded in the hospital database with two first names "Donald Timothy", while in the study he was introduced as only "Timothy".
