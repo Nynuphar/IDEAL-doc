@@ -33,13 +33,13 @@ Linkage examples
 
 In this case, this patient has been recorded in the hospital database with two first names "Donald Timothy", while in the study he was introduced as only "Timothy".
 
-.. image::Duck.png
+.. image:: Duck.png
 
 However, because the rest of the information (surname, date of birth) is the same, the similarity is good enough for IDEAL to link them as a pair.
 
 Similarly in the case below, the patient "Jennyfer Vengerberg" had been recorded as only "Jen" instead of "Jennyfer" in the study. As the rest of the information is the same, this patient was still correctly linked.
 
-..image::Jen.png
+..image:: Jen.png
 
 Edit a patient from the study
 *******************************
