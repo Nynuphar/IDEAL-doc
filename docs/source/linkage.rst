@@ -12,7 +12,10 @@ Here for example, 100 patients were imported and from these, 80 had an immediate
 
 "Similar pairs" likely have some similarity conflicts, but were still close enough to be considered a match.
 
-See some of the examples below:
+See some of the linkage examples below:
+
+In this case, you can see the records in the hospital database list a patient with two first names "Donald Timothy", while in the study only "Timothy" was used as first name.
+
 
 
 
