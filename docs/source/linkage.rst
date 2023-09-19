@@ -44,6 +44,7 @@ Similarly in the case below, the patient "Jennyfer Vengerberg" had been recorded
 Edit a patient from the study
 *******************************
 
+Sometimes
 
 
 PPRL - Privacy Preserving Record Linkage
