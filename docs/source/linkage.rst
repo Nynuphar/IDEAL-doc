@@ -6,7 +6,7 @@ Linkage
 
 After bulk import of your study patients (see :doc:`study`), IDEAL will automatically link the patients from your study with the patients from the hospital.
 
-.. image::Linkage.png
+.. image:: Linkage.png
 
 Here for example, 100 patients were imported and from these, 80 had an immediate match with the hospital patients, while 14 "similar pairs" were linked.
 
@@ -19,11 +19,11 @@ Study overview after patient import and linkage
 
 By navigating to the area "**Patients**" and then to "**Patients List**", you can see here the patients which were imported to your study (in my case the study TJP100).
 
-.. image::LinkOverview.png
+.. image:: LinkOverview.png
 
 When hovering over the different icons on the right, you can see different functions - see below.
 
-..image::Icons.png
+..image:: Icons.png
 
 ..note::
   For a linked patient, the icon "**Link patient**" will be displayed in gray, while a non-linked patient will be displayed in white.
