@@ -12,7 +12,20 @@ Here for example, 100 patients were imported and from these, 80 had an immediate
 
 "Similar pairs" likely have some similarity conflicts, but were still close enough to be considered a match.
 
-See some of the examples below:
+See some examples of these "similar pairs" below:
+
+In this case, this patient has been recorded in the hospital database with two first names "Donald Timothy", while in the study he was introduced as only "Timothy".
+
+.. image::Duck.png
+
+However, because the rest of the information (surname, date of birth) is the same, the similarity is good enough for IDEAL to link them as a pair.
+
+Similarly in the case of 
+
+
+..note::
+  To check the 
+
 
 
 
