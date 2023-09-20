@@ -67,7 +67,21 @@ In my case, there were 5 patients which were not linked to the hospital database
 
 .. image:: Unlinked2.png
 
-when patient don't exist in the hospital
+As this is dummy data which I have prepared, I know that the 3 first patients (Sonnie Dunlap, Annie Pennigton and Athena Hibbert) are not patients at this hospital, and therefore cannot be linked by IDEAL.
+
+Let's look at the other examples. First click on the "Link patient" icon in front of the name you want. Let's start with Geralt Whitewolf:
+
+.. image:: G1.png
+
+Then you can search on the "**Carecenter Patient**":
+
+.. image:: G2.png
+
+Indeed there is a patient called "Geralt Whitewolf", which could be the right patient. Select this patient and then select "**Choose patient**". The following window is displayed, showing the information in the Hospital database on the left and the information in the Study on the right:
+
+.. image:: G3.png
+
+As you can see in the figure, the date of birth and the Gender is different in both databases, so despite having the same name, these patients might not be the same person. In this case, I would mot "**Confirm**" and linked them.
 
 Edit a patient from the study
 *******************************
@@ -93,7 +107,7 @@ And make your changes as shown below as well (in the Study table, and don't forg
 
 .. note:: Note how Elsie-Mae Gardiner still got linked by IDEAL despite the small change in the year of birth (all the other information was the same)!
 
-.. warning:: Before update any patient information make sure that this information is correct!
+.. warning:: Before updating any patient information make sure that this information is correct!
 
 
 Add patient to study
