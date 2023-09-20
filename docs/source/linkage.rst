@@ -30,7 +30,7 @@ When hovering over the different icons on the right, you can see different funct
 
 
 .. image:: Icons.png
-
+   :width: 400 
 
 ..note::
   For a linked patient, the icon "**Link patient**" will be displayed in gray, while a non-linked patient will be displayed in white.
@@ -55,7 +55,14 @@ Similarly in the case below, the patient "Jennyfer Vengerberg" had been recorded
 Edit a patient from the study
 *******************************
 
-Sometimes
+Sometimes errors might be introduced when creating the CSV file with the Study patients. This is the case of the example below:
+
+.. image:: WrongDOB.png
+
+This dummy patient called Elsie-Mae Gardiner had the wrong year of birth on the Study file (1931 instead of 1930).
+
+note: still go tlinked
+warning: you need to be sure this is correct
 
 
 PPRL - Privacy Preserving Record Linkage
