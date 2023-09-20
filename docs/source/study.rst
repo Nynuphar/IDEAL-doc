@@ -79,7 +79,7 @@ If you are an IDEAL **Manager** or **Superuser** (see :doc:`users` for more info
 .. note::
    Hovering with the mouse over the icons will show you their functions.
 
-Define data format of a study
+Define the data format of a study
 ***********************************
 
 Before importing the patients of your study, you need to check the study details. For this click on the *eye* icon on the bar:
@@ -95,7 +95,9 @@ Here you will have access to the "**Study metadata**" and "**My Study Data Forma
 
 Let's take this dummy file as an example: 
 
+
 .. image:: PatientsFake.png
+
 
 It contains the information of 3 "patients". This is a CSV file with the follwing columns:
 
@@ -133,8 +135,10 @@ Let's go step by step, taking the above data as example. In IDEAL, in the "**My 
 
 After the updates mentioned above, "**My Study Data Format**" looks like this:
 
+
 .. image:: StudyDetails1.png
 .. image:: StudyDetails2.png
+
 
 Your study format has been set and you can "**Save**".
 
@@ -152,7 +156,9 @@ Import study patients (bulk import from CSV file)
 
 To import a new study, select "**Import**" in the "**Patients**" area:
 
+
 .. image:: ImportStudy.png
+
 
 Here, select the study you want to import patients to and select the CSV file which contains the Study patients.
 
