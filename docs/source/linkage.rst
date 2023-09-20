@@ -19,6 +19,9 @@ We will look at some examples of "similar pairs" below, but first let's navigate
 ..warning::
   If you get an error message when importing your patients to a study, please check either this section :doc:`trouble` or this :doc:`study`.
 
+..note::
+  The linkage in IDEAL works by using an alghoritm to calculate the similarities between the patient information between the Study CSV and the Hospital. The more information provided, the more information to compare and the more accurate will it be!
+
 Study overview after patient import and linkage
 ******************************************************
 
@@ -55,18 +58,28 @@ Similarly in the case below, the patient "Jennyfer Vengerberg" had been recorded
 Edit a patient from the study
 *******************************
 
-Sometimes errors might be introduced when creating the CSV file with the Study patients. This is the case of the example below:
+Sometimes errors might be introduced when creating the CSV file with the Study patients. This is the case of the example below: 
+
 
 .. image:: WrongDOB.png
 
-This dummy patient called Elsie-Mae Gardiner had the wrong year of birth on the Study file (1931 instead of 1930).
 
-note: still go tlinked
-warning: you need to be sure this is correct
+This dummy patient called Elsie-Mae Gardiner had the wrong year of birth on the study file (1931 instead of 1930). 
+In order to update the Study details, you can navigate to "**Patients**" and then to "**Patients List**". Here you can use this icon in the same row as the patient you want to edit, as shown below:
 
 
-PPRL - Privacy Preserving Record Linkage
-*********************************************
+.. image:: EditPatientIcon.png
+
+
+And make your changes as shown below as well (in the Study table, and don't forget to **save**):
+
+
+.. image:: EditPatient.png
+
+
+.. note:: Note how Elsie-Mae Gardiner still got linked by IDEAL despite the small change in the year of birth (all the other information was the same)!
+
+.. warning:: Before update any patient information make sure that this information is correct!
 
 
 Add patient to study
