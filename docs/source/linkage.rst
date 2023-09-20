@@ -38,8 +38,8 @@ When hovering over the different icons on the right, you can see different funct
 ..note::
   For a linked patient, the icon "**Link patient**" will be displayed in gray, while a non-linked patient will be displayed in white.
 
-Linkage examples
-******************
+Examples of linkage of "similar pairs"
+******************************************
 
 In this case, this patient has been recorded in the hospital database with two first names "Donald Timothy", while in the study he was introduced as only "Timothy".
 
@@ -54,6 +54,15 @@ Similarly in the case below, the patient "Jennyfer Vengerberg" had been recorded
 
 .. image:: Jen.png
 
+
+Examples of no linkage 
+*******************************
+
+After bulk import of study patients, you can check the patients which were not linked by navigating from "**Patients**" and then to "**Patients List**", and selecting here "**Unlinked**" in the dropdown menu.
+
+
+
+when patient sdon't exist in the hospital
 
 Edit a patient from the study
 *******************************
