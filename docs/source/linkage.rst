@@ -58,11 +58,16 @@ Similarly in the case below, the patient "Jennyfer Vengerberg" had been recorded
 Examples of no linkage 
 *******************************
 
-After bulk import of study patients, you can check the patients which were not linked by navigating from "**Patients**" and then to "**Patients List**", and selecting here "**Unlinked**" in the dropdown menu.
+After bulk import of study patients, you can check the patients which were not linked by navigating from "**Patients**" and then to "**Patients List**", and selecting here "**Unlinked**" in the dropdown menu, as shown below:
 
 
+.. image:: Unlinked.png
 
-when patient sdon't exist in the hospital
+In my case, there were 5 patients which were not linked to the hospital database.
+
+.. image:: Unlinked2.png
+
+when patient don't exist in the hospital
 
 Edit a patient from the study
 *******************************
@@ -94,6 +99,3 @@ And make your changes as shown below as well (in the Study table, and don't forg
 Add patient to study
 ***************************
 
-
-Edit patient from study
-***************************
