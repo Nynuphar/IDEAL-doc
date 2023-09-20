@@ -76,6 +76,12 @@ This area explains how to export files.
 
    export
 
+IDEAL troubleshooting
+************************
 
+.. toctree::
+   :maxdepth: 1
+
+   trouble
 
 
