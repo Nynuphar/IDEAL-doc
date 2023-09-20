@@ -29,7 +29,7 @@ By navigating to the area "**Patients**" and then to "**Patients List**", you ca
 When hovering over the different icons on the right, you can see different functions - see below.
 
 
-..image:: Icons.png
+.. image:: Icons.png
 
 
 ..note::
@@ -49,7 +49,7 @@ However, because the rest of the information (surname, date of birth) is the sam
 Similarly in the case below, the patient "Jennyfer Vengerberg" had been recorded as only "Jen" instead of "Jennyfer" in the study. As the rest of the information is the same, this patient was still correctly linked.
 
 
-..image:: Jen.png
+.. image:: Jen.png
 
 
 Edit a patient from the study
