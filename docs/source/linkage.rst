@@ -16,10 +16,10 @@ Here for example, 100 patients were imported and from these, 80 had an immediate
 
 We will look at some examples of "similar pairs" below, but first let's navigate to our study and have an overview of the patients.
 
-..warning::
+.. warning::
   If you get an error message when importing your patients to a study, please check either this section :doc:`trouble` or this :doc:`study`.
 
-..note::
+.. note::
   The linkage in IDEAL works by using an alghoritm to calculate the similarities between the patient information between the Study CSV and the Hospital. The more information provided, the more information to compare and the more accurate will it be!
 
 Study overview after patient import and linkage
