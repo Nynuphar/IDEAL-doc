@@ -15,8 +15,16 @@ IDEAL has different users, who have different permissions, and consequentently a
 .. note::
    This project is under active development.
 
+IDEAL documentation index
+*******************************
+
+.. toctree::
+   :maxdepth: 1
+
+   index
+
 IDEAL interface - an overview
-******************************
+*******************************
 
 This section provides an overview of IDEAL interface, so it is easier to understand how IDEAL is organized.
 
