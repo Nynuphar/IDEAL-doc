@@ -22,6 +22,7 @@ We will look at some examples of "similar pairs" below, but first let's navigate
 .. note::
   The linkage in IDEAL works by using an alghoritm to calculate the similarities between the patient information between the Study CSV and the Hospital. The more information provided, the more information to compare and the more accurate will it be!
 
+
 Study overview after patient import and linkage
 ******************************************************
 
@@ -35,8 +36,9 @@ When hovering over the different icons on the right, you can see different funct
 .. image:: Icons.png
    :width: 400 
 
-..note::
-  For a linked patient, the icon "**Link patient**" will be displayed in gray, while a non-linked patient will be displayed in white.
+.. note::
+   For a linked patient, the icon "**Link patient**" will be displayed in gray, while a non-linked patient will be displayed in white.
+
 
 Examples of linkage of "similar pairs"
 ******************************************
@@ -63,15 +65,20 @@ After bulk import of study patients, you can check the patients which were not l
 
 .. image:: Unlinked.png
 
+
 In my case, there were 5 patients which were not linked to the hospital database.
 
+
 .. image:: Unlinked2.png
+
 
 As this is dummy data which I have prepared, I know that the 3 first patients (Sonnie Dunlap, Annie Pennigton and Athena Hibbert) are not patients at this hospital, and therefore cannot be linked by IDEAL.
 
 Let's look at the other examples. First click on the "Link patient" icon in front of the name you want. Let's start with Geralt Whitewolf:
 
+
 .. image:: G1.png
+
 
 Then you can search on the "**Carecenter Patient**":
 
@@ -79,9 +86,12 @@ Then you can search on the "**Carecenter Patient**":
 
 Indeed there is a patient called "Geralt Whitewolf", which could be the right patient. Select this patient and then select "**Choose patient**". The following window is displayed, showing the information in the Hospital database on the left and the information in the Study on the right:
 
+
 .. image:: G3.png
 
-As you can see in the figure, the date of birth and the Gender is different in both databases, so despite having the same name, these patients might not be the same person. In this case, I would mot "**Confirm**" and linked them.
+
+As you can see in the figure, the date of birth and the Gender is different in both databases, so despite having the same name, these patients might not be the same person. In this case, I would consider these Geralt Whitewolf to be different people and would not "**Confirm**" and linked them.
+
 
 Edit a patient from the study
 *******************************
@@ -105,11 +115,22 @@ And make your changes as shown below as well (in the Study table, and don't forg
 .. image:: EditPatient.png
 
 
-.. note:: Note how Elsie-Mae Gardiner still got linked by IDEAL despite the small change in the year of birth (all the other information was the same)!
+.. note::
+   Note how Elsie-Mae Gardiner still got linked by IDEAL despite the small change in the year of birth (all the other information was the same)!
 
-.. warning:: Before updating any patient information make sure that this information is correct!
+.. warning:: 
+   Before updating any patient information make sure that this information is correct!
 
 
-Add patient to study
-***************************
+Add a patient to a running study
+**************************************
+
+Now let's try to add a new patient to a already running study (TJP100). You can do this by adding these patients manually be searching on the hospital database.
+
+For this, please navigate
+
+
+.. image:: Pklee.png
+
+.. warning:: connected to hospital database and neds to be regularly updated
 
