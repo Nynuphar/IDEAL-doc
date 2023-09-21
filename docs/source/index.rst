@@ -54,8 +54,8 @@ This section explains how to create, modify and import patients to a new study.
 
    study
 
-IDEAL linkage study - hospital
-**********************************
+Managing the linkage between study and hospital
+**************************************************
 
 This area explains how to inspect the linkage after importing study patients.
 
