@@ -143,7 +143,7 @@ When selecting "Paul Klee" (just by right clicking on it), the patient informati
 .. image:: PKlee2.png
 
 
-Here you will have to select the "Study" to which you'll be adding this patient, and the "Study Patient ID". 
+Here you will have to select the "**Study**" to which you'll be adding this patient, and the "**Study Patient ID**". 
 
-Then by scrolling to the bottom of the page, select "Save" and the patient is added to the study and will appear in the "Patients List".
+Then by scrolling to the bottom of the page, select "**Save**" and the patient is added to the study and will appear in the "**Patients List**".
 
