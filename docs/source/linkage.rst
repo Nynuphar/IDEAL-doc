@@ -1,5 +1,5 @@
-IDEAL linkage study - hospital
-################################
+Managing the linkage between study and hospital
+################################################
 
 Linkage
 *********
@@ -127,10 +127,23 @@ Add a patient to a running study
 
 Now let's try to add a new patient to a already running study (TJP100). You can do this by adding these patients manually be searching on the hospital database.
 
-For this, please navigate
+For this, please navigate to "**Patients**", and then to "**Create patient**". 
+
+Here, search the patient you want to add in "**Carecenter Patient**", as shown below for the patient "Paul Klee".
 
 
 .. image:: Pklee.png
 
-.. warning:: connected to hospital database and neds to be regularly updated
+.. note:: In this search area, you have access to the patients in the Hospital. In order to search for these patients, IDEAL has to be connected to the Hospital database and needs to be regularly updated.
+
+
+When selecting "Paul Klee" (just by right clicking on it), the patient information available in the hospital database will be automatically "added" to the "Study patient" field, as shown below.
+
+
+.. image:: Pklee2.png
+
+
+Here you will have to select the "Study" to which you'll be adding this patient, and the "Study Patient ID". 
+
+Then by scrolling to the bottom of the page, select "Save" and the patient is added to the study and will appear in the "Patients List".
 
