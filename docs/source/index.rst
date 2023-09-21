@@ -15,10 +15,6 @@ IDEAL has different users, who have different permissions, and consequentently a
 .. note::
    This project is under active development.
 
-IDEAL documentation index
-*******************************
-
-   index
 
 IDEAL interface - an overview
 *******************************
