@@ -18,9 +18,6 @@ IDEAL has different users, who have different permissions, and consequentently a
 IDEAL documentation index
 *******************************
 
-.. toctree::
-   :maxdepth: 1
-
    index
 
 IDEAL interface - an overview
