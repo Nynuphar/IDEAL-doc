@@ -132,7 +132,7 @@ For this, please navigate to "**Patients**", and then to "**Create patient**".
 Here, search the patient you want to add in "**Carecenter Patient**", as shown below for the patient "Paul Klee".
 
 
-.. image:: Pklee.png
+.. image:: PKlee.png
 
 .. note:: In this search area, you have access to the patients in the Hospital. In order to search for these patients, IDEAL has to be connected to the Hospital database and needs to be regularly updated.
 
@@ -140,7 +140,7 @@ Here, search the patient you want to add in "**Carecenter Patient**", as shown b
 When selecting "Paul Klee" (just by right clicking on it), the patient information available in the hospital database will be automatically "added" to the "Study patient" field, as shown below.
 
 
-.. image:: Pklee2.png
+.. image:: PKlee2.png
 
 
 Here you will have to select the "Study" to which you'll be adding this patient, and the "Study Patient ID". 
