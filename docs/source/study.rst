@@ -8,8 +8,7 @@ To create a new study, select "**Studies**" on the sidebar navigation, and then 
 
 Here you can name your study, select an acronym and add a short description for your study.
 
-.. note::
-   The items detailed with "*****" are mandatory when creating a study.
+.. note:: The items detailed with "*****" are mandatory when creating a study.
 
 A test study named "Test01" was created here as an example, as shown below.
 
@@ -51,7 +50,7 @@ Click on the "**✓**" to approve the study.
 
 .. warning:: Only the IDEAL Superuser can approve the study. Until then, it is not possible to either import or add patients to the study.
 
- Now your study has been approved.
+Now your study has been approved.
 
 Delete a study
 ********************
@@ -76,8 +75,7 @@ If you are an IDEAL **Manager** or **Superuser** (see :doc:`users` for more info
 .. warning::
    Any change on a Study will require re-approval from a Superuser.
 
-.. note::
-   Hovering with the mouse over the icons will show you their functions.
+.. note:: Hovering with the mouse over the icons will show you their functions.
 
 Define the data format of a study
 ***********************************
@@ -90,8 +88,7 @@ Before importing the patients of your study, you need to check the study details
 
 Here you will have access to the "**Study metadata**" and "**My Study Data Format**". This last section is especially important before bulk import of the patient data from your study, as it allows to match the format of your study data (column names, date format, etc) to the format IDEAL "expects". The format of your data will be "**Source**" and what IDEAL "expects" would be "*IDEAL representation**". 
 
-.. warning::
-   To bulk import patients, IDEAL only supports .CSV files at the moment. Most programs (for example MS Excel) supports  conversion into .CSV.
+.. warning:: To bulk import patients, IDEAL only supports .CSV files at the moment. Most programs (for example MS Excel) supports  conversion into .CSV.
 
 Let's take this dummy file as an example: 
 
@@ -109,8 +106,7 @@ It contains the information of 3 "patients". This is a CSV file with the follwin
    * DOE: date of enrollment
    * E: whether the patient is enrolled 
 
-.. warning::
-    Disclaimer: these "patients" are fake "patients", who were created to explain this section and are not enrolled, as far as we know, in any kind of real study.
+.. warning:: Disclaimer: these "patients" are fake "patients", who were created to explain this section and are not enrolled, as far as we know, in any kind of real study.
 
 Let's go step by step, taking the above data as example. In IDEAL, in the "**My Study Data Format**", you can see the following fields:
 
@@ -142,14 +138,11 @@ After the updates mentioned above, "**My Study Data Format**" looks like this:
 
 Your study format has been set and you can "**Save**".
 
-.. note::
-   You will need to specify the study format before importing the patient data. You can also format your data to match the default IDEAL.
+.. note:: You will need to specify the study format before importing the patient data. You can also format your data to match the default IDEAL.
 
-.. warning::
-   If a mismatch between the source (your study) and IDEAL formats occurs, the patient bulk import to IDEAL will fail.
+.. warning:: If a mismatch between the source (your study) and IDEAL formats occurs, the patient bulk import to IDEAL will fail.
 
-.. warning::
-   Every time a new study is created, the source will reset to the default mentioned above. Therefore, every time a new study is created, the Study data format will have to be specified.
+.. warning:: Every time a new study is created, the source will reset to the default mentioned above. Therefore, every time a new study is created, the Study data format will have to be specified.
 
 Import study patients (bulk import from CSV file)
 ***************************************************************
@@ -162,5 +155,8 @@ To import a new study, select "**Import**" in the "**Patients**" area:
 
 Here, select the study you want to import patients to and select the CSV file which contains the Study patients.
 
-..warning::
-   Confirm the format and the name of your columns matches the format expected by IDEAL!
+Your Study patients will be automatically linked and matched to the Hospital database!
+
+Check the section 
+
+.. warning:: Confirm the format and the name of your columns matches the format expected by IDEAL!
