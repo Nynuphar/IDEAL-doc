@@ -1,5 +1,5 @@
-Managing the linkage between study and hospital
-################################################
+Study overview after patient import and IDEAL linkage
+#######################################################
 
 Linkage
 *********
@@ -21,7 +21,7 @@ We will look at some examples of "similar pairs" below, but first let's navigate
 .. note:: The linkage in IDEAL works by using an alghoritm to calculate the similarities between the patient information between the Study CSV and the Hospital. The more information provided, the more information to compare and the more accurate will it be!
 
 
-Study overview after patient import and linkage
+Study overview after linkage
 ******************************************************
 
 By navigating to the area "**Patients**" and then to "**Patients List**", you can see here the patients which were imported to your study (in my case the study TJP100).
