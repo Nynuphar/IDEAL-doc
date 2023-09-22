@@ -47,8 +47,8 @@ This section explains how to create, modify and import patients to a new study.
 
    study
 
-Managing the linkage between study and hospital
-**************************************************
+Study overview after patient import and IDEAL linkage
+*********************************************************
 
 This area explains how to inspect the linkage after importing study patients.
 
@@ -56,16 +56,6 @@ This area explains how to inspect the linkage after importing study patients.
    :maxdepth: 1
 
    linkage
-
-Carecenter area
-*****************
-
-This section explains how to check patients from the hospital and for example add a new carecenter patient to a study.
-
-.. toctree::
-   :maxdepth: 1
-
-   carecenter
 
 File export
 **************
