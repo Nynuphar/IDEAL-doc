@@ -3,12 +3,10 @@ Overview of the IDEAL interface
 
 This section explains the different sections of IDEAL.
 
-.. note:: Different interfaces will be displayed for different users.
+.. note:: Different users have different interfaces. See below for more information about the different interfaces.
 
 Dashboard
 ***********
-
-This shows the studies to which the user is part of.
 
 As **IDEAL Manager** and **IDEAL User**, it gives a quick peak into your studies and the patients who belong to these studies.
 
@@ -46,6 +44,6 @@ Only the **Superuser** has access to this section. Here you can see the list of 
 System settings
 *****************
 
-The **Superuser** can specify multiple settings in this section including among others: similarity threshold for auto-linking, connection with NIDC and Carecenter Data Format.
+Only the **Superuser** has access to this section. The **Superuser** can specify multiple settings in this section including among others: similarity threshold for auto-linking, connection with NIDC and Carecenter Data Format.
 
 
