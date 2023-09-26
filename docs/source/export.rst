@@ -11,7 +11,12 @@ There are 3 types of log files which can be exported (an example of each file is
 
 1) Export subject identification log
 
-
-
+.. image:: SubjectIdentification.png
+   
 2) Export screening log
+
+.. image:: ScreeningLog.png
+
 3) Export subject linking log
+
+.. image:: SubjectLinkingLog.png
