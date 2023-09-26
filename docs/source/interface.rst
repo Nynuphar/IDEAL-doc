@@ -3,14 +3,14 @@ Overview of the IDEAL interface
 
 This section explains the different sections of IDEAL.
 
-.. note:: Different interfaces will be displayed depending on the user.
+.. note:: Different interfaces will be displayed for different users.
 
 Dashboard
 ***********
 
 This shows the studies to which the user is part of.
 
-As **IDEAL Manager** and **IDEAL User**, it gives a quick peak into the studies you can see and the patients who belong to these studies.
+As **IDEAL Manager** and **IDEAL User**, it gives a quick peak into your studies and the patients who belong to these studies.
 
 As **IDEAL Superuser**, it gives an overview of the different studies and users you are managing. It is also a quick way to check if there is any new study which needs your approval.
 
@@ -32,6 +32,11 @@ Patients
 Only the **Manager** and **User** have access to this section, which relates with patient management.
 
 Here you can have an overview of the patients who belong to your study (*Patients List*), bulk import patients to your study (*Import*) and manually add a new patient to an ongoing study (*Create patient*).
+
+Appointment
+***********************
+
+This section is only available to the **Manager** and the **User**. Here it is possible to manage Appointments, create single and series appointments (*this section is in construction*).
 
 Users
 *******
