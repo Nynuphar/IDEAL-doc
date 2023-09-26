@@ -42,7 +42,7 @@ Examples of linkage of "similar pairs"
 ******************************************
 
 * Example 1:
--------------
+----------------
 
 In this case, this patient has been recorded in the hospital database with two first names "Donald Timothy", while in the study he was introduced as only "Timothy".
 
@@ -61,7 +61,7 @@ Similarly in the case below, the patient "Jennyfer Vengerberg" had been recorded
 .. image:: Jen.png
 
 * Example 3:
--------------
+----------------
 
 In this case, someone made a mistake while writing the name in the study and wrote "Viri" instead of "Ciri". IDEAL still manages to match this patient to the right patient in the hospital database, as the rest of the information is correct.
 
