@@ -1,9 +1,9 @@
-Overview of IDEAL interface
-###############################
+Overview of the IDEAL interface
+#################################
 
 This section explains the different sections of IDEAL.
 
-..note:: Different interfaces will be displayed depending on the user.
+.. note:: Different interfaces will be displayed depending on the user.
 
 Dashboard
 ***********
