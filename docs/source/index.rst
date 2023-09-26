@@ -37,8 +37,8 @@ This section provides information about the different types of users and respect
 
    users
 
-Patient study area
-********************
+Manage a new study - from creation to bulk import of patients
+********************************************************************************
 
 This section explains how to create, modify and import patients to a new study.
 
