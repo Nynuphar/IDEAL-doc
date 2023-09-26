@@ -9,14 +9,17 @@ To export the log files go to "**Studies**" and then "**Log file export**".
 
 There are 3 types of log files which can be exported (an example of each file is shown below):
 
-1) Export subject identification log
+1) Subject identification log
+*********************************
 
 .. image:: SubjectIdentification.png
    
-2) Export screening log
+2) Screening and enrollment log
+*********************************
 
 .. image:: ScreeningLog.png
 
-3) Export subject linking log
+3) Subject linking log
+***************************
 
 .. image:: SubjectLinkingLog.png
