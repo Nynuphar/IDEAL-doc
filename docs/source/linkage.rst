@@ -41,6 +41,8 @@ When hovering over the different icons on the right, you can see different funct
 Examples of linkage of "similar pairs"
 ******************************************
 
+* Example 1:
+
 In this case, this patient has been recorded in the hospital database with two first names "Donald Timothy", while in the study he was introduced as only "Timothy".
 
 
@@ -49,11 +51,18 @@ In this case, this patient has been recorded in the hospital database with two f
 
 However, because the rest of the information (surname, date of birth) is the same, the similarity is good enough for IDEAL to link them as a pair.
 
+*Example 2:
+
 Similarly in the case below, the patient "Jennyfer Vengerberg" had been recorded as only "Jen" instead of "Jennyfer" in the study. As the rest of the information is the same, this patient was still correctly linked.
 
 
 .. image:: Jen.png
 
+* Example 3:
+
+In this case, someone made a mistake while writing the name in the study and wrote "Viri" instead of "Ciri". IDEAL still manages to match this patient to the right patient in the hospital database, as the rest of the information is correct.
+
+.. image:: Viri.png
 
 Examples of no linkage 
 *******************************
