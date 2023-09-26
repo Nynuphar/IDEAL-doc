@@ -10,7 +10,7 @@ Dashboard
 
 This shows the studies to which the user is part of.
 
-As **IDEAL Manager** or **IDEAL User**, it gives a quick peak into a study.
+As **IDEAL Manager** or **IDEAL User**, it gives a quick peak into the studies you can see and the patients who belong to these studies.
 
 As **IDEAL Superuser**, it gives an overview of the different studies and users you are managing. It is also a quick way to see if there is any new study which needs your approval.
 
