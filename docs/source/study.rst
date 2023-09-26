@@ -46,11 +46,9 @@ When logged in as Superuser, you will find the study to be approved in your "**D
 .. image:: StudyApprovalSuperuser.png
 
 
-Click on the "**✓**" to approve the study.
+Click on the "**✓**" to approve the study. Your study is then approved.
 
 .. warning:: Only the IDEAL Superuser can approve the study. Until then, it is not possible to either import or add patients to the study.
-
-Now your study has been approved.
 
 Delete a study
 ********************
@@ -86,9 +84,9 @@ Before importing the patients of your study, you need to check the study details
 .. image:: IconsStudyDetails.png
 
 
-Here you will have access to the "**Study metadata**" and "**My Study Data Format**". This last section is especially important before bulk import of the patient data from your study, as it allows to match the format of your study data (column names, date format, etc) to the format IDEAL "expects". The format of your data will be "**Source**" and what IDEAL "expects" would be "*IDEAL representation**". 
+Here you will have access to the "**Study metadata**" and "**My Study Data Format**". This last section is especially important before the bulk import of the patient data from your study, as it allows to match the format of your study data (column names, date format, etc) to the format IDEAL "expects". The format of your data will be "**Source**" and what IDEAL "expects" would be "*IDEAL representation**". 
 
-.. warning:: To bulk import patients, IDEAL only supports .CSV files at the moment. Most programs (for example MS Excel) supports  conversion into .CSV.
+.. warning:: To bulk import patients, IDEAL only supports .CSV files at the moment. Most programs (for example MS Excel) supports conversion into a .CSV format.
 
 Let's take this dummy file as an example: 
 
