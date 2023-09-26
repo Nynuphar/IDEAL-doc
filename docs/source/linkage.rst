@@ -81,7 +81,7 @@ In my case, there were 5 patients which were not linked to the hospital database
 
 As this is dummy data which I have prepared, I know that the 3 first patients (Sonnie Dunlap, Annie Pennigton and Athena Hibbert) are not patients at this hospital, and therefore cannot be linked by IDEAL.
 
-Let's look at the other examples. First click on the "Link patient" icon in front of the name you want. Let's start with Geralt Whitewolf:
+Let's look at the example "Geralt Whitewolf":
 
 
 .. image:: G1.png
@@ -116,7 +116,7 @@ In order to update the Study details, you can navigate to "**Patients**" and the
 .. image:: EditPatientIcon.png
 
 
-And make your changes as shown below as well (in the Study table, and don't forget to **save**):
+And make your changes as shown below as well (in the Study table, and don't forget to **Save**):
 
 
 .. image:: EditPatient.png
@@ -152,7 +152,7 @@ When selecting "Paul Klee" (just by right clicking on it), the patient informati
 .. image:: PKlee2.png
 
 
-Here you will have to select the "**Study**" to which you'll be adding this patient, and the "**Study Patient ID**". 
+Here you will have to select the "**Study**" to which you'll be adding this patient, and add the "**Study Patient ID**". 
 
 Then by scrolling to the bottom of the page, select "**Save**" and the patient is added to the study and will appear in the "**Patients List**".
 
