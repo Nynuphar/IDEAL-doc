@@ -7,7 +7,7 @@ Read more about the `IDEAL project <https://ideal-project.ch/about/>`_ here.
 
 This documentation aims to provide information about the different IDEAL functionalities and equally provide a step-by-step guidance for a new user.
 
-IDEAL has different users, who have different permissions, and consequently also see different IDEAL interfaces. Check out the :doc:`users` section for further information about user permissions.
+IDEAL has different users, who have different permissions, and consequently have different IDEAL interfaces. Check out the :doc:`users` and :doc:`interface` section for further information about user permissions and interfaces.
 
 .. warning::
    Only authorized users will be able to access the IDEAL functionalities.
@@ -19,7 +19,7 @@ IDEAL has different users, who have different permissions, and consequently also
 IDEAL interface - an overview
 *******************************
 
-This section provides an overview of IDEAL interface, so it is easier to understand how IDEAL is organized.
+This section provides an overview of the IDEAL interface, so it is easier to understand how IDEAL is organized.
 
 .. toctree::
    :maxdepth: 1
@@ -50,7 +50,7 @@ This section explains how to create, modify and import patients to a new study.
 Study overview after patient import and IDEAL linkage
 *********************************************************
 
-This area explains how to inspect the linkage after importing study patients.
+This area explains how to inspect the linkage after importing study patients and manage manual addition of patients to a study.
 
 .. toctree::
    :maxdepth: 1
@@ -69,6 +69,8 @@ This area explains how to export files.
 
 IDEAL troubleshooting
 ************************
+
+This area give some tips about trousbleshooting.
 
 .. toctree::
    :maxdepth: 1
