@@ -160,6 +160,3 @@ Here you will have to select the "**Study**" to which you'll be adding this pati
 Then by scrolling to the bottom of the page, select "**Save**" and the patient is added to the study and will appear in the "**Patients List**".
 
 .. warning:: Remember that not all IDEAL users are able to search for patients in the Hospital database. Check more information on :doc:`users`.
-
-
-TEEEEEESSSSSSSTTTTTTTTTT
