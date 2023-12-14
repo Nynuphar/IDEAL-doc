@@ -38,7 +38,7 @@ When hovering over the different icons on the right, you can see different funct
    For a linked patient, the icon "**Link patient**" will be displayed in gray, while a non-linked patient will be displayed in white.
 
 
-Linkage based on a s imilarity score
+Linkage based on similarity score
 ******************************************************
 
 The linkage in IDEAL is performed via a similarity score calculation, calculated by a PPRL algorithm. In simple words, the patient information from the Hospital is compared with the Study list information, and patients are matched if the similiarity score is above 85% (set as default). Because of this, IDEAL allows a small degree os mismatch (see section below).
