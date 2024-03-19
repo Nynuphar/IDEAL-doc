@@ -19,11 +19,6 @@ As **Manager** and **User**, you can visualize the list of studies here (*Studie
 
 As **Superuser**, in this section you can create a new study and see the list of the studies you are managing.
 
-Appointment Schedules
-***********************
-
-This section is only available to the **Manager** and the **User**. Here it is possible to manage Appointment Schedules (*this section is in construction*).
-
 Patients
 *********
 
@@ -31,7 +26,7 @@ Only the **Manager** and **User** have access to this section, which relates wit
 
 Here you can have an overview of the patients who belong to your study (*Patients List*), bulk import patients to your study (*Import*) and manually add a new patient to an ongoing study (*Create patient*).
 
-Appointment
+Appointments
 ***********************
 
 This section is only available to the **Manager** and the **User**. Here it is possible to manage Appointments, create single and series appointments (*this section is in construction*).
