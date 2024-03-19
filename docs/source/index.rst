@@ -67,6 +67,16 @@ This area explains how to export files.
 
    export
 
+Appointments
+**************
+
+This area explains how to create appointment lists and how to create patient appointments.
+
+.. toctree::
+   :maxdepth: 1
+
+   appointments
+
 IDEAL troubleshooting
 ************************
 
