@@ -5,7 +5,7 @@ Currently only an **IDEAL manager** and **IDEAL superuser** can export the log f
 
 To export the log files go to "**Studies**" and then "**Log file export**".
 
-.. note:: files in 2 different formats are generated: .pdf and .csv
+.. note:: Files in 2 different formats are generated: .pdf and .csv
 
 There are 3 types of log files which can be exported (an example of each file is shown below):
 
