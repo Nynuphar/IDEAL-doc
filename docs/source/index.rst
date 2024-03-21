@@ -37,15 +37,25 @@ This section provides information about the different types of users and respect
 
    users
 
-Manage a new study - from creation to bulk import of patients
+Worflow: manage a new study - from creation to bulk import of patients
 ********************************************************************************
 
 This section explains how to create, modify and import patients to a new study.
+
+This would be the situation for an ongoing study, which has been maintained as an Excel list for example, and it is now onboarded on IDEAL.
 
 .. toctree::
    :maxdepth: 1
 
    study
+
+Worflow: manage a new study - by directly adding patients from the hospital database
+**************************************************************************************
+
+This section explains how to create, modify and add patients to a new study.
+
+This would be the situation for newly-started study, in which patients are added directly from the hospital database.
+
 
 Study overview after patient import and IDEAL linkage
 *********************************************************
