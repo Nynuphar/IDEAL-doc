@@ -1,4 +1,4 @@
-Manage a new study - from creation to bulk import of patients
+Workflow: manage a new study - from creation to bulk import of patients
 ################################################################################
 
 Create a new study
