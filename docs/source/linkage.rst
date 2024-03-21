@@ -150,10 +150,10 @@ Check the patient list of the hospital
 To check the patient list of the hospital centre, please navigate to "**Patients**", and then to "**Create patient**".
 
 
-Add a patient to a running study
+Add a patient to an ongoing study
 **************************************
 
-Now let's try to add a new patient to a already running study (TJP100). You can do this by adding these patients manually be searching on the patient list from the hospital as mentioned above. For this, please navigate to "**Patients**", and then to "**Create patient**". 
+Now let's try to add a new patient to a already ongoing study (TJP100). You can do this by adding these patients manually be searching on the patient list from the hospital as mentioned above. For this, please navigate to "**Patients**", and then to "**Create patient**". 
 
 Here, search the patient you want to add in "**Carecenter Patient**", as shown below for the patient "Paul Klee".
 
