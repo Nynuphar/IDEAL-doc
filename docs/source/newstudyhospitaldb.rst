@@ -141,3 +141,28 @@ Your study format has been set and you can "**Save**".
 .. warning:: If a mismatch between the source (your study) and IDEAL formats occurs, the patient bulk import to IDEAL will fail.
 
 .. warning:: Every time a new study is created, the source will reset to the default mentioned above. Therefore, every time a new study is created, the Study data format will have to be specified.
+
+Add a patient to an ongoing study
+**************************************
+
+Now let's try to add a new patient to a already ongoing study (TJP100). You can do this by adding these patients manually be searching on the patient list from the hospital as mentioned above. For this, please navigate to "**Patients**", and then to "**Create patient**". 
+
+Here, search the patient you want to add in "**Carecenter Patient**", as shown below for the patient "Paul Klee".
+
+
+.. image:: PKlee.png
+
+.. note:: In this search area, you have access to the patients in the Hospital. In order to search for these patients, IDEAL has to be connected to the Hospital database and will be regularly updated.
+
+
+When selecting "Paul Klee" (just by right clicking on it), the patient information available in the hospital database will be automatically "added" to the "Study patient" field, as shown below.
+
+
+.. image:: PKlee2.png
+
+
+Here you will have to select the "**Study**" to which you'll be adding this patient, and add the "**Study Patient ID**". 
+
+Then by scrolling to the bottom of the page, select "**Save**" and the patient is added to the study and will appear in the "**Patients List**".
+
+.. warning:: Remember that not all IDEAL users are able to search for patients in the Hospital database. Check more information on :doc:`users`.
