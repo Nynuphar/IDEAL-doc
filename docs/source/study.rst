@@ -4,9 +4,6 @@ Manage a new study - from creation to bulk import of patients
 Create a new study
 ********************
 
-Create a new study
-********************
-
 To create a new study, select "**Studies**" on the sidebar navigation, and then "**Create Study**".
 
 Here you can name your study, select an acronym and add a short description for your study.
