@@ -9,7 +9,7 @@ To create a new study, check the section below:
 .. toctree::
    :maxdepth: 1
 
-   CreateStudy
+   createstudy
 
 Approve a new study
 ********************
