@@ -56,6 +56,8 @@ This section explains how to create, modify and add patients to a new study.
 
 This would be the situation for newly-started study, in which patients are added directly from the hospital database.
 
+newstudyhospitaldb
+
 
 Study overview after patient import and IDEAL linkage
 *********************************************************
