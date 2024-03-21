@@ -44,11 +44,13 @@ Linkage based on similarity score
 The linkage in IDEAL is performed via a similarity score calculation, calculated by a PPRL algorithm. In simple words, the patient information from the Hospital is compared with the Study list information, a score is calculated based on this similarity, and patients are matched if the similiarity score is above 85% (set as default). Because of this, IDEAL allows a small degree os mismatch (see section below).
 
 .. note::
-   Note how the similarity is colour coded.
+   Note how the similarity is colour coded: red corresponds to no linkage, yellow to not perfect linkage, blue to a perfect linkage. The similarity score value is also displayed.
+
+..note::
+  The similarity score is periodically updated upon an update on the hospital patients.
 
 
 .. image:: SimilarityScore.png
-   :width: 400
 
 Examples of linkage of "similar pairs"
 ******************************************
@@ -88,7 +90,7 @@ After bulk import of study patients, you can check the patients which were not l
 .. image:: Unlinked.png
 
 
-In my case, there were 5 patients which were not linked to the hospital database.
+In my case, there were 6 patients which were not linked to the hospital database.
 
 
 .. image:: Unlinked2.png
@@ -96,7 +98,7 @@ In my case, there were 5 patients which were not linked to the hospital database
 
 As this is dummy data which I have prepared, I know that the 3 first patients (Sonnie Dunlap, Annie Pennigton and Athena Hibbert) are not patients at this hospital, and therefore cannot be linked by IDEAL.
 
-Let's look at the example "Geralt Whitewolf":
+Let's look at the example "Geralt Whitewolf" and let's try to link it by selecting the "link" symbole as indicated below with the arrow:
 
 
 .. image:: G1.png
@@ -112,7 +114,7 @@ Indeed there is a patient called "Geralt Whitewolf", which could be the right pa
 .. image:: G3.png
 
 
-As you can see in the figure, the date of birth and the Gender is different in both databases, so despite having the same name, these patients might not be the same person. In this case, I would consider these Geralt Whitewolf to be different people and would not "**Confirm**" and linked them.
+As you can see in the figure, the date of birth and the gender are different in both databases, so despite having the same name, these patients are likley not be the same person. In this case, I would consider these "Geralt Whitewolf" to be different people and would not "**Confirm**" and linked them.
 
 
 Edit a patient from the study
@@ -158,7 +160,7 @@ Here, search the patient you want to add in "**Carecenter Patient**", as shown b
 
 .. image:: PKlee.png
 
-.. note:: In this search area, you have access to the patients in the Hospital. In order to search for these patients, IDEAL has to be connected to the Hospital database and needs to be regularly updated.
+.. note:: In this search area, you have access to the patients in the Hospital. In order to search for these patients, IDEAL has to be connected to the Hospital database and will be regularly updated.
 
 
 When selecting "Paul Klee" (just by right clicking on it), the patient information available in the hospital database will be automatically "added" to the "Study patient" field, as shown below.
