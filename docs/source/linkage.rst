@@ -24,7 +24,7 @@ We will look at some examples of "similar pairs" below, but first let's navigate
 Study overview after linkage
 ******************************************************
 
-By navigating to the area "**Patients**" and then to "**Patients List**", you can see here the patients which were imported to your study (in my case the study TJP100).
+By navigating to the area "**Patients**" and then to "**Patients List**", you can see here the patients which were imported to your study (in my case the study "Merengues and Cream").
 
 .. image:: LinkOverview.png
 
@@ -41,7 +41,7 @@ When hovering over the different icons on the right, you can see different funct
 Linkage based on similarity score
 ******************************************************
 
-The linkage in IDEAL is performed via a similarity score calculation, calculated by a PPRL algorithm. In simple words, the patient information from the Hospital is compared with the Study list information, and patients are matched if the similiarity score is above 85% (set as default). Because of this, IDEAL allows a small degree os mismatch (see section below).
+The linkage in IDEAL is performed via a similarity score calculation, calculated by a PPRL algorithm. In simple words, the patient information from the Hospital is compared with the Study list information, a score is calculated based on this similarity, and patients are matched if the similiarity score is above 85% (set as default). Because of this, IDEAL allows a small degree os mismatch (see section below).
 
 .. note::
    Note how the similarity is colour coded.
