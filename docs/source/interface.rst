@@ -15,21 +15,25 @@ As **IDEAL Superuser**, it gives an overview of the different studies and users 
 Studies
 *********
 
-As **Manager** and **User**, you can visualize the list of studies here (*Studies List*), create a new study (*Create styudy*) and export the log files in this section (*Log file export*).
+As **Manager** and **User**, you can visualize the list of studies here (*Studies List*), create a new study (*Create study*) and export the log files in this section (*Log file export*).
 
 As **Superuser**, in this section you can create a new study and see the list of the studies you are managing.
 
-Patients
+Here you also set the appointment schedule of a study in *Appointment Schedules*.
+
+Study Patients
 *********
 
 Only the **Manager** and **User** have access to this section, which relates with patient management.
 
-Here you can have an overview of the patients who belong to your study (*Patients List*), bulk import patients to your study (*Import*) and manually add a new patient to an ongoing study (*Create patient*).
+Here you can have an overview of the patients who belong to your study (*Patients List (Study)*), bulk import patients to your study (*Import*) and manually add a new patient to an ongoing study (*Add patient to study*).
 
 Appointments
 ***********************
 
-This section is only available to the **Manager** and the **User**. Here it is possible to manage Appointments, create single and series appointments (*this section is in construction*).
+This section is only available to the **Manager** and the **User**. Here it is possible to manage Appointments, create single and series appointments (*Create single appointment* and *Create appointment series*, respectively).
+
+The user also has access to the *Appointments List* and *Appointments calendar*.
 
 Users
 *******
