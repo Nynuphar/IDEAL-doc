@@ -82,16 +82,6 @@ This area gives information about the audit log we implemented to track changes 
 
    auditlog
 
-File export
-**************
-
-This area explains how to export files.
-
-.. toctree::
-   :maxdepth: 1
-
-   export
-
 Appointments
 **************
 
@@ -101,6 +91,16 @@ This area explains how to create appointment lists and how to create patient app
    :maxdepth: 1
 
    appointments
+
+File export
+**************
+
+This area explains how to export files.
+
+.. toctree::
+   :maxdepth: 1
+
+   export
 
 Calendar
 **************
