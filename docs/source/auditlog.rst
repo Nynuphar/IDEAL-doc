@@ -12,13 +12,13 @@ Imagine Donald Timothy Duck was registered as Timothy Duck in the study "Wine an
 
 .. image:: DuckEdit.png
 
-For this, please navigate to **Patient management** > **Patient List (Study** > **Edit patient**
+For this, please navigate to **Patient management** > **Patient List (Study)** > **Edit patient**
 
 .. image:: EditPatient.png
 
 Here you can correct the information and maybe also update the address of this patient, as he notified you he had now moved to the "Rue des souries", and then **Save***.
 
-You can see now see these changes and the audit log, by navigating to **Patient management** > **Patient List (Study** > **Patient details**
+You can see now see these changes and the audit log, by navigating to **Patient management** > **Patient List (Study)** > **Patient details**
 
 .. image:: PatientDetails.png
  
