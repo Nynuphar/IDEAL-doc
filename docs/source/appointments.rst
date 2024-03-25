@@ -9,12 +9,12 @@ Appointments are subdivided into 2 sections:
 
 Let's look at these points in more detail.
 
-Book an appointment schedule
-*******************************
+Book an appointment schedule - for a study
+********************************************
 
-.. warning:: Please set the appointment schedule at the *beginning* of the study, before starting to book the appointments for the different patients.
+.. warning:: Please set the appointment schedule at the **beginning** of the study, before starting to book the appointments for the different patients.
 
-.. note:: Do not forget to select a study beforehand.
+.. note:: Do not forget to select your study beforehand.
 
 To create an appointment schedule navigate to: **Appointment schedules** > **Create Appointment Schedule**.
 
