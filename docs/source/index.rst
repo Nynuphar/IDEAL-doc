@@ -102,6 +102,16 @@ This area explains how to create appointment lists and how to create patient app
 
    appointments
 
+Calendar
+**************
+
+This area explains how to visualize the scheduled and definitive/booked appointments in the calendar. It also shows how to book an actual appointment via the calendar and how to export this calendar into a different calendar software (ex: Micorsoft Outlook)
+
+.. toctree::
+   :maxdepth: 1
+
+   calendar
+
 IDEAL troubleshooting
 ************************
 
