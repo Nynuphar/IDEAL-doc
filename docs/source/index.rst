@@ -72,6 +72,16 @@ This area explains how to inspect the linkage after importing study patients and
 
    linkage
 
+Study audit log
+*****************
+
+This area gives information about the audit log we implemented to track changes in the patient information.
+
+.. toctree::
+   :maxdepth: 1
+
+   auditlog
+
 File export
 **************
 
