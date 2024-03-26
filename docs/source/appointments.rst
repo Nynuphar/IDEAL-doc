@@ -27,7 +27,25 @@ Here you can specify different things:
 
 .. image:: AppScheduled.png
 
+The appointment schedule can then be visualized by navigating to: **Appointment schedules** > **Appointment Schedule list**.
 
+By double clicking on the *Appointment settings* or using the dropdown menu (see orange arrows in the figure), the Appointment Schedule will be expanded.
 
+.. image:: AppList.png
 
+Book an appointment series - for a patient
+*********************************************
 
+.. warning:: Make sure your Appointment Schedule is correct before booking any patient appointments.
+
+.. warning:: An update to the Appointment Schedule *will not update* appointments *already booked* with a previous Appointment schedule.
+
+Navigate to **Appointments** > **Create Appointment Series** to create an appointment series, make sure you select your study (in this case *Wine and Cheese*) in the **Study filter**. Then, select the patient (for example here *Cristiano Ronaldo*)and the day 1 for this patient (preferred starting date and time) and save.
+
+.. image:: AppSeries.png
+
+You can then visualize these appointments in the **Appointments** > **Appointment List**. As shown below:
+
+.. image:: AppSeries2.png
+
+Note, how the new dates are calculated based on what was added as *Day 1* and the Appointment schedule.
