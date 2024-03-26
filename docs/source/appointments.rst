@@ -36,9 +36,11 @@ By double clicking on the *Appointment settings* or using the dropdown menu (see
 Book an appointment series - for a patient
 *********************************************
 
-.. warning:: Make sure your Appointment Schedule is correct before booking any patient appointments.
+.. warning:: Make sure your Appointment Schedule is **correct** before booking any patient appointments.
 
 .. warning:: An update to the Appointment Schedule *will not update* appointments *already booked* with a previous Appointment schedule.
+
+.. note:: Here we will be *planning* appointments, i.e. scheduling the appointments timings (not booking the actual/definitive/confirmed appointments).
 
 Navigate to **Appointments** > **Create Appointment Series** to create an appointment series, make sure you select your study (in this case *Wine and Cheese*) in the **Study filter**. Then, select the patient (for example here *Cristiano Ronaldo*)and the day 1 for this patient (preferred starting date and time) and save.
 
@@ -49,3 +51,15 @@ You can then visualize these appointments in the **Appointments** > **Appointmen
 .. image:: AppSeries2.png
 
 Note, how the new dates are calculated based on what was added as *Day 1* and the Appointment schedule.
+
+Book a single appointment - for a patient
+*********************************************
+
+It is also possible to book a single appointment for a patient (for example, an unplanned appointment).
+
+.. note:: Here we will be *planning* a single appointment, i.e. scheduling one appointment timing (not booking the actual/definitive/confirmed appointment).
+
+For this, navigate to: **Appointments** > **Create Single Appointment** and select the study (in **Study filter**). Select the patient, the type of visit and the scheduled date (appointment range and/or duration), and save. Fo example, David Beckham will have an unplanned appointment on the 27 of March 2024:
+
+.. image:: AppSingle.png
+
