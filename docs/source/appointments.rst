@@ -9,7 +9,7 @@ Appointments are subdivided into 2 sections:
 
 Let's look at these points in more detail.
 
-Book an appointment schedule - for a study
+Plan an appointment schedule - for a study
 ********************************************
 
 .. warning:: Please set the appointment schedule at the **beginning** of the study, before starting to book the appointments for the different patients.
@@ -33,7 +33,7 @@ By double clicking on the *Appointment settings* or using the dropdown menu (see
 
 .. image:: AppList.png
 
-Book an appointment series - for a patient
+Plan an appointment series - for a patient
 *********************************************
 
 .. warning:: Make sure your Appointment Schedule is **correct** before booking any patient appointments.
@@ -52,7 +52,7 @@ You can then visualize these appointments in the **Appointments** > **Appointmen
 
 Note, how the new dates are calculated based on what was added as *Day 1* and the Appointment schedule.
 
-Book a single appointment - for a patient
+Plan a single appointment - for a patient
 *********************************************
 
 It is also possible to book a single appointment for a patient (for example, an unplanned appointment).
@@ -63,3 +63,7 @@ For this, navigate to: **Appointments** > **Create Single Appointment** and sele
 
 .. image:: AppSingle.png
 
+How to visualize the planned appointments for the study patients
+*******************************************************************
+
+*in construction*
