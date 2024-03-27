@@ -74,7 +74,22 @@ This table can be sorted by *Study ID*, *Last name*, *First name*, *Study*, *Typ
 
 .. image:: AppLists.png
 
+How to book an actual/definitive appointment for a patient
+**************************************************************
 
+So far, we have just made the *planning* of the appointments. However, IDEAL also allows to register the actual/definitive appointment.
+
+There are 2 ways of doing this:
+
+#. Book an actual appointment via the **Appointments list**
+=============================================================
+
+For this, navigate to **Appointments** > **Appointments List** > **Edit Appointment**.
+
+
+
+#. Book an actual appointment via the **Calendar**
+=============================================================
 
 
 
