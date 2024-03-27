@@ -28,6 +28,7 @@ Here you can specify different things:
 See below the appointment schedule for the study *Wine and Cheese*.
 
 .. image:: AppScheduled.png
+  :width: 600      
 
 The appointment schedule can then be visualized by navigating to: **Appointment schedules** > **Appointment Schedule list**.
 
@@ -47,6 +48,7 @@ Plan an appointment series - for a patient
 Navigate to **Appointments** > **Create Appointment Series** to create an appointment series, make sure you select your study (in this case, *Wine and Cheese*) in the **Study filter**. Then, select the patient (for example here *Cristiano Ronaldo*)and the day 1 for this patient (preferred starting date and time) and save.
 
 .. image:: AppSeries.png
+  :width: 600
 
 You can then visualize these appointments in the **Appointments** > **Appointment List**. As shown below:
 
@@ -83,19 +85,24 @@ So far, we have just made the *planning* of the appointments. However, IDEAL als
 
 There are 2 ways of doing this:
 
-#. Book an actual appointment via the **Appointments list**
+Book an actual appointment via the **Appointments list**
 =============================================================
 
-For this, navigate to **Appointments** > **Appointments List** > **Edit Appointment**.
+For this, navigate to **Appointments** > **Appointments List** > **Edit Appointment**, as shown below (pink arrow):
 
 .. image:: AppEdit.png
 
+This will open a new window where the details of this appointment can be seen. Here you can then select the **Actual date** (or definitive), as shown below:
+
 .. image:: AppUpdate.png
+  :width: 600
 
-
-
-#. Book an actual appointment via the **Calendar**
+Book an actual appointment via the **Calendar**
 =============================================================
+
+You can also book the actual/definitive appointment directly from the **Calendar** (for more informations about the calendar, please check this section: :doc:`calendar`).
+
+First, make sure you are on the *planned* view of the calendar. Then you just need to **double click** on the appointment and the window to update the appointment will appear as above.
 
 
 
