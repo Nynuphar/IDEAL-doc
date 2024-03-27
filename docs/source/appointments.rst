@@ -25,6 +25,8 @@ Here you can specify different things:
 * Duration: duration of the appointment - this is only relevant when booking the actual/definitive appointment, but it can be edited after. The *default* option is 00:30:00 (30 minutes)
 * Day range: this is the tolerance range to book the actual/definitive appointment. It will be calculated around the *days from day 1*. The *default* option is 4 days and the *maximum* amount of days is 10.
 
+See below the appointment schedule for the study *Wine and Cheese*.
+
 .. image:: AppScheduled.png
 
 The appointment schedule can then be visualized by navigating to: **Appointment schedules** > **Appointment Schedule list**.
@@ -42,7 +44,7 @@ Plan an appointment series - for a patient
 
 .. note:: Here we will be *planning* appointments, i.e. scheduling the appointments timings (not booking the actual/definitive/confirmed appointments).
 
-Navigate to **Appointments** > **Create Appointment Series** to create an appointment series, make sure you select your study (in this case *Wine and Cheese*) in the **Study filter**. Then, select the patient (for example here *Cristiano Ronaldo*)and the day 1 for this patient (preferred starting date and time) and save.
+Navigate to **Appointments** > **Create Appointment Series** to create an appointment series, make sure you select your study (in this case, *Wine and Cheese*) in the **Study filter**. Then, select the patient (for example here *Cristiano Ronaldo*)and the day 1 for this patient (preferred starting date and time) and save.
 
 .. image:: AppSeries.png
 
@@ -68,7 +70,7 @@ For this, navigate to: **Appointments** > **Create Single Appointment** and sele
 How to visualize the planned appointments for the study patients
 *******************************************************************
 
-Please navigate to **Appointments** > **Appointments Lists**. Here you will have the list of all the appointments booked.
+Please navigate to **Appointments** > **Appointments Lists**. Here you will have the list of all the appointments booked. You can see the appointments series for the patient *Cristiano Ronaldo* is shown.
 
 This table can be sorted by *Study ID*, *Last name*, *First name*, *Study*, *Type*, *Scheduled date* and *Confirmed date*. For that, just click on the **-**, as shown below.
 
@@ -85,6 +87,10 @@ There are 2 ways of doing this:
 =============================================================
 
 For this, navigate to **Appointments** > **Appointments List** > **Edit Appointment**.
+
+.. image:: AppEdit.png
+
+.. image:: AppUpdate.png
 
 
 
