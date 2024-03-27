@@ -50,7 +50,9 @@ You can then visualize these appointments in the **Appointments** > **Appointmen
 
 .. image:: AppSeries2.png
 
-Note, how the new dates are calculated based on what was added as *Day 1* and the Appointment schedule.
+.. note:: The new dates are calculated based on what was added as *Day 1* and the Appointment schedule.
+
+..note:: Currently, it is only possible to book appointments for an individual patient at the time.
 
 Plan a single appointment - for a patient
 *********************************************
@@ -66,4 +68,15 @@ For this, navigate to: **Appointments** > **Create Single Appointment** and sele
 How to visualize the planned appointments for the study patients
 *******************************************************************
 
-*in construction*
+Please navigate to **Appointments** > **Appointments Lists**. Here you will have the list of all the appointments booked.
+
+This table can be sorted by *Study ID*, *Last name*, *First name*, *Study*, *Type*, *Scheduled date* and *Confirmed date*. For that, just click on the **-**, as shown below.
+
+.. image:: AppLists.png
+
+
+
+
+
+
+
