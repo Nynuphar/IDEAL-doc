@@ -72,6 +72,16 @@ This area explains how to inspect the linkage after importing study patients and
 
    linkage
 
+File export (the "key" export)
+****************************************
+
+This area explains how to export files. Several files can be exported.
+
+.. toctree::
+   :maxdepth: 1
+
+   export
+
 Study audit log
 *****************
 
@@ -91,16 +101,6 @@ This area explains how to create appointment lists and how to create patient app
    :maxdepth: 1
 
    appointments
-
-File export
-**************
-
-This area explains how to export files.
-
-.. toctree::
-   :maxdepth: 1
-
-   export
 
 Calendar
 **************
