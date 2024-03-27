@@ -4,6 +4,8 @@ Calendar to view patient appointments
 Calendar overview
 *******************
 
+.. note:: Filter the study that you want to see in the *Filter* menu on top of the page.
+
 The calendar helps you visualizing and managing your patient appointnments.
 
 To viusualize it, please navigate to: **Appointments** > **Appointments Calendar**.
@@ -39,5 +41,9 @@ By selecting the definitive view, you can see the definitive/actual appointments
 Calendar export and import to another software
 *************************************************
 
+Select the study in the upper menu.
+
 *in construction*
+
+.. image:: CallExpImp.png
 
