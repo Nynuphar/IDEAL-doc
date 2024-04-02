@@ -41,9 +41,13 @@ By selecting the definitive view, you can see the definitive/actual appointments
 Calendar export and import to another software
 *************************************************
 
-Select the study in the upper menu.
-
-*in construction*
+Select the study in the upper menu and then just select "**Export to .ics**" (blue arrow).
 
 .. image:: CallExpImp.png
+
+Open the downloaded file and select "**Open as new**", for example in the case of importing it to *Microsoft Outlook*.
+
+.. image:: CalNew.png
+
+.. note:: It is better to import this calendar as a "*New calendar*", instead of *importing* it directly to your own calendar - in case of mistake you can easily delete it and export it again.
 
