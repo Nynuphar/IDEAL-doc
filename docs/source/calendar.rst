@@ -48,7 +48,7 @@ Select the study in the upper menu and then just select "**Export to .ics**" (bl
 Open the downloaded file and select "**Open as new**", for example in the case of importing it to *Microsoft Outlook*.
 
 .. image:: CalNew.png
-  : width: 400
+  :width: 500
 
 .. note:: It is better to import this calendar as a "*New calendar*", instead of *importing* it directly to your own calendar - in case of mistake you can easily delete it and export it again.
 
