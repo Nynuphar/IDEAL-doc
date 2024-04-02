@@ -11,3 +11,19 @@ Manually adding a patient from the Hospital database to a study
 
 Here do not forget to go "**Patients**" and then "**Create patient**" to search for the patient to be added. Once you found the patient, select the patient and don't forget to add the *Study Patient ID* before saving.
 
+Editing a specific patient appointment shows no patient selected
+*******************************************************************
+
+If you are trying to edit an Appointment (**Apointments*** > **Appointments list** > **Edit appointment**), for a specific patient (for example, *Cristiano Ronaldo*):
+
+..image:: AppEdit.png
+
+and no filter is selected:
+
+..image:: AppNoFilter.png
+
+then no patient will appear as selected, as shown below:
+
+..image:: AppBug.png
+
+to fix the problem, just make sure your study is selected in the filtering menu above.
