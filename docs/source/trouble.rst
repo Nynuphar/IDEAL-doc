@@ -27,4 +27,6 @@ then no patient will appear as selected, as shown below:
 
 .. image:: AppBug.png
 
-to fix the problem, just make sure your study is selected in the filtering menu above.
+to fix the problem, just make sure your study is selected in the filtering menu above. 
+
+.. note:: this bug will be fixed in a next release of IDEAL.
