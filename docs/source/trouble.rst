@@ -16,14 +16,15 @@ Editing a specific patient appointment shows no patient selected
 
 If you are trying to edit an Appointment (**Apointments*** > **Appointments list** > **Edit appointment**), for a specific patient (for example, *Cristiano Ronaldo*):
 
-..image:: AppEdit.png
+.. image:: AppEdit.png
 
 and no filter is selected:
 
-..image:: AppNoFilter.png
+.. image:: AppNoFilter.png
+  :width: 200
 
 then no patient will appear as selected, as shown below:
 
-..image:: AppBug.png
+.. image:: AppBug.png
 
 to fix the problem, just make sure your study is selected in the filtering menu above.
