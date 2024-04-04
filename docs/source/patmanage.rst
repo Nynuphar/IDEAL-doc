@@ -1,4 +1,4 @@
-Patient management: from adding a patient to a study to editing this patient information
+Patient management: add a patient to a study
 ###########################################################################################
 
 Add a patient to an ongoing study
@@ -29,28 +29,3 @@ Then by scrolling to the bottom of the page, select "**Save**" and the patient i
 
 .. warning:: Remember that not all IDEAL users are able to search for patients in the Hospital database. Check more information on :doc:`users`.
 
-Edit a patient from the study
-*******************************
-
-Sometimes errors might be introduced when creating the CSV file with the Study patients. This is the case of the example below: 
-
-
-.. image:: WrongDOB.png
-
-
-This dummy patient called Elsie-Mae Gardiner had the wrong year of birth on the study file (1931 instead of 1930). 
-In order to update the Study details, you can navigate to "**Patients**" and then to "**Patients List**". Here you can use this icon in the same row as the patient you want to edit, as shown below:
-
-
-.. image:: EditPatientIcon.png
-
-
-And make your changes as shown below as well (in the Study table, and don't forget to **Save**):
-
-
-.. image:: EditPatient.png
-
-
-.. note:: Note how Elsie-Mae Gardiner still got linked by IDEAL despite the small change in the year of birth (all the other information was the same)!
-
-.. warning:: Before updating any patient information make sure that this information is correct!
