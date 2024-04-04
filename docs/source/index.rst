@@ -112,10 +112,15 @@ This area explains how to visualize the scheduled and definitive/booked appointm
 
    calendar
 
-IDEAL how to
+IDEAL: how to
 ***************
 
 This is a collection of the major features of IDEAL, for a quick overview.
+
+.. toctree::
+   :maxdepth: 1
+
+   howto
 
 IDEAL troubleshooting
 ************************
