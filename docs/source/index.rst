@@ -59,6 +59,16 @@ This would be the situation for an ongoing study, which has been maintained as a
 
    import
 
+IDEAL linkage
+******************
+
+This area explains how to inspect the linkage after importing study patients and manage manual addition of patients to a study.
+
+.. toctree::
+   :maxdepth: 1
+
+   linkage
+
 Worflow: manage a new study - by directly adding patients from the hospital database
 **************************************************************************************
 
@@ -70,17 +80,6 @@ This would be the situation for newly-started study, in which patients are added
    :maxdepth: 1
 
    newstudyhospitaldb
-
-
-Study overview after patient import and IDEAL linkage
-*********************************************************
-
-This area explains how to inspect the linkage after importing study patients and manage manual addition of patients to a study.
-
-.. toctree::
-   :maxdepth: 1
-
-   linkage
 
 File export (the "key" export)
 ****************************************
