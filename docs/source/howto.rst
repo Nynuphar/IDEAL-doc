@@ -1,6 +1,57 @@
 IDEAL: how to
 ####################
 
+Create a new study
+********************
+
+To create a new study, select "**Studies**" on the sidebar navigation, and then "**Create Study**".
+
+Here you can name your study, select an acronym and add a short description for your study.
+
+.. note:: The items detailed with "*****" are mandatory when creating a study.
+
+.. warning:: Avoid the use of special characters (for example, *, $, &, etc) when creating a study acronym, as it can affect some features on IDEAL (for example the viewing of the Appointment Schedules) - this is a known issue we are trying to fix.
+
+A test study named "Test01" was created here as an example, as shown below.
+
+
+.. image:: StudyTestCreated.png
+   :width: 600
+
+
+Please select the:
+
+   * "**Authorized users**", who will be able to edit and manage patients from a study, but will not be able to edit the study.
+   * "**Local responsible operators**", who will be able to manage users and edit the study.  "**Local responsible operators**" can also manage patients.
+
+
+.. image:: UsersStudySelect.png
+
+
+.. note::
+   To select multiple users, please use the CTRL + left click button.
+
+You can now click to save and create your study. Your study can now be seen in the "**Studies**" area, as seen below:
+
+
+.. image:: WaitForSuperuser.png
+
+
+Now, your study needs to be approved by the Superuser. Check the next section to understand how to *Approve a new study*.
+
+Approve a new study
+********************
+
+When logged in as Superuser, you will find the study to be approved in your "**Dashboard**":
+
+
+.. image:: StudyApprovalSuperuser.png
+
+
+Click on the "**✓**" to approve the study. Your study is then approved.
+
+.. warning:: Only the IDEAL Superuser can approve the study. Until then, it is not possible to either import or add patients to the study.
+
 Define the data format of a study
 ***********************************
 
@@ -67,3 +118,20 @@ Your study format has been set and you can "**Save**".
 .. warning:: If a mismatch between the source (your study) and IDEAL formats occurs, the patient bulk import to IDEAL will fail.
 
 .. warning:: Every time a new study is created, the source will reset to the default mentioned above. Therefore, every time a new study is created, the Study data format will have to be specified.
+
+Import study patients (bulk import from CSV file)
+***************************************************************
+
+To import a new study, select "**Import**" in the "**Patients**" area:
+
+
+.. image:: ImportStudy.png
+
+
+Here, select the study you want to import patients to and select the CSV file which contains the Study patients.
+
+Your Study patients will be automatically linked and matched to the Hospital database!
+
+Check the section :doc:`linkage` to understand more about the linkage process on IDEAL and how to further manage the patients in your study!
+
+.. warning:: Confirm the format and the name of your columns matches the format expected by IDEAL!
