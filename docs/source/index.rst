@@ -77,7 +77,7 @@ Patient management: from adding a patient to a study
 
    patmanage
 
-Keeping track of changes in patient information and audit log
+Editing patient information and audit log
 *****************************************************************************
 
 This area gives information about the audit log we implemented to track changes in the patient information.
