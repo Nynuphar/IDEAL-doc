@@ -1,5 +1,5 @@
-Study management: from creation to deletion
-================================================
+Study management: create, approve, edit and delete a study
+################################################################
 
 Create a new study
 ********************
