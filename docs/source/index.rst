@@ -77,17 +77,15 @@ Patient management: from adding a patient to a study to editing this patient inf
 
    patmanage
 
-Worflow: manage a new study - by directly adding patients from the hospital database
-**************************************************************************************
+Study audit log
+*****************
 
-This section explains how to create, modify and add patients to a new study.
-
-This would be the situation for newly-started study, in which patients are added directly from the hospital database.
+This area gives information about the audit log we implemented to track changes in the patient information.
 
 .. toctree::
    :maxdepth: 1
 
-   newstudyhospitaldb
+   auditlog
 
 File export (the "key" export)
 ****************************************
@@ -98,16 +96,6 @@ This area explains how to export files. Several files can be exported.
    :maxdepth: 1
 
    export
-
-Study audit log
-*****************
-
-This area gives information about the audit log we implemented to track changes in the patient information.
-
-.. toctree::
-   :maxdepth: 1
-
-   auditlog
 
 Appointments
 **************
@@ -128,6 +116,18 @@ This area explains how to visualize the scheduled and definitive/booked appointm
    :maxdepth: 1
 
    calendar
+
+Worflow: manage a new study - by directly adding patients from the hospital database
+**************************************************************************************
+
+This section explains how to create, modify and add patients to a new study.
+
+This would be the situation for newly-started study, in which patients are added directly from the hospital database.
+
+.. toctree::
+   :maxdepth: 1
+
+   newstudyhospitaldb
 
 IDEAL: how to
 ***************
