@@ -69,6 +69,14 @@ This area explains how to inspect the linkage after importing study patients and
 
    linkage
 
+Patient management: from adding a patient to a study to editing this patient information
+*******************************************************************************************
+
+.. toctree::
+   :maxdepth: 1
+
+   patmanage
+
 Worflow: manage a new study - by directly adding patients from the hospital database
 **************************************************************************************
 
