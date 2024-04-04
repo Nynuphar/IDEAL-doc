@@ -1,5 +1,5 @@
-IDEAL: how to (quick feature description)
-############################################
+Worflow: add an ongoing study to IDEAL - by bulk import 
+########################################################################################
 
 Create a new study
 ********************
