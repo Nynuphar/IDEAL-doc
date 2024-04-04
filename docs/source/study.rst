@@ -10,6 +10,8 @@ Here you can name your study, select an acronym and add a short description for 
 
 .. note:: The items detailed with "*****" are mandatory when creating a study.
 
+.. warning:: Avoid to use special characters (for example, *, $, &, etc) when creating a study acronym, as it can affect some features on IDEAL (for example the viewing of the Appointment Schedules) - this is a known issue which we are trying to fix.
+
 A test study named "Test01" was created here as an example, as shown below.
 
 
