@@ -1,4 +1,4 @@
-Import study patients - from defining the data format of a study to bulk import from a CSV file
+Import study patients - bulk import from a CSV file
 =============================================================================================================
 
 Define the data format of a study
