@@ -1,5 +1,5 @@
-Audit log
-############
+Editing patient information and audit log
+############################################
 
 The audit log tracks the any change which happen at the Study level. For example, if a patient's address is edited, this will be tracked.
 
@@ -17,6 +17,9 @@ For this, please navigate to **Patient management** > **Patient List (Study)** >
 .. image:: EditPatient.png
 
 Here you can correct the information and maybe also update the address of this patient, as he notified you he had now moved to the "Rue des souries", and then **Save***.
+
+Audit log
+*************
 
 You can see now see these changes and the audit log, by navigating to **Patient management** > **Patient List (Study)** > **Patient details**
 
