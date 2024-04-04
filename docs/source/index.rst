@@ -37,10 +37,10 @@ This section provides information about the different types of users and respect
 
    users
 
-Study management: create, edit, delete
-********************************************
+Study management: create, approve, edit and delete a study
+**************************************************************
 
-This section explains how to create a study, edit and delete a study:
+This section explains how to create a study, approve edit and delete a study:
 
 .. toctree::
    :maxdepth: 1
