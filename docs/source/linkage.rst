@@ -157,7 +157,7 @@ Now let's try to add a new patient to a already ongoing study (Merengues and Cre
 
 Here you will be prompted to add a patient either from the local Hospital/Carecenter or add this patient manually.
 
-.. image:: addPatient.png
+.. image:: addPat.png
 
 Here, search the patient you want to add in "**Hospital Patient**", as shown below for the patient "Paul Klee".
 
