@@ -78,10 +78,13 @@ If you are an IDEAL **Manager** or **Superuser** (see :doc:`users` for more info
 Add a patient to an ongoing study
 **************************************
 
-Now let's try to add a new patient to a already ongoing study (TJP100). You can do this by adding these patients manually be searching on the patient list from the hospital as mentioned above. For this, please navigate to "**Patients**", and then to "**Create patient**". 
+Now let's try to add a new patient to a already ongoing study (Merengues and Cream, for example). You can do this by adding these patients manually be searching on the patient list from the hospital as mentioned above. For this, please navigate to "**Patient management**", and then to "**Add patient to a study**".
 
-Here, search the patient you want to add in "**Carecenter Patient**", as shown below for the patient "Paul Klee".
+Here you will be prompted to add a patient either from the local Hospital/Carecenter or add this patient manually.
 
+.. image:: addPat.png
+
+Here, search the patient you want to add in "**Hospital Patient**", as shown below for the patient "Paul Klee".
 
 .. image:: PKlee.png
 
