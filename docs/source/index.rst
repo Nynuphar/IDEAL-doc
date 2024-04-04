@@ -47,7 +47,7 @@ This section explains how to create a study, approve edit and delete a study:
 
    createstudy
 
-Import study patients - from defining the data format of a study to bulk import from a CSV file
+Import study patients - bulk import from a CSV file
 ***************************************************************************************************
 
 This section explains how to define the details of a study and how to bulk import patients to a new study.
@@ -69,7 +69,7 @@ This area explains how to inspect the linkage after importing study patients and
 
    linkage
 
-Patient management: from adding a patient to a study to editing this patient information
+Patient management: from adding a patient to a study
 *******************************************************************************************
 
 .. toctree::
@@ -77,8 +77,8 @@ Patient management: from adding a patient to a study to editing this patient inf
 
    patmanage
 
-Study audit log
-*****************
+Keeping track of changes in patient information and audit log
+*****************************************************************************
 
 This area gives information about the audit log we implemented to track changes in the patient information.
 
