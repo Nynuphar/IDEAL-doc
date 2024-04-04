@@ -30,3 +30,8 @@ then no patient will appear as selected, as shown below:
 to fix the problem, just make sure your study is selected in the filtering menu above. 
 
 .. note:: this bug will be fixed in a next release of IDEAL.
+
+Special characters on the Study Acronym
+*****************************************
+
+Please avoid the use special characters (for example, *, $, &, etc) when creating a study acronym, as it can affect some features on IDEAL (for example the viewing of the Appointment Schedules) - this is a known issue which we are trying to fix.
