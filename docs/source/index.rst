@@ -47,10 +47,10 @@ This section explains how to create a study, approve edit and delete a study:
 
    createstudy
 
-Bulk import of patients from an ongoing study
-********************************************************************************
+Import study patients - from defining the data format of a study to bulk import from a CSV file
+***************************************************************************************************
 
-This section explains how to import patients to a new study.
+This section explains how to define the details of a study and how to bulk import patients to a new study.
 
 This would be the situation for an ongoing study, which has been maintained as an Excel list for example, and it is now onboarded on IDEAL.
 
