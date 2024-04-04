@@ -37,17 +37,27 @@ This section provides information about the different types of users and respect
 
    users
 
-Worflow: manage a new study - from creation to bulk import of patients
+Study management: create, edit, delete
+********************************************
+
+This section explains how to create a study, edit and delete a study:
+
+.. toctree::
+   :maxdepth: 1
+
+   createstudy
+
+Bulk import of patients from an ongoing study
 ********************************************************************************
 
-This section explains how to create, modify and import patients to a new study.
+This section explains how to import patients to a new study.
 
 This would be the situation for an ongoing study, which has been maintained as an Excel list for example, and it is now onboarded on IDEAL.
 
 .. toctree::
    :maxdepth: 1
 
-   study
+   import
 
 Worflow: manage a new study - by directly adding patients from the hospital database
 **************************************************************************************
