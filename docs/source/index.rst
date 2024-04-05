@@ -117,8 +117,20 @@ This area explains how to visualize the scheduled and definitive/booked appointm
 
    calendar
 
-Worflow: manage a new study - by directly adding patients from the hospital database
-**************************************************************************************
+Worflow: onboard an ongoing study to IDEAL
+**************************************************************************************************
+
+This section explains how to create, modify and add patients to a new study.
+
+This would be the situation for newly-started study, in which patients are added directly from the hospital database.
+
+.. toctree::
+   :maxdepth: 1
+
+   ongoing
+
+Worflow: create a new study from scratch by directly adding patients from the hospital database
+**************************************************************************************************
 
 This section explains how to create, modify and add patients to a new study.
 
