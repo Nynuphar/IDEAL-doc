@@ -1,5 +1,5 @@
-Worflow: manage a new study - by directly adding patients from the hospital database
-#######################################################################################
+Worflow: create a new study from scratch - by directly adding patients from the hospital database
+#####################################################################################################
 
 Create a new study
 ********************
