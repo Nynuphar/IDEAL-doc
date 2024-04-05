@@ -69,7 +69,7 @@ This area explains how to inspect the linkage after importing study patients and
 
    linkage
 
-Patient management: from adding a patient to a study
+Patient management: add a patient to a study
 *******************************************************************************************
 
 .. toctree::
@@ -107,8 +107,8 @@ This area explains how to create appointment lists and how to create patient app
 
    appointments
 
-Calendar
-**************
+Calendar to view appointments
+*************************************
 
 This area explains how to visualize the scheduled and definitive/booked appointments in the calendar. It also shows how to book an actual appointment via the calendar and how to export this calendar into a different calendar software (ex: Micorsoft Outlook)
 
@@ -129,16 +129,6 @@ This would be the situation for newly-started study, in which patients are added
 
    newstudyhospitaldb
 
-IDEAL: how to
-***************
-
-This is a collection of the major features of IDEAL, for a quick overview.
-
-.. toctree::
-   :maxdepth: 1
-
-   howto
-
 IDEAL troubleshooting
 ************************
 
@@ -149,4 +139,12 @@ This area give some tips about trousbleshooting.
 
    trouble
 
+IDEAL: current known issues and new features
+************************************************
 
+This is a list of current known issues we are resolving and the current new features we are working on.
+
+.. toctree::
+   :maxdepth: 1
+
+   issues
