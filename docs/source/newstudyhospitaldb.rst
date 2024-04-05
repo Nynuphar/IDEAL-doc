@@ -50,31 +50,6 @@ Click on the "**✓**" to approve the study. Your study is then approved.
 
 .. warning:: Only the IDEAL Superuser can approve the study. Until then, it is not possible to either import or add patients to the study.
 
-Delete a study
-********************
-
-An IDEAL manager can delete a study before this has been approved by a Superuser. After the study has been approved, only the Superuser has the right to delete the study.
-
-To delete a study just navigate to your "**Dashboard**" and select the appropriate icon as shown below:
-
-.. image:: DeleteStudy.png
-
-A message will appear for you to confirm this action.
-
-Edit a study
-********************
-
-If you are an IDEAL **Manager** or **Superuser** (see :doc:`users` for more information), you have the right to edit a study by selecting this icon, on your "**Dashboard**" or "**Studies**">"**Create Study**":
-
-
-.. image:: EditStudy.png
-
-
-.. warning::
-   Any change on a Study will require re-approval from a Superuser.
-
-.. note:: Hovering with the mouse over the icons will show you their functions.
-
 Add a patient to an ongoing study
 **************************************
 
