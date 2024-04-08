@@ -15,7 +15,7 @@ As **IDEAL Superuser**, it gives an overview of the different studies and users 
 Study
 *********
 
-The Study section contains the information which belongs to a Study:
+The Study section contains the information which belongs to a study:
 
 Studies
 =========
