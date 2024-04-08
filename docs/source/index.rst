@@ -40,7 +40,7 @@ This section provides information about the different types of users and respect
 Study management: create, approve, edit and delete a study
 **************************************************************
 
-This section explains how to create a study, approve edit and delete a study:
+This section explains how to create a study, approve, edit and delete a study:
 
 .. toctree::
    :maxdepth: 1
@@ -50,9 +50,9 @@ This section explains how to create a study, approve edit and delete a study:
 Import study patients - bulk import from a CSV file
 ***************************************************************************************************
 
-This section explains how to define the details of a study and how to bulk import patients to a new study.
+This section explains how to bulk import patients to a new study. Before the bulk import, it is important to properly define the data format of a study, so IDEAL "understands" what is being imported. 
 
-This would be the situation for an ongoing study, which has been maintained as an Excel list for example, and it is now onboarded on IDEAL.
+The bulk import would be the strategy to onboard an ongoing study to IDEAL, whose patient list has been maintained on Excel (for example).
 
 .. toctree::
    :maxdepth: 1
@@ -62,7 +62,7 @@ This would be the situation for an ongoing study, which has been maintained as a
 IDEAL linkage
 ******************
 
-This area explains how to inspect the linkage after importing study patients and manage manual addition of patients to a study.
+This area explains how to inspect the linkage after a bulk import of study patients and how to manually link patients from a study to the hospital.
 
 .. toctree::
    :maxdepth: 1
@@ -72,6 +72,10 @@ This area explains how to inspect the linkage after importing study patients and
 Patient management: add a patient to a study
 *******************************************************************************************
 
+This section explains how to add a patient from the hospital database to a study.
+
+This can be used to manually built a patient list for a new study created on IDEAL from scratch or add new patients to an ongoing study which was imported to IDEAL.
+
 .. toctree::
    :maxdepth: 1
 
@@ -80,7 +84,7 @@ Patient management: add a patient to a study
 Editing patient information and audit log
 *****************************************************************************
 
-This area gives information about the audit log we implemented to track changes in the patient information.
+This area gives information about the audit log, which tracks any updated on the patient information.
 
 .. toctree::
    :maxdepth: 1
@@ -90,27 +94,27 @@ This area gives information about the audit log we implemented to track changes 
 File export (the "key" export)
 ****************************************
 
-This area explains how to export files. Several files can be exported.
+This area explains how to export files based on the patient study list and/or linakge to the hospital list.
 
 .. toctree::
    :maxdepth: 1
 
    export
 
-Appointments
-**************
+Appointments: create schedules and patient appointments
+**********************************************************
 
-This area explains how to create appointment lists and how to create patient appointments.
+This area explains how to create appointment schedules and how to create series or single appointments.
 
 .. toctree::
    :maxdepth: 1
 
    appointments
 
-Calendar to view appointments
-*************************************
+Calendar to view scheduled and definitive appointments
+***********************************************************
 
-This area explains how to visualize the scheduled and definitive/booked appointments in the calendar. It also shows how to book an actual appointment via the calendar and how to export this calendar into a different calendar software (ex: Micorsoft Outlook)
+This area explains how to visualize the scheduled and definitive/booked appointments in a calendar. It also shows how to book an actual appointment via the calendar and how to export this calendar into your own calendar calendar (ex: Micorsoft Outlook)
 
 .. toctree::
    :maxdepth: 1
@@ -120,9 +124,7 @@ This area explains how to visualize the scheduled and definitive/booked appointm
 Worflow: onboard an ongoing study to IDEAL
 **************************************************************************************************
 
-This section explains how to create, modify and add patients to a new study.
-
-This would be the situation for newly-started study, in which patients are added directly from the hospital database.
+This section explains how to onboard a ongoing study to IDEAL: from creating a new study, to bulk import of an existing patient list and how to add new patients to this study.
 
 .. toctree::
    :maxdepth: 1
