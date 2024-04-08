@@ -105,7 +105,7 @@ If you are an IDEAL **Manager** or **Superuser** (see :doc:`users` for more info
 Delete a study
 ********************
 
-An IDEAL manager can delete a study before this has been approved by a Superuser. After the study has been approved, only the Superuser has the right to delete the study.
+An IDEAL manager can delete a study before it has been approved by a Superuser. After the study has been approved, only the Superuser has the right to delete the study.
 
 To delete a study just navigate to your "**Dashboard**" and select the appropriate icon as shown below:
 
