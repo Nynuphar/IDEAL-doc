@@ -98,7 +98,10 @@ In my case, there were 6 patients which were not linked to the hospital database
 
 As this is dummy data which I have prepared, I know that the 3 first patients (Sonnie Dunlap, Annie Pennigton and Athena Hibbert) are not patients at this hospital, and therefore cannot be linked by IDEAL.
 
-Let's look at the example "Geralt Whitewolf" and let's try to link it by selecting the "link" symbole as indicated below with the arrow:
+Manual linkage
+*****************
+
+Let's look at the example "Geralt Whitewolf", who appears "unlinked", and let's try to link it by selecting the "link" symbole as indicated below with the arrow:
 
 
 .. image:: G1.png
