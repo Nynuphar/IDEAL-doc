@@ -71,6 +71,7 @@ You can now click to save and create your study. Your study can now be seen in t
 
 
 .. image:: WaitForSuperuser.png
+   :width: 600
 
 
 Now, your study needs to be approved by the Superuser. Check the next section to understand how to *Approve a new study*.
