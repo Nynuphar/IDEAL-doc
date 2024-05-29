@@ -56,7 +56,7 @@ You can then visualize these appointments in the **Appointments** > **Appointmen
 
 .. note:: The new dates are calculated based on what was added as *Day 1* and the Appointment schedule.
 
-..note:: Currently, it is only possible to book appointments for an individual patient at the time.
+.. note:: Currently, it is only possible to book appointments for an individual patient at the time.
 
 Plan a single appointment - for a patient
 *********************************************
