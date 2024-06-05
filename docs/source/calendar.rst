@@ -38,6 +38,23 @@ By selecting the definitive view, you can see the definitive/actual appointments
 
 .. image:: CallDef.png
 
+Managing your appointments via the calendar
+=============================================
+
+You can manage your appointments via the calendar by double-clicking in one appointment - this will open the *Appointment details* for this appointment.
+
+Foe example, below, I double-clicked in a planned appointment for Cristiano Ronaldo, which now has a definitive date.
+
+.. image:: AppEditCal.png
+
+I will edit this appointment to register the actual appointment's date (11 of June 2024 in this case), by clicking on *Edit Appointment*, on the top right corner (green arrow).
+
+When returning to the calendar view, in the *Planned* section, you can see that the appointment which has a definitive date has a more transparent colour (see green arrow):
+
+.. image:: ColAppChange.png
+
+.. tip:: In case the definitive date for an appointment is cancelled, the colour will rever to a bold shade.  The (subtle) colour change provides an easy way to distinguish between appointments with and without a definitive date.
+
 Calendar export and import to another software
 *************************************************
 
