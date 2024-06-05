@@ -46,6 +46,7 @@ You can manage your appointments via the calendar by double-clicking in one appo
 Foe example, below, I double-clicked in a planned appointment for Cristiano Ronaldo, which now has a definitive date.
 
 .. image:: AppEditCal.png
+   :width: 500
 
 I will edit this appointment to register the actual appointment's date (11 of June 2024 in this case), by clicking on *Edit Appointment*, on the top right corner (green arrow).
 
@@ -53,7 +54,9 @@ When returning to the calendar view, in the *Planned* section, you can see that 
 
 .. image:: ColAppChange.png
 
-.. tip:: In case the definitive date for an appointment is cancelled, the colour will rever to a bold shade.  The (subtle) colour change provides an easy way to distinguish between appointments with and without a definitive date.
+.. tip:: The colour change provides an easy way to distinguish between appointments with and without a definitive date.
+
+.. tip:: When a definitive date for an appointment is cancelled, the colour will revert from a transpartent to a bold shade.
 
 Calendar export and import to another software
 *************************************************
