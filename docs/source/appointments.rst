@@ -20,10 +20,15 @@ To create an appointment schedule navigate to: **Appointment schedules** > **Cre
 
 Here you can specify different things:
 
-* Types of appointments: *screening, randomization, enrolment, follow-up* and *unplanned*
-* Days from day 1: when patient joins the study
-* Duration: duration of the appointment - this is only relevant when booking the actual/definitive appointment, but it can be edited after. The *default* option is 00:30:00 (30 minutes)
-* Day range: this is the tolerance range to book the actual/definitive appointment. It will be calculated around the *days from day 1*. The *default* option is 4 days and the *maximum* amount of days is 10.
+* **Type of visit**: *screening, randomization, enrolment, follow-up* and *unplanned*.
+* **Additional name**: this is meant to be used when multiple appointments of the same type (for example, multiple follow-ups) are planned. Some studies also have defined names for the specific appointments, which can be specified in this field.
+* **Years from day 1**: years from when patient joins the study.
+* **Days from day 1**: days when patient joins the study.
+* **Duration**: duration of the appointment - this is only relevant when booking the actual/definitive appointment, and it can be edited after. A *default* option is available as 00:30:00 (30 minutes).
+* **Minus day range**: this is the lower tolerance range to book the actual/definitive appointment. It will be calculated around the *days from day 1*. The *default* option is -2 days. Currently, the minimum *minus day range* is -7.
+* **Plus day range**: this is the top tolerance range to book the actual/definitive appointment. It will be calculated around the *days from day 1*. The *default* option is 2 days. Currently, the maximum *plus day range* is 7.
+
+.. note:: **Day 1** here will be the "reference" day from which the appointments dates are calculated. Depending on the study, it will vary. For example, for the STCS it will be the transplant date.
 
 See below the appointment schedule for the study *Wine and Cheese*.
 
