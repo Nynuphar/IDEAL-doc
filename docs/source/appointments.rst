@@ -3,9 +3,9 @@ Appointments
 
 Appointments can be booked as **series** or **single** appointments.
 
-In order to book appointment **series**, an **appointment schedule** needs first to be created :ref: `Set and appointment schedule and book appointment series`.
+In order to book appointment **series**, an **appointment schedule** needs first to be created :ref: `here <Set and appointment schedule and book appointment series>`.
 
-To book single appointments, please check below :ref: `Book a single appointment for a patient`
+To book single appointments, please check below :ref: `here: <Book a single appointment for a patient>`.
 
 Set and appointment schedule and book appointment series
 ****************************************************************
