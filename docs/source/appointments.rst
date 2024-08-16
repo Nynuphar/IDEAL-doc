@@ -3,13 +3,11 @@ Appointments
 
 Appointments can be booked as **series** or **single** appointments.
 
-In order to book appointment **series**, an **appointment schedule** needs first to be created. 
+In order to book appointment **series**, an **appointment schedule** needs first to be created. Check `here`_ how to do it.
 
-Reference `My target`_.
+To book single appointments, please check `below`_ how to do this.
 
-To book single appointments, please check below :ref: `here: <Book a single appointment for a patient>`.
-
-.. _My target:
+.. _here:
 
 Set and appointment schedule and book appointment series
 ****************************************************************
@@ -75,6 +73,8 @@ You can then visualize these appointments in the **Appointments** > **Appointmen
 .. note:: The new dates are calculated based on what was added as *Day 1* and the Appointment schedule.
 
 .. note:: Currently, it is only possible to book appointments for an individual patient at the time.
+
+.. _below:
 
 Book a single appointment for a patient
 *********************************************
