@@ -1,22 +1,31 @@
 Appointments
 ##############
 
-Appointments are subdivided into 2 sections:
+Appointments can be booked as **series** or **single** appointments.
 
-#. "**Appointment schedules**" under the "**Study**" section: here you can create an apointment schedule for a study. This should be decided at at the **beginning** of the study and **before** starting to book appointments.
+In order to book appointment **series**, an **appointment schedule** needs first to be created (:ref: `Set and appointment schedule and book appointment series`).
 
-#. "**Apointments**" under the "**Study patients**" section to create appointments for specific patients.
+To book single appointments, please check below (:ref: `Book a single appointment for a patient`
+
+Set and appointment schedule and book appointment series
+****************************************************************
+
+In order to book appointment **series**, an **appointment schedule** needs first to be created (:ref: `Set and appointment schedule and book appointment series`).
+
+#. Set an **Appointment schedule** - this will set the frequency and the type of appointments for a study. The appointment schedule should be decided at at the **beginning** of the study and **before** starting to book appointments. Once an appointment schedule has been created, you can start to:
+
+#. Set "**Apointments**" for patients. under the "**Study patients**" section to create appointments for specific patients.
 
 Let's look at these points in more detail.
 
 Plan an appointment schedule - for a study
-********************************************
+==============================================
 
 .. warning:: Please set the appointment schedule at the **beginning** of the study, before starting to book the appointments for the different patients.
 
 .. note:: Do not forget to select your study beforehand.
 
-To create an appointment schedule navigate to: **Appointment schedules** > **Create Appointment Schedule**.
+To create an appointment schedule navigate to: **Appointment schedules** > **Create Appointment Schedule**, under the "**Study**" section.
 
 Here you can specify different things:
 
@@ -41,8 +50,8 @@ By double clicking on the *Appointment settings* or using the dropdown menu (see
 
 .. image:: AppList.png
 
-Plan an appointment series - for a patient
-*********************************************
+Plan an appointment series for a patient
+==============================================
 
 .. warning:: Make sure your Appointment Schedule is **correct** before booking any patient appointments.
 
@@ -63,7 +72,7 @@ You can then visualize these appointments in the **Appointments** > **Appointmen
 
 .. note:: Currently, it is only possible to book appointments for an individual patient at the time.
 
-Plan a single appointment - for a patient
+Book a single appointment for a patient
 *********************************************
 
 It is also possible to book a single appointment for a patient (for example, an unplanned appointment).
