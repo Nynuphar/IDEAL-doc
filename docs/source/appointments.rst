@@ -3,33 +3,38 @@ Appointments
 
 Appointments can be booked as **series** or **single** appointments.
 
-In order to book appointment **series**, an **appointment schedule** needs first to be created. Check `here`_ how to do it.
+In order to book **appointment series**, an **appointment schedule** needs to be created first. Check `here`_ how to do it.
 
-To book single appointments, please check `below`_ how to do this.
+To book **single appointments**, please check `below`_ how to do this.
 
 .. _here:
 
 Set and appointment schedule and book appointment series
 ****************************************************************
 
-In order to book appointment **series**, an **appointment schedule** needs first to be created (:ref: `Set and appointment schedule and book appointment series`).
+In order to book **appointment series**, an **appointment schedule** needs to be created first.
 
-#. Set an **Appointment schedule** - this will set the frequency and the type of appointments for a study. The appointment schedule should be decided at at the **beginning** of the study and **before** starting to book appointments. Once an appointment schedule has been created, you can start to:
+Therefore, you will need to: 
 
-#. Set "**Apointments**" for patients. under the "**Study patients**" section to create appointments for specific patients.
+#. Set **Appointment schedule** - `this`_ will determine the frequency and the type of appointments for a schedule. The appointment schedule should be decided at at the **beginning** of the study and **before** starting to book appointments. Multiple appointments schedules are possible for the same study (to a maximum of 5).
+#. Set "**Apointments**" for patients. Find `more`_ information below.
 
 Let's look at these points in more detail.
+
+.. _this:
 
 Plan an appointment schedule - for a study
 ==============================================
 
 .. warning:: Please set the appointment schedule at the **beginning** of the study, before starting to book the appointments for the different patients.
 
+.. note:: Only the manager or user can set an appointment schedule for a study (and further booking appointments).
+
 .. note:: Do not forget to select your study beforehand.
 
-To create an appointment schedule navigate to: **Appointment schedules** > **Create Appointment Schedule**, under the "**Study**" section.
+To create an appointment schedule navigate to: **Appointment schedules** > **Create Appointment Schedule**, under the "**Study**" section. Up to 5 appointment schedules are possible for each study.
 
-Here you can specify different things:
+Here you can specify the:
 
 * **Type of visit**: *screening, randomization, enrolment, follow-up* and *unplanned*.
 * **Additional name**: this is meant to be used when multiple appointments of the same type (for example, multiple follow-ups) are planned. Some studies also have defined names for the specific appointments, which can be specified in this field.
@@ -38,6 +43,8 @@ Here you can specify different things:
 * **Duration**: duration of the appointment - this is only relevant when booking the actual/definitive appointment, and it can be edited after. A *default* option is available as 00:30:00 (30 minutes).
 * **Minus day range**: this is the lower tolerance range to book the actual/definitive appointment. It will be calculated around the *days from day 1*. The *default* option is -2 days. Currently, the minimum *minus day range* is -7.
 * **Plus day range**: this is the top tolerance range to book the actual/definitive appointment. It will be calculated around the *days from day 1*. The *default* option is 2 days. Currently, the maximum *plus day range* is 7.
+* **Repeat appoint.**: select "no repetition" if you don't want this appointment to repeat, otherwise several options to repeat appointments are available (every month, every 2nd month, etc).
+* **Years repeat**: once an appointment is set to repeat, this option will appear. Here you can set for how many years your want your appointment to repeat.
 
 .. note:: **Day 1** here will be the "reference" day from which the appointments dates are calculated. Depending on the study, it will vary. For example, for the STCS it will be the transplant date.
 
@@ -46,11 +53,13 @@ See below the appointment schedule for the study *Wine and Cheese*.
 .. image:: AppScheduled.png
   :width: 600      
 
-The appointment schedule can then be visualized by navigating to: **Appointment schedules** > **Appointment Schedule list**.
+We called this appointment schedule "WaC-primary". This appointment schedule starts with a "Enrolment" on day 1. A "Follow-up" appointment after 10 days, and then a series of montly "Follow-up", for 10 years.
 
-By double clicking on the *Appointment settings* or using the dropdown menu (see orange arrows in the figure), the Appointment Schedule will be expanded.
+The appointment schedule can then be visualized by navigating to: **Appointment schedules** > **Appointment Schedule list**. When double clicking on the *Appointment settings* or using the dropdown menu (see orange arrows in the figure), the Appointment Schedule will expand.
 
 .. image:: AppList.png
+
+.. _more:
 
 Plan an appointment series for a patient
 ==============================================
@@ -59,9 +68,9 @@ Plan an appointment series for a patient
 
 .. warning:: An update to the Appointment Schedule *will not update* appointments *already booked* with a previous Appointment schedule.
 
-.. note:: Here we will be *planning* appointments, i.e. scheduling the appointments timings (not booking the actual/definitive/confirmed appointments).
+.. note:: Below, we will be *planning* appointments, i.e. scheduling the appointments timings (not booking the actual/definitive/confirmed appointments).
 
-Navigate to **Appointments** > **Create Appointment Series** to create an appointment series, make sure you select your study (in this case, *Wine and Cheese*) in the **Study filter**. Then, select the patient (for example here *Cristiano Ronaldo*)and the day 1 for this patient (preferred starting date and time) and save.
+Under the "**Study patients**" section, navigate to **Appointments** > **Create Appointment Series** to create an appointment series, make sure you select your study (in this case, *Wine and Cheese*) in the **Study filter**. Then, select the patient (for example here *Cristiano Ronaldo*) and the day 1 for this patient (preferred starting date and time) and save.
 
 .. image:: AppSeries.png
   :width: 600
