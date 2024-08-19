@@ -59,16 +59,20 @@ The appointment schedule can then be visualized by navigating to: **Appointment 
 
 .. image:: AppList.png
 
+This appointment schedule can be edited or deleted using the following icons:
+
+.. image:: AppEdit.png
+
 .. _more:
 
 Plan an appointment series for a patient
 ==============================================
 
-.. warning:: Make sure your Appointment Schedule is **correct** before booking any patient appointments.
+.. warning:: Make sure your Appointment Schedule is correct **before** booking any patient appointments.
 
 .. warning:: An update to the Appointment Schedule *will not update* appointments *already booked* with a previous Appointment schedule.
 
-.. note:: Below, we will be *planning* appointments, i.e. scheduling the appointments timings (not booking the actual/definitive/confirmed appointments).
+Below, we will be *planning* appointments, i.e. scheduling the appointments timings. How to book the actual/definitive/confirmed appointments) will be shown in this `section`_. 
 
 Under the "**Study patients**" section, navigate to **Appointments** > **Create Appointment Series** to create an appointment series, make sure you select your study (in this case, *Wine and Cheese*) in the **Study filter**. Then, select the patient (for example here *Cristiano Ronaldo*) and the day 1 for this patient (preferred starting date and time) and save.
 
@@ -104,6 +108,9 @@ Please navigate to **Appointments** > **Appointments Lists**. Here you will have
 This table can be sorted by *Study ID*, *Last name*, *First name*, *Study*, *Type*, *Scheduled date* and *Confirmed date*. For that, just click on the **-**, as shown below.
 
 .. image:: AppLists.png
+
+
+.. _section:
 
 How to book an actual/definitive appointment for a patient
 **************************************************************
