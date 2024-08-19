@@ -80,13 +80,17 @@ To plan appointments, and under the "**Study patients**" section, navigate to **
 .. image:: AppSeries.png
   :width: 600
 
-You can then visualize these appointments in the **Appointments** > **Appointment List**. As shown below:
+You can then visualize these appointments in the **Appointments** > **Appointment List**. As shown below, the appointments have been scheduled accordingly with the appointment schedule described above ("WaC - primary). Note how the appointment dates were calculated on the *Day 1* (2024-08-19).
 
 .. image:: AppSeries2.png
 
-.. note:: The new dates are calculated based on what was added as *Day 1* and the Appointment schedule.
+You can also use the icons already described to *Edit* or *Delete* the appointment.
 
-.. note:: Currently, it is only possible to book appointments for an individual patient at the time.
+You can book appointments for multiple people, by holding the *ctrl* key while selecting the patients with the left-click of the mouse.
+
+.. image:: AppSeries3.png
+
+.. tip: when the *Patient* box is selected, it is possible to search the patient by surname: just start typing the patient you want.
 
 .. _below:
 
@@ -109,7 +113,6 @@ Please navigate to **Appointments** > **Appointments Lists**. Here you will have
 This table can be sorted by *Study ID*, *Last name*, *First name*, *Study*, *Type*, *Scheduled date* and *Confirmed date*. For that, just click on the **-**, as shown below.
 
 .. image:: AppLists.png
-
 
 .. _section:
 
