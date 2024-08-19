@@ -90,7 +90,7 @@ You can book appointments for multiple people, by holding the *ctrl* key while s
 
 .. image:: AppSeries3.png
 
-.. tip: when the *Patient* box is selected, it is possible to search the patient by surname: just start typing the patient you want.
+.. tip: when the *Patient* box is selected (see green rectangle highlighted in the previous figure), it is possible to search the patient by surname: just start typing the patient you want.
 
 .. _below:
 
