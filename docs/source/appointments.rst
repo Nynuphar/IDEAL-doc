@@ -62,6 +62,7 @@ The appointment schedule can then be visualized by navigating to: **Appointment 
 This appointment schedule can be edited or deleted using the following icons:
 
 .. image:: AppEdit.png
+  :width: 400
 
 .. _more:
 
@@ -74,7 +75,7 @@ Plan an appointment series for a patient
 
 Below, we will be *planning* appointments, i.e. scheduling the appointments timings. How to book the actual/definitive/confirmed appointments) will be shown in this `section`_. 
 
-Under the "**Study patients**" section, navigate to **Appointments** > **Create Appointment Series** to create an appointment series, make sure you select your study (in this case, *Wine and Cheese*) in the **Study filter**. Then, select the patient (for example here *Cristiano Ronaldo*) and the day 1 for this patient (preferred starting date and time) and save.
+To plan appointments, and under the "**Study patients**" section, navigate to **Appointments** > **Create Appointment Series** to create an appointment series, make sure you select your study (in this case, *Wine and Cheese*) in the **Study filter**. Then, select the patient (for example here *Cristiano Ronaldo*) and the day 1 for this patient (preferred starting date and time) and save.
 
 .. image:: AppSeries.png
   :width: 600
