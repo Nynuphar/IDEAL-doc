@@ -46,14 +46,14 @@ Here you can specify the:
 * **Repeat appoint.**: select "no repetition" if you don't want this appointment to repeat, otherwise several options to repeat appointments are available (every month, every 2nd month, etc).
 * **Years repeat**: once an appointment is set to repeat, this option will appear. Here you can set for how many years your want your appointment to repeat.
 
-.. note:: **Day 1** here will be the "reference" day from which the appointments dates are calculated. Depending on the study, it will vary. For example, for the STCS it will be the transplant date.
+.. note:: **Day 1** here will be the "reference" day from which the appointments dates are calculated. Day 1 will vary depending on the study. For example, for the STCS it will be the transplant date.
 
 See below the appointment schedule for the study *Wine and Cheese*.
 
 .. image:: AppScheduled.png
-  :width: 600      
+  :width: 1000      
 
-We called this appointment schedule "WaC-primary". This appointment schedule starts with a "Enrolment" on day 1. A "Follow-up" appointment after 10 days, and then a series of montly "Follow-up", for 10 years.
+We called this appointment schedule "WaC-primary". This appointment schedule starts with a "Enrolment" on day 1. A "Follow-up" appointment after 10 days, and then a series of monthly "Follow-up", for 10 years. Note how for each appointment type a different "plus" and "minus day range" can be set.
 
 The appointment schedule can then be visualized by navigating to: **Appointment schedules** > **Appointment Schedule list**. When double clicking on the *Appointment settings* or using the dropdown menu (see orange arrows in the figure), the Appointment Schedule will expand.
 
