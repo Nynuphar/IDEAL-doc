@@ -80,41 +80,47 @@ To plan appointments, and under the "**Study patients**" section, navigate to **
 .. image:: AppSeries.png
   :width: 600
 
-You can then visualize these appointments in the **Appointments** > **Appointment List**. As shown below, the appointments have been scheduled accordingly with the appointment schedule described above ("WaC - primary). Note how the appointment dates were calculated on the *Day 1* (2024-08-19).
-
-.. image:: AppSeries2.png
-
-You can also use the icons already described to *Edit* or *Delete* the appointment.
+Plan an appointment series for multiple patients
+====================================================
 
 You can book appointments for multiple people, by holding the *ctrl* key while selecting the patients with the left-click of the mouse.
 
 .. image:: AppSeries3.png
+  :width: 600
 
 .. tip: when the *Patient* box is selected (see green rectangle highlighted in the previous figure), it is possible to search the patient by surname: just start typing the patient you want.
 
+
+How to delete appointment series for the study patients
+===========================================================
+
+
+
 .. _below:
 
-Book a single appointment for a patient
+Plan a single appointment for a patient
 *********************************************
 
-It is also possible to book a single appointment for a patient (for example, an unplanned appointment).
-
-.. note:: Here we will be *planning* a single appointment, i.e. scheduling one appointment timing (not booking the actual/definitive/confirmed appointment).
-
-For this, navigate to: **Appointments** > **Create Single Appointment** and select the study (in **Study filter**). Select the patient, the type of visit and the scheduled date (appointment range and/or duration), and save. Fo example, David Beckham will have an unplanned appointment on the 27 of March 2024:
+To plan a single appointment for a patient (for example, an unplanned appointment), please navigate to: **Appointments** > **Create Single Appointment** and select the study (in **Study filter**). Select the patient, the type of visit and the scheduled date (appointment range and/or duration), and save. Fo example, David Beckham will have an unplanned appointment on the 27 of August 2024:
 
 .. image:: AppSingle.png
 
-How to visualize the planned appointments for the study patients
-*******************************************************************
-
-Please navigate to **Appointments** > **Appointments Lists**. Here you will have the list of all the appointments booked. You can see the appointments series for the patient *Cristiano Ronaldo* is shown.
-
-This table can be sorted by *Study ID*, *Last name*, *First name*, *Study*, *Type*, *Scheduled date* and *Confirmed date*. For that, just click on the **-**, as shown below.
-
-.. image:: AppLists.png
+.. note:: To schedule the actual/definitive/confirmed appointment time and day, check this `section`_.
 
 .. _section:
+
+How to visualize planned appointments for the study patients
+*******************************************************************
+
+You can visualize these appointments (both planned in series and as a single appointment) in the **Appointments** > **Appointment List**.
+
+As shown below, the appointments have been scheduled accordingly with the appointment schedule described above ("WaC - primary). Note how the appointment dates were calculated on the *Day 1* (2024-08-19).
+
+.. image:: AppSeries2.png
+
+You can also use the icons already described to either *Edit* or *Delete* the appointment.
+
+This table can be sorted by *Study ID*, *Last name*, *First name*, *Study*, *Type*, *Scheduled date* and *Confirmed date*. For that, just click on the **-**, as shown below.
 
 How to book an actual/definitive appointment for a patient
 **************************************************************
