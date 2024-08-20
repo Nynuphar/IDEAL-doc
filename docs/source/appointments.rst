@@ -94,7 +94,7 @@ You can book appointments for multiple people, by holding the *ctrl* key while s
 How to delete appointment series for the study patients
 ===========================================================
 
-
+.. image:: AppDel.png
 
 .. _below:
 
@@ -119,6 +119,8 @@ As shown below, the appointments have been scheduled accordingly with the appoin
 .. image:: AppSeries2.png
 
 You can also use the icons already described to either *Edit* or *Delete* the appointment.
+
+.. image:: AppView.png
 
 This table can be sorted by *Study ID*, *Last name*, *First name*, *Study*, *Type*, *Scheduled date* and *Confirmed date*. For that, just click on the **-**, as shown below.
 
