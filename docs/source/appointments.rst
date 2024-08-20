@@ -80,6 +80,8 @@ To plan appointments, and under the "**Study patients**" section, navigate to **
 .. image:: AppSeries.png
   :width: 600
 
+As shown above, the appointments have been scheduled accordingly with the appointment schedule described above ("WaC - primary). Note how the appointment dates were calculated on the *Day 1* (2024-08-19).
+
 Plan an appointment series for multiple patients
 ====================================================
 
@@ -96,9 +98,12 @@ How to delete appointment series
 
 In order to easily delete appointment series, you can navigate to **Appointments** > **Delete appointment series**, under the *Study patients* section.
 
-Here, you need to select the schedule used to book the appointments and the patient. You will also have the option to delete only future appointments (for example, if the patient drops out from the study) or all the appointments . 
+Here, you need to select the schedule used to book the appointments and the patient. You will also have the option to delete only future appointments (for example, if the patient drops out from the study) or all the appointments.
+
+Below you can see an example, in which all the future appointments of the patient *Angelina Jolie* are being deleted.
 
 .. image:: AppDel.png
+  :width: 500
 
 .. _below:
 
@@ -109,6 +114,8 @@ To plan a single appointment for a patient (for example, an unplanned appointmen
 
 .. image:: AppSingle.png
 
+This appointment can be then visualized together with the other appointments in:  **Appointments** > **Appointment List**.
+
 .. note:: To schedule the actual/definitive/confirmed appointment time and day, check this `section`_.
 
 .. _section:
@@ -116,9 +123,7 @@ To plan a single appointment for a patient (for example, an unplanned appointmen
 How to visualize planned appointments
 *******************************************************************
 
-You can visualize these appointments (both planned in series and as a single appointment) in the **Appointments** > **Appointment List**.
-
-As shown below, the appointments have been scheduled accordingly with the appointment schedule described above ("WaC - primary). Note how the appointment dates were calculated on the *Day 1* (2024-08-19).
+You can visualize these appointments (both planned in series and as a single appointment) in the **Appointments** > **Appointment List**. This table can be sorted by *Study ID*, *Last name*, *First name*, *Study*, *Name* (type of appointment), *Scheduled date* and *Confirmed date*. For that, just click on the **-**, as shown below (orange arrow).
 
 .. image:: AppSeries2.png
 
@@ -127,12 +132,10 @@ You can also use the icons to either *View* or *Delete* the appointment.
 .. image:: AppView.png
   :width: 400
 
-This table can be sorted by *Study ID*, *Last name*, *First name*, *Study*, *Type*, *Scheduled date* and *Confirmed date*. For that, just click on the **-**, as shown below.
-
-How to book an actual/definitive appointment for a patient
+How to book an actual/definitive appointment
 **************************************************************
 
-So far, we have just made the *planning* of the appointments. However, IDEAL also allows to register the actual/definitive appointment.
+So far, we just *planneed* patient appointments. However, IDEAL also allows to register the actual/definitive appointment.
 
 There are 2 ways of doing this:
 
@@ -142,7 +145,6 @@ Book an actual appointment via the **Appointments list**
 For this, navigate to **Appointments** > **Appointments List** > **View** > **Edit Appointment**, as shown below (pink arrow):
 
 .. image:: AppEdit2.png
-
 
 This will open a new window where the details of this appointment can be seen. Here you can then select the **Actual date** (or definitive), as shown below:
 
