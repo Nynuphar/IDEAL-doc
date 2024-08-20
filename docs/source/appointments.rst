@@ -109,7 +109,7 @@ To plan a single appointment for a patient (for example, an unplanned appointmen
 
 .. _section:
 
-How to visualize planned appointments for the study patients
+How to visualize planned appointments
 *******************************************************************
 
 You can visualize these appointments (both planned in series and as a single appointment) in the **Appointments** > **Appointment List**.
@@ -118,9 +118,10 @@ As shown below, the appointments have been scheduled accordingly with the appoin
 
 .. image:: AppSeries2.png
 
-You can also use the icons already described to either *Edit* or *Delete* the appointment.
+You can also use the icons to either *View* or *Delete* the appointment.
 
 .. image:: AppView.png
+  :width: 400
 
 This table can be sorted by *Study ID*, *Last name*, *First name*, *Study*, *Type*, *Scheduled date* and *Confirmed date*. For that, just click on the **-**, as shown below.
 
@@ -134,9 +135,10 @@ There are 2 ways of doing this:
 Book an actual appointment via the **Appointments list**
 =============================================================
 
-For this, navigate to **Appointments** > **Appointments List** > **Edit Appointment**, as shown below (pink arrow):
+For this, navigate to **Appointments** > **Appointments List** > **View** > **Edit Appointment**, as shown below (pink arrow):
 
-.. image:: AppEdit.png
+.. image:: AppEdit2.png
+
 
 This will open a new window where the details of this appointment can be seen. Here you can then select the **Actual date** (or definitive), as shown below:
 
