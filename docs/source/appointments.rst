@@ -146,10 +146,14 @@ For this, navigate to **Appointments** > **Appointments List** > **View** > **Ed
 
 .. image:: AppEdit2.png
 
-This will open a new window where the details of this appointment can be seen. Here you can then select the **Actual date** (or definitive), as shown below:
+This will open a new window where the details of this appointment can be seen. Here you can then select the **Actual date** (or definitive), as shown below, in the case if Cristiano Ronaldo, he will have his Enrolment visit on the 2024-08-20 at 4.30 pm.
 
 .. image:: AppUpdate.png
   :width: 600
+
+The confirmed appointment can be seen on the *Appointments List*:
+
+.. image:: AppUpdate2.png
 
 Book an actual appointment via the **Calendar**
 =============================================================
