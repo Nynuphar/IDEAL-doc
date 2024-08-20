@@ -91,8 +91,12 @@ You can book appointments for multiple people, by holding the *ctrl* key while s
 .. tip: when the *Patient* box is selected (see green rectangle highlighted in the previous figure), it is possible to search the patient by surname: just start typing the patient you want.
 
 
-How to delete appointment series for the study patients
+How to delete appointment series
 ===========================================================
+
+In order to easily delete appointment series, you can navigate to **Appointments** > **Delete appointment series**, under the *Study patients* section.
+
+Here, you need to select the schedule used to book the appointments and the patient. You will also have the option to delete only future appointments (for example, if the patient drops out from the study) or all the appointments . 
 
 .. image:: AppDel.png
 
