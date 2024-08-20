@@ -121,6 +121,16 @@ This area explains how to visualize the scheduled and definitive/booked appointm
 
    calendar
 
+Tasks associated with patient appointments
+***********************************************************
+
+This area explains how tasks are created and how to efficiently use them to manage your to dos regarding patient appointments.
+
+.. toctree::
+   :maxdepth: 1
+
+   tasks
+
 Worflow: onboard an ongoing study to IDEAL
 **************************************************************************************************
 
