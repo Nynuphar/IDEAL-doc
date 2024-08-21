@@ -15,6 +15,20 @@ There are 3 different ways to access tasks:
 * via the `Appointments list`_
 * via the `Task list`_
 
+All of these will show the following display:
+
+.. image:: TasksOverview.png
+
+Again, you can see each task will show associated with a specific appointment.
+
+The task *specific for each appointment* is shown in the top right corner (blue blox): here, you can set the status of this task, the due date, any comment and the responsible user.
+
+The area *Patient tasks* (pink box) allows to visualize all the appointments of this specific patient (in this case Cristiano Ronaldo) and to navigate between appointments by just clicking in the different appointmments. The highlighted appointment in grey quickly shows the appointment which is being visualized. This section also allows to have a quick overview of the tasks for each appointment. 
+
+.. image:: TasksOver2.png
+
+In green, you can quickly access to the *Study Patient Contact Information*, such as email address home address, etc. A quick  
+
 .. _Calendar:
 
 Access tasks via the Calendar
