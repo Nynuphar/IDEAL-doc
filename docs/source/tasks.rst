@@ -16,13 +16,16 @@ The task *specific for each appointment* is shown in the top right corner (blue 
 
 .. _ above:
 
-The area *Patient tasks* (pink box) allows to visualize all the appointments of this specific patient (in this case Cristiano Ronaldo) and to navigate between appointments by just clicking in the different appointmments. The highlighted appointment in grey quickly shows the appointment which is being visualized. This section also allows to have a quick overview of the tasks for each appointment. 
-
-.. image:: TasksOver2.png
+The area *Patient tasks* (pink box) allows to visualize all the appointments of this specific patient (in this case Cristiano Ronaldo) and to navigate between appointments by just clicking in the different appointmments. This section also allows to have a quick overview of the tasks for each appointment. The current appointment is highlighted in grey.
 
 In green, you can quickly access to the *Study Patient Contact Information*, such as email address home address, etc. The full patient information can be accessed by clicking "View Full Patient Details".
 
 .. image:: TasksOver3.png
+
+When an appointment task is updated, this is also updated in the *Patient tasks* section. See below for example, how Manager5 added a *To do* for the appointment on the 08/09/2024, and see how the different tags are shown on the "Current task status":
+
+.. image:: TasksOver2.png
+  :width: 600
 
 How to access tasks
 *************************
