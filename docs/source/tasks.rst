@@ -21,6 +21,7 @@ The area *Patient tasks* (pink box) allows to visualize all the appointments of 
 In green, you can quickly access to the *Study Patient Contact Information*, such as email address home address, etc. The full patient information can be accessed by clicking "View Full Patient Details".
 
 .. image:: TasksOver3.png
+  :width: 500
 
 When an appointment task is updated, this is also updated in the *Patient tasks* section. See below for example, how Manager5 added a *To do* for the appointment on the 08/09/2024, and see how the different tags are shown on the "Current task status":
 
@@ -50,7 +51,7 @@ Go to **Appointments** > **Appointments Calendar** (pick the *planned* appointme
 Access tasks via the Appointments list
 ========================================
 
-Go to **Appointments** > **Appointments List** and then click on the "*View*" icon, as shown below.
+Go to **Appointments** > **Appointments List** and then click on the "*View*" icon, as shown below (orange rectangle).
 
 .. image:: TasksApp.png
 
@@ -59,6 +60,6 @@ Go to **Appointments** > **Appointments List** and then click on the "*View*" ic
 Access tasks via the Tasks list
 ========================================
 
-By navigating to **Appointments** > **Task List**, you will see the list of **all** the tasks for **all the appointments**, for **all the patients**. Note how you can also sort the different categories by clicking on "-", as indicated by the orange arrow. Here, I chose to sort by *Status badge* (green arrow).
+By navigating to **Appointments** > **Task List**, you will see the list of **all** the tasks for **all the appointments**, for **all the patients**. Note how you can also sort the different categories by clicking on "-", as indicated by the orange arrows. Here, I chose to sort by *Status badge* (green arrow).
 
 .. image:: TaskList.png
