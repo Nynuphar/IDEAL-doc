@@ -11,7 +11,7 @@ The IDEAL Superuser is a local administrator.
 
 The main responsibility of a Superuser is to approve new studies and new user accounts, and equally invite new users.
 
-Although able to approve and create a new study, the Superuser does not have direct access to the patient information of a study. Therefore, the Superuser is not able to import a study patient list. Equally, the Superuser is not able to do the IDEAL linkage between the patients in the carecenter/study and is not able to export any patient related files.
+Although able to approve and create a new study, the Superuser does not have direct access to the patient information of a study. Therefore, the Superuser is not able to import a study patient list. Equally, the Superuser is not able to do the IDEAL linkage between the patients in the carecenter/study and is not able to export any patient related files. The Superuser can block the access of the other IDEAL users to patients and studies at any time.
 
 Manager
 =========
