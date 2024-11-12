@@ -22,7 +22,9 @@ A test study named "Test01" was created here as an example, as shown below.
 Please select the users who will be able to access the study later on:
 
  * “Authorized managers”: these users have the role of managers. These can manage the patients and modify the study details.
- * “Authorized users”: these users have the role of users. They can manage the patients but cannot modify the study details. 
+ * “Authorized users”: these users have the role of users. They can manage the patients but cannot modify the study details.
+
+At least one user from one of the categories needs to be selected.
 
 .. image:: UsersStudySelect.png
 
@@ -53,16 +55,21 @@ Click on the "**✓**" to approve the study. Your study is then approved.
 Edit a study
 ********************
 
-If you are an IDEAL **Manager** or **Superuser** (see :doc:`users` for more information), you have the right to edit a study by selecting this icon, on your "**Dashboard**" or "**Studies**">"**Create Study**":
-
+If you are an IDEAL **Manager** or **Superuser** (see :doc:`users` for more information), you have the right to edit a study by selecting this icon "Study details", on your "**Dashboard**" or "**Studies**" > "**Create Study**":
 
 .. image:: EditStudy.png
 
+From here, click on "Edit Study" on the top right (see orange square in figure below). Once you save your changes (by selecting "Save" at the bottom of the "Edit Study" menu), you can check the changes which were made at any time by clicking the icons with the blue arrows. For example, the "Test01" study was changed to "Wine and Cheese" (and the acronym "TT" to "WaC").
 
-.. warning::
-   Any change on a Study will require re-approval from a Superuser.
+.. image:: EditStudy2.png
+
+When you click on the icon next to "Study title" you can see these changes, as demonstrated below:
+
+.. image:: EditStudy3.png
 
 .. note:: Hovering with the mouse over the icons will show you their functions.
+
+An audit log at study level is available - this means that any change in the study metadata will be tracked. To access the study audit log.
 
 Delete a study
 ********************
