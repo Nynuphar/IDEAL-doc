@@ -19,11 +19,10 @@ A test study named "Test01" was created here as an example, as shown below.
    :width: 600
 
 
-Please select the:
+Please select the users who will be able to access the study later on:
 
-   * "**Authorized users**", who will be able to edit and manage patients from a study, but will not be able to edit the study.
-   * "**Local responsible operators**", who will be able to manage users and edit the study.  "**Local responsible operators**" can also manage patients.
-
+ * “Authorized managers”: these users have the role of managers. These can manage the patients and modify the study details.
+ * “Authorized users”: these users have the role of users. They can manage the patients but cannot modify the study details. 
 
 .. image:: UsersStudySelect.png
 
