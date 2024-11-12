@@ -30,23 +30,21 @@ Please select the users who will be able to access the study later on:
 .. note::
    To select multiple users, please use the CTRL + left click button.
 
-You can now click to save and create your study. Your study can now be seen in the "**Studies**" area, as seen below:
+Once the study is saved, it will appear in the “**Studies**” area, as seen below: 
 
 
 .. image:: WaitForSuperuser.png
-   :width: 600
 
-
-Now, your study needs to be approved by the Superuser. Check the next section to understand how to *Approve a new study*.
+The first time a study is created, it needs the approval of the superuser. This approval process by the superuser is detailed in the next section. 
 
 Approve a new study
 ********************
 
-When logged in as Superuser, you will find the study to be approved in your "**Dashboard**":
+Only the Superusers can approve a new study. 
 
+When a Superuser is logged in into their session, the to-be-approved study can be found the study to be approved in your “Dashboard”: 
 
 .. image:: StudyApprovalSuperuser.png
-
 
 Click on the "**✓**" to approve the study. Your study is then approved.
 
