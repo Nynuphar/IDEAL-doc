@@ -14,10 +14,8 @@ Here you can name your study, select an acronym and add a short description for 
 
 A test study named "Test01" was created here as an example, as shown below.
 
-
 .. image:: StudyTestCreated.png
-   :width: 600
-
+   :width: 500
 
 Please select the users who will be able to access the study later on:
 
@@ -27,13 +25,12 @@ Please select the users who will be able to access the study later on:
 At least one user from one of the categories needs to be selected.
 
 .. image:: UsersStudySelect.png
-
+   :width: 500
 
 .. note::
    To select multiple users, please use the CTRL + left click button.
 
 Once the study is saved, it will appear in the “**Studies**” area, as seen below: 
-
 
 .. image:: WaitForSuperuser.png
 
@@ -55,17 +52,19 @@ Click on the "**✓**" to approve the study. Your study is then approved.
 Edit a study
 ********************
 
-If you are an IDEAL **Manager** or **Superuser** (see :doc:`users` for more information), you have the right to edit a study by selecting this icon "Study details", on your "**Dashboard**" or "**Studies**" > "**Create Study**":
+If you are an IDEAL **Manager** or **Superuser** (see :doc:`users` for more information), you have the right to edit a study by selecting this icon "Study details", on your "**Dashboard**" or "**Studies**" > "**Study Lists**":
 
 .. image:: EditStudy.png
 
 From here, click on "Edit Study" on the top right (see orange square in figure below). Once you save your changes (by selecting "Save" at the bottom of the "Edit Study" menu), you can check the changes which were made at any time by clicking the icons with the blue arrows. For example, the "Test01" study was changed to "Wine and Cheese" (and the acronym "TT" to "WaC").
 
 .. image:: EditStudy2.png
+   :width: 500
 
 When you click on the icon next to "Study title" you can see these changes, as demonstrated below:
 
 .. image:: EditStudy3.png
+   :width: 800
 
 .. note:: Hovering with the mouse over the icons will show you their functions.
 
