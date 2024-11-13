@@ -67,11 +67,14 @@ From here, click on "Edit Study" on the top right (see orange square in figure b
 When you click on the icon next to "Study title" you can see these changes, as demonstrated below:
 
 .. image:: EditStudy3.png
-   :width: 800
+   :width: 700
+
+At the bottom of the Study Details (just scroll down). A summary of changes at patient level is shown - for example if a patient has been deleted or updated.
+
+.. image:: EditStudy4.png
+   :width: 500
 
 .. note:: Hovering with the mouse over the icons will show you their functions.
-
-An audit log at study level is available - this means that any change in the study metadata will be tracked. To access the study audit log.
 
 Delete a study
 ********************
