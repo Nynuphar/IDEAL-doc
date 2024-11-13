@@ -8,11 +8,7 @@ First let's update a patient information:
 Edit a patient information
 ****************************
 
-Imagine Donald Timothy Duck was registered as Timothy Duck in the study "Wine and Cheese". As a study nurse, you realize this is a mistake and I want to correct this patient information.
-
-.. image:: DuckEdit.png
-
-For this, please navigate to **Patient management** > **Patient List (Study)** > **Edit patient**
+Imagine Donald Timothy Duck was registered as Timothy Duck in the study "Wine and Cheese". As a study nurse, you realize this is a mistake and I want to correct this patient information. For this, please navigate to **Patient management** > **Patient List (Study)** > > “Patient details” (eye icon). Then select “Edit Patient”.
 
 .. image:: EditPatient.png
 
