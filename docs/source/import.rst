@@ -4,11 +4,11 @@ Import study patients - bulk import from a CSV file
 Define the data format of a study
 ***********************************
 
-Before importing the patients of your study, you need to check the study details. For this click on the *eye* icon on the bar:
+Before importing the patients of your study, you need to check the study details. For this, click on the *eye* icon on the bar, in front of your study (either from the **Dashboard** or **Studies** > **Studies List**).
 
 .. image:: IconsStudyDetails.png
 
-Here you will have access to the "**Study metadata**" and "**My Study Data Format**". This last section is especially important before the bulk import of the patient data from your study, as it allows to match the format of your study data (column names, date format, etc) to the format IDEAL "expects". The format of your data will be "**Source**" and what IDEAL "expects" would be "*IDEAL representation**". 
+Here you will have access to the "**Study metadata**" and "**My Study Data Format**". This last section is especially important before the bulk import of the patient data from your study, as it allows to match the format of your study data (column names, date format, etc) to the format IDEAL "expects". The format of your data will be "**Source**" and what IDEAL "expects" would be "**IDEAL representation**". 
 
 .. warning:: To bulk import patients, IDEAL only supports .CSV files at the moment. Most programs (for example MS Excel) supports conversion into a .CSV format.
 
@@ -30,17 +30,17 @@ It contains the information of 3 "patients". This is a CSV file with the follwin
 
 Let's go step by step, taking the above data as example. In IDEAL, in the "**My Study Data Format**", you can see the following fields:
 
-   - "**CSV delimiter**": here choose what is the separator used on your file
+   - "CSV delimiter": here choose what is the separator used on your file
       * our study is already separated by "," - no change required
-   * "**CSV quotation mark**": here choose the appropriate quotation mark
+   * "CSV quotation mark": here choose the appropriate quotation mark
       * our study is already separated by "," - no change required
-   * "**Date format**": default is set to %Y-%m-%d (format specifier). This means that IDEAL expects the date in the following format: YYYY-mm-dd (for example: 2023-08-01).
-      * our data has a different date format: dd.mm.YYYY (or %d.%m.%Y) - this needs to be updated
-   * "**Gender representation**": IDEAL representation of Female is defined by "**F**", Male by "**M**" and "**Unknown**" to "**O**". Here the source default is pre-set to "Female", "Male", "Unknown", respectively to the IDEAL representation.
-      * in our study, the gender is also set to "**F**" and "**M**" - this needs to be updated. This file is too short to understand how "**Unknown**" is set to, so we will set it as **U** for now.
-   * "**Boolean representation**": here IDEAL expects the value True/False, while the source default is set to Ja/Nein/Unknown,
-      * in our study, the boolean values for **enrolled** are also described as True/False - this needs to be updated
-   * "**Column mapping**": here we need to match the names of our columns to the IDEAL representation. Here the default source columns need to be updated to match the names of our columns, as they are currently set to the same as the IDEAL representation:
+   * "Date format": default is set to %Y-%m-%d (format specifier). This means that IDEAL expects the date in the following format: YYYY-mm-dd (for example: 2023-08-01).
+      * our data has a different date format: dd.mm.YYYY (or %d.%m.%Y) - this needs to be updated: just add the “Date format” and “Datetime format”
+   * "Gender representation": IDEAL representation of Female is defined by "**F**", Male by "**M**" and "**Other**" to "**O**".
+      * in our study, the gender is also set to "**F**" and "**M**" - this does not need to be updated.
+   * "Boolean representation": here IDEAL expects the value True/False, while the source default is set to Ja/Nein/Unknown,
+      * in our study, the boolean values for **enrolled** are also described as True/False - this does not need to be updated
+   * "Column mapping": here we need to match the names of our columns to the IDEAL representation. Here the default source columns need to be updated to match the names of our columns, as they are currently set to the same as the IDEAL representation:
       * study_patient_id
       * first_name
       * last_name
@@ -49,10 +49,9 @@ Let's go step by step, taking the above data as example. In IDEAL, in the "**My 
       * date_of_enrollment
       * enrolled
 
-After the updates mentioned above, "**My Study Data Format**" looks like this:
+You can see here the different changes on "**My Study Data Format**" that need to be done (on the left), and then after the changes (on the right):
 
-.. image:: StudyDetails1.png
-.. image:: StudyDetails2.png
+.. image:: StudyDetails3.png
 
 Your study format has been set and you can "**Save**".
 
