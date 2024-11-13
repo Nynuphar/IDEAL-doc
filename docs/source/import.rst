@@ -7,6 +7,7 @@ Define the data format of a study
 Before importing the patients of your study, you need to check the study details. For this, click on the *eye* icon on the bar, in front of your study (either from the **Dashboard** or **Studies** > **Studies List**).
 
 .. image:: IconsStudyDetails.png
+   :width: 300
 
 Here you will have access to the "**Study metadata**" and "**My Study Data Format**". This last section is especially important before the bulk import of the patient data from your study, as it allows to match the format of your study data (column names, date format, etc) to the format IDEAL "expects". The format of your data will be "**Source**" and what IDEAL "expects" would be "**IDEAL representation**". 
 
@@ -38,7 +39,7 @@ Let's go step by step, taking the above data as example. In IDEAL, in the "**My 
       * our data has a different date format: dd.mm.YYYY (or %d.%m.%Y) - this needs to be updated: just add the “Date format” and “Datetime format”
    * "Gender representation": IDEAL representation of Female is defined by "**F**", Male by "**M**" and "**Other**" to "**O**".
       * in our study, the gender is also set to "**F**" and "**M**" - this does not need to be updated.
-   * "Boolean representation": here IDEAL expects the value True/False, while the source default is set to Ja/Nein/Unknown,
+   * "Boolean representation": here IDEAL expects the value True/False
       * in our study, the boolean values for **enrolled** are also described as True/False - this does not need to be updated
    * "Column mapping": here we need to match the names of our columns to the IDEAL representation. Here the default source columns need to be updated to match the names of our columns, as they are currently set to the same as the IDEAL representation:
       * study_patient_id
@@ -68,7 +69,7 @@ To import a list of patients from an ongoing study, select "**Import**" in the "
 
 .. image:: ImportStudy.png
 
-..warning:: Before importing the list of patients, first make sure you are trying to import a .CSV file and that this file follows the data format defined on IDEAL (see above how to do this).
+.. warning:: Before importing the list of patients, first make sure you are trying to import a .CSV file and that this file follows the data format defined on IDEAL (see above how to do this).
 
 Here, select the study you want to import patients to and select the CSV file which contains the Study patients.
 
