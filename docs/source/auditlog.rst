@@ -8,7 +8,7 @@ First let's update a patient information:
 Edit a patient information
 ****************************
 
-Imagine Donald Timothy Duck was registered as Timothy Duck in the study "Wine and Cheese". As a study nurse, you realize this is a mistake and I want to correct this patient information. For this, please navigate to **Patient management** > **Patient List (Study)** > > “Patient details” (eye icon). Then select “Edit Patient”.
+Imagine Donald Timothy Duck was registered as Timothy Duck in the study "Wine and Cheese". As a study nurse, you realize this is a mistake and I want to correct this patient information. For this, please navigate to **Patient management** > **Patient List (Study)** > **Patient details** (eye icon). Then select **Edit Patient**.
 
 .. image:: EditPatient.png
 
@@ -17,11 +17,7 @@ Here you can correct the information and maybe also update the address of this p
 Audit log
 *************
 
-You can see now see these changes and the audit log, by navigating to **Patient management** > **Patient List (Study)** > **Patient details**
-
-.. image:: PatientDetails.png
- 
-And then select "Audit"                                                     
+You can see now see these changes and the audit log, by navigating to **Patient management** > **Patient List (Study)** > **Patient details** (eye icon). Then select **Audit**. And then select "Audit".
 
 .. image:: AuditLog.png
 
