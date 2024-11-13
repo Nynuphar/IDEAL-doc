@@ -56,6 +56,9 @@ If you are an IDEAL **Manager** or **Superuser** (see :doc:`users` for more info
 
 .. image:: EditStudy.png
 
+Audit log at study level
+==============================
+
 From here, click on "Edit Study" on the top right (see orange square in figure below). Once you save your changes (by selecting "Save" at the bottom of the "Edit Study" menu), you can check the changes which were made at any time by clicking the icons with the blue arrows. For example, the "Test01" study was changed to "Wine and Cheese" (and the acronym "TT" to "WaC").
 
 .. image:: EditStudy2.png
