@@ -6,9 +6,9 @@ Calendar overview
 
 .. note:: Filter the study that you want to see in the *Filter* menu on top of the page.
 
-The calendar helps you visualizing and managing your patient appointnments.
+The calendar helps you visualizing and managing your patient appointments.
 
-To viusualize it, please navigate to: **Appointments** > **Appointments Calendar**.
+To visualize it, please navigate to: **Appointments** > **Appointments Calendar**.
 
 Below, you can see a general overview of the calendar, and some of its features:
 
