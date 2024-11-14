@@ -1,11 +1,11 @@
-File export
-##############
+Export of pre-defined or customized files
+###############################################
 
-Currently only an **IDEAL manager** and **IDEAL superuser** can export the log files.
+Currently only an **IDEAL manager** and **IDEAL user** can export the log files.
 
-To export the log files go to "**Studies**" and then "**Log file export**".
+Go to "**Studies**" > "**Log file export**". After selecting the study, you can easily export the pre-formatted files by selecting one of the options, as shown below:
 
-.. note:: Files in 2 different formats are generated: .pdf and .csv
+.. image:: Logs1.png
 
 There are 3 types of log files which can be exported (an example of each file is shown below):
 
@@ -23,3 +23,10 @@ There are 3 types of log files which can be exported (an example of each file is
 --------------------------------
 
 .. image:: SubjectLinkingLog.png
+
+It is also possible to customize the export file, by following the steps shown below:
+
+.. image:: Logs2.png
+
+.. note:: Files in 2 different formats are generated: .pdf and .csv
+
