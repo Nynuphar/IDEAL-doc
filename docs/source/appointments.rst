@@ -91,7 +91,6 @@ You can book appointments for multiple people, by holding the *ctrl* key while s
 
 .. tip: when the *Patient* box is selected (see green rectangle highlighted in the previous figure), it is possible to search the patient by surname: just start typing the patient you want.
 
-
 How to delete appointment series
 ===========================================================
 
@@ -111,7 +110,7 @@ Below you can see an example, in which all the future appointments of the patien
 Plan a single appointment for a patient
 *********************************************
 
-To plan a single appointment for a patient (for example, an unplanned appointment), please navigate to: **Appointments** > **Create Single Appointment** and select the study (in **Study filter**). Select the patient, the type of visit and the scheduled date (appointment range and/or duration), and save. Fo example, David Beckham will have an unplanned appointment on the 27 of August 2024:
+To plan a single appointment for a patient (for example, an unplanned appointment), please navigate to: **Appointments** > **Create Single Appointment** and select the study (in **Study filter**). Select the patient, the type of visit and the scheduled date (appointment range and/or duration), and save. For example, David Beckham will have an unplanned appointment on the 27 of August 2024:
 
 .. image:: AppSingle.png
 
@@ -136,7 +135,7 @@ You can also use the icons to either *View* or *Delete* the appointment.
 How to book an actual/definitive appointment
 **************************************************************
 
-So far, we just *planneed* patient appointments. However, IDEAL also allows to register the actual/definitive appointment.
+So far, we just *planned* patient appointments. However, IDEAL also allows to register the actual/definitive appointment.
 
 There are 2 ways of doing this:
 
@@ -147,21 +146,18 @@ For this, navigate to **Appointments** > **Appointments List** > **View** > **Ed
 
 .. image:: AppEdit2.png
 
-This will open a new window where the details of this appointment can be seen. Here you can then select the **Actual date** (or definitive), as shown below, in the case if Cristiano Ronaldo, he will have his Enrolment visit on the 2024-08-20 at 4.30 pm.
+This will open a new window where the details of this appointment can be seen. Here you can then select the Actual date (or definitive), as shown below, and edit the confirmed date. In the case if Cristiano Ronaldo will have his Enrolment visit on the 2024-08-20 at 4.30 pm. The confirmed appointment can be then seen on the *Appointments List*.
+
 
 .. image:: AppUpdate.png
-  :width: 600
-
-The confirmed appointment can be seen on the *Appointments List*:
-
-.. image:: AppUpdate2.png
+  :width: 500
 
 Book an actual appointment via the **Calendar**
 =============================================================
 
-You can also book the actual/definitive appointment directly from the **Calendar** (for more informations about the calendar, please check this section: :doc:`calendar`).
+You can also book the actual/definitive appointment directly from the **Calendar** (for more information about the calendar, please check this section: :doc:`calendar`). To access this, go to **Appointments** >  **Appointments calendar**.
 
-First, make sure you are on the *planned* view of the calendar. Then you just need to **double click** on the appointment and the window to update the appointment will appear as above.
+First, make sure you are on the *scheduled* view of the calendar. Then you just need to **double click** on the appointment and the window to update the appointment will appear as above.
 
 
 
