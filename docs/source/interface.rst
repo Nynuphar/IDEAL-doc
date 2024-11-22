@@ -12,6 +12,11 @@ As **IDEAL Manager** and **IDEAL User**, it gives a quick peak into your studies
 
 As **IDEAL Superuser**, it gives an overview of the different studies and users you are managing. It is also a quick way to check if there is any new study which needs your approval.
 
+Patient Dashboard
+*******************
+
+This dashboard was designed to streamline patient management inside a study. From the patient dashboard, you can access all relevant information for the same patient.
+
 Study
 *********
 
