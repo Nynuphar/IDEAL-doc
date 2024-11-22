@@ -26,6 +26,13 @@ This section provides an overview of the IDEAL interface, so it is easier to und
 
    interface
 
+Patient Dashboard
+**********************
+
+.. toctree::
+   :maxdepth: 1
+
+   PatDashboard
 
 IDEAL users
 **************
