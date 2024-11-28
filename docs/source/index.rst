@@ -145,7 +145,7 @@ This area explains how to use template letters to write personalized letters to 
 .. toctree::
    :maxdepth: 1
 
-   Letter
+   letter
 
 
 Worflow: onboard an ongoing study to IDEAL
