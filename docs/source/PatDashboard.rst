@@ -21,5 +21,6 @@ The patient dashboard allows to easily access the following features:
 4. Patient Details - see the patient details
 5. Create Letter - create a letter specifically for this patient
 
+for this, you need first to search for one study patient. Then, you can navigate between the different containers (by clicking on them), as shown below.
 
-
+.. image:: PatDashboard2.png
