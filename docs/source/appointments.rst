@@ -1,7 +1,7 @@
+.. AppRef:
+
 Appointments
 ##############
-
-.. _Appointments:
 
 Patient appointments can be booked as **series** or **single** appointments. To book **appointment series**, an **appointment schedule** needs to be created first. Check `here`_ how to do it. To book **single appointments**, please check `below`_ how to do this.
 
