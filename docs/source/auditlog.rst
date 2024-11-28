@@ -6,11 +6,17 @@ Patient details, editing patient information and audit log
 Patient details
 *****************
 
-The patient details of a study (or the hospital) can be accessed via different ways:
+The patient details of a study (or the hospital) can be accessed in different ways:
 
 1. Via the **Patient Dashboard** - search for your patient and select container **Patient Details**
-2. Via the **Patient management** > **Patients List (Study)**
-3. Via the **Appointments** > **Appointments List** - search for your patient. Select the "eye" icon, scroll to the bottom of the page and expand "Study Patient contact Information".
+2. Via the **Patient management** > **Patients List (Study)**. Click on the "eye" icon.
+3. Via the **Appointments** > **Appointments List** - search for your patient. Click on the "eye" icon, scroll to the bottom of the page and expand "Study Patient contact Information" and then select "View Full Patient Details".
+
+You will see a side by side view of the patient data. On the left, the "Hospital personal information", on the right "Patient personal information" from the study. The hospital information on the left cannot be edited, but the study specific information can by selecting "Edit Patient".
+
+Please note, that this information might not be exactly the same - for example in the case below, the patient changed phone number, which has been updated by the study nurse in the "Patient personal information" field. These changes will be tracked in "Audit" (see more information about the :ref:`Audit log <AuditRef>`).
+
+.. image:: PatDetails.png
 
 First let's update a patient information:
 
@@ -22,6 +28,8 @@ Imagine Donald Timothy Duck was registered as Timothy Duck in the study "Wine an
 .. image:: EditPatient.png
 
 Here you can correct the information and maybe also update the address of this patient, as he notified you he had now moved to the "Rue des souries", and then **Save***.
+
+.. _AuditRef:
 
 Audit log
 *************
