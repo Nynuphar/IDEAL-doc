@@ -15,7 +15,7 @@ Major features
 
 The patient dashboard allows to easily access the following features:
 
-1. Appointments - see all the appointments for a specific patient
+1. `Appointments`_ - see all the appointments for a specific patient
 2. Appointments Calendar - see all calendar appointments in the calendar for a specific patient
 3. Patient Tasks - see all patient tasks associated with a specific patient
 4. Patient Details - see the patient details
