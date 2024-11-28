@@ -1,7 +1,16 @@
-Editing patient information and audit log
-############################################
+Patient details, editing patient information and audit log
+######################################################################
 
-The audit log tracks the any change which happen at the Study level. For example, if a patient's address is edited, this will be tracked.
+.. _PatDetRef:
+
+Patient details
+*****************
+
+The patient details of a study (or the hospital) can be accessed via different ways:
+
+1. Via the **Patient Dashboard** - search for your patient and select container **Patient Details**
+2. Via the **Patient management** > **Patients List (Study)**
+2. Via the **Appointments** > **Appointments List** - search for your patient. Select the "eye" icon, scroll to the bottom of the page and expand "Study Patient contact Information".
 
 First let's update a patient information:
 
@@ -16,6 +25,8 @@ Here you can correct the information and maybe also update the address of this p
 
 Audit log
 *************
+
+The audit log tracks the any change which happen at the Study level. For example, if a patient's address is edited, this will be tracked.
 
 You can see now see these changes and the audit log, by navigating to **Patient management** > **Patient List (Study)** > **Patient details** (eye icon). Then select **Audit**. And then select "Audit".
 
