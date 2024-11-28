@@ -29,10 +29,12 @@ This section provides an overview of the IDEAL interface, so it is easier to und
 Patient Dashboard
 **********************
 
+The patient dashboard allows a centralized workflow over one specific patient.
+
 .. toctree::
    :maxdepth: 1
 
-   PatDashboard
+   patDashboard
 
 IDEAL users
 **************
