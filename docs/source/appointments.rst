@@ -1,4 +1,4 @@
-.. AppRef:
+.. _AppRef:
 
 Appointments
 ##############
