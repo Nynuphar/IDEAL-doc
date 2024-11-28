@@ -16,10 +16,10 @@ Major features
 The patient dashboard allows to easily access the following features:
 
 1. :ref:`Appointments` - see all the appointments for a specific patient
-2. Appointments Calendar - see all calendar appointments in the calendar for a specific patient
-3. Patient Tasks - see all patient tasks associated with a specific patient
-4. Patient Details - see the patient details
-5. Create Letter - create a letter specifically for this patient
+2. :ref:`Appointments Calendar` - see all calendar appointments in the calendar for a specific patient
+3. :ref:`Patient Tasks` - see all patient tasks associated with a specific patient
+4. :ref:`Patient Details` - see the patient details
+5. :ref:`Create Letter` - create a letter specifically for this patient
 
 for this, you need first to search for one study patient. Then, you can navigate between the different containers (by clicking on them), as shown below.
 
