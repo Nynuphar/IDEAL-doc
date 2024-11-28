@@ -138,6 +138,16 @@ This area explains how tasks are created and how to efficiently use them to mana
 
    tasks
 
+Create a letter template and generate template letters for specific patients
+*********************************************************************************
+
+This area explains how to use template letters to write personalized letters to patients.
+.. toctree::
+   :maxdepth: 1
+
+   Letter
+
+
 Worflow: onboard an ongoing study to IDEAL
 **************************************************************************************************
 
