@@ -10,7 +10,7 @@ The patient details of a study (or the hospital) can be accessed via different w
 
 1. Via the **Patient Dashboard** - search for your patient and select container **Patient Details**
 2. Via the **Patient management** > **Patients List (Study)**
-2. Via the **Appointments** > **Appointments List** - search for your patient. Select the "eye" icon, scroll to the bottom of the page and expand "Study Patient contact Information".
+3. Via the **Appointments** > **Appointments List** - search for your patient. Select the "eye" icon, scroll to the bottom of the page and expand "Study Patient contact Information".
 
 First let's update a patient information:
 
