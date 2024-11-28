@@ -1,6 +1,8 @@
 Tasks to manage appointments
 ###############################
 
+.. _Patient Tasks:
+
 Creating appointments automatically creates an associated task
 *******************************************************************
 
