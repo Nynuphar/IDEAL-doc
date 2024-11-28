@@ -1,3 +1,5 @@
+.. _AppCalRef:
+
 Calendar to view patient appointments 
 ##########################################
 
