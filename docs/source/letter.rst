@@ -22,6 +22,7 @@ Section overview
 The figure below shows an overview of the user interface. Here you can see what you can do in each section.
 
 .. image:: LetterOverview.png
+   :width: 800
 
 We recommend the following work flow:
 
@@ -55,5 +56,17 @@ Select patients
 You can select the patients either by typing the name of the patient or by expanding the list of study patients (see section *Add Study-Patients*). Once selected, they will appear under the *Setup Patient Letters* section, within *Select Patients*, as illustrated in the figure below.
 
 .. image:: LetterAdd.png
+   :width: 800
 
 .. tip:: When managing multiple studies, you can use the filter at the top of the page to quickly and easily select the patient list for a specific study.
+
+Generate serial letters based on appointments
+***************************************************
+
+If you want to send serial letters based on appointments, check the box *Include appointments*.
+
+Then select again which appointments you want to include, as shown below:
+
+.. image:: LetterApp.png
+
+.. warning:: Only **booked** appointments will be added to the template letters.
