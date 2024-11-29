@@ -120,6 +120,8 @@ You can also use the icons to either *View* or *Delete* the appointment.
 .. image:: AppView.png
   :width: 400
 
+.. _FilterRef:
+
 Filter range of appointments 
 =============================================================
 
@@ -203,6 +205,6 @@ Here, you can select select the specific appointments to export, by ticking the 
 Export all displayed as list
 =====================================
 
-Here the appointments which will be exported are the ones currently in the table view. You can modify this by changing the list length at the bottom of the page or adjusting the time range in the filering option.
+Here the appointments which will be exported are the ones currently in the table view. You can modify this by either changing the list length at the bottom of the page (see below) or adjusting the time range in the :ref:`filering option<FilterRef>`.
 
 .. image:: AppListLength.png
