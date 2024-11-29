@@ -144,11 +144,11 @@ Create a letter template and generate template letters for specific patients
 *********************************************************************************
 
 This area explains how to use template letters to write personalized letters to patients.
+
 .. toctree::
    :maxdepth: 1
 
    letter
-
 
 Worflow: onboard an ongoing study to IDEAL
 **************************************************************************************************
