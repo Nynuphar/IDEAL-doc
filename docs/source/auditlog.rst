@@ -18,12 +18,10 @@ Please note, that this information might not be exactly the same - for example i
 
 .. image:: PatDetails.png
 
-First let's update a patient information:
-
 Edit a patient information
 ****************************
 
-Imagine Donald Timothy Duck was registered as Timothy Duck in the study "Wine and Cheese". As a study nurse, you realize this is a mistake and I want to correct this patient information. For this, please navigate to **Patient management** > **Patient List (Study)** > **Patient details** (eye icon). Then select **Edit Patient**.
+Imagine Donald Timothy Duck was registered as Timothy Duck in the study "Wine and Cheese". As a study nurse, you want to update the patient information. For this, please navigate to **Patient management** > **Patient List (Study)** > **Patient details** (eye icon). Then select **Edit Patient**.
 
 .. image:: EditPatient.png
 
@@ -34,7 +32,7 @@ Here you can correct the information and maybe also update the address of this p
 Audit log
 *************
 
-The audit log tracks the any change which happen at the Study level. For example, if a patient's address is edited, this will be tracked.
+The audit log tracks the any change which happens to a patient in a study. For example, if a patient's address is edited, this will be tracked.
 
 You can see now see these changes and the audit log, by navigating to **Patient management** > **Patient List (Study)** > **Patient details** (eye icon). Then select **Audit**. And then select "Audit".
 
