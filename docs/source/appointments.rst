@@ -120,6 +120,13 @@ You can also use the icons to either *View* or *Delete* the appointment.
 .. image:: AppView.png
   :width: 400
 
+Filter range of appointments 
+=============================================================
+
+You can customize the displayed appointments by filtering them based on a specific time range, as demonstrated below.
+
+.. image:: AppFilter.png
+
 How to book an actual/definitive appointment
 **************************************************************
 
@@ -169,7 +176,33 @@ Below you can see an example, in which all the future appointments of the patien
 How to delete specific appointments
 ===========================================================
 
-Please navigate to **Appointments** > **Appointments List**. Here you can select which appointments you want to delete, as shown below, and then select **Batch operations** > **Delete multiple**.
+Please navigate to **Appointments** > **Appointments List**. Here you can select which specific appointments you want to delete, as shown below, and then select **Batch operations** > **Delete multiple**.
 
 .. image:: DelMultiApp.png
 
+How to export appointments
+********************************
+
+Appointments can be exported by navigating to **Appointments** > **Appointments List**, and then selecting **Batch operations**.
+
+Here, 2 options are available: **Export selected as list** and **Export all displayed as list**.
+
+.. note:: Appointments can be exported in the following formats: .csv, .pdf and .ics (calendar format).
+
+.. tip:: See how to integrate these appointments into your calendar by checking :ref:`this section <sectionRef>`.
+
+.. warning:: Be aware that if an appointment has a confirmed date - the confirmed date will be exported (and not the scheduled range).
+
+Export selected as list
+===========================
+
+Here, you can select select the specific appointments to export, by ticking the boxes, as shown below. Then select **Export selected as list** in the **Batch operations**.
+
+.. image:: AppExportSel.png
+
+Export all displayed as list
+=====================================
+
+Here the appointments which will be exported are the ones currently in the table view. You can modify this by changing the list length at the bottom of the page or adjusting the time range in the filering option.
+
+.. image:: AppListLength.png
