@@ -93,20 +93,6 @@ You can book appointments for multiple people, by holding the *ctrl* key while s
 
 .. tip: when the *Patient* box is selected (see green rectangle highlighted in the previous figure), it is possible to search the patient by surname: just start typing the patient you want.
 
-How to delete appointment series
-===========================================================
-
-In order to easily delete appointment series, you can navigate to **Appointments** > **Delete appointment series**, under the *Study patients* section.
-
-Here, you need first to select the schedule which was used to book the appointments and then the patient. You will also have the option to delete only future appointments (for example, if the patient drops out from the study) or all the appointments.
-
-Below you can see an example, in which all the future appointments of the patient *Angelina Jolie* are being deleted.
-
-.. image:: AppDel.png
-  :width: 500
-
-.. note:: By choosing the Appointment Schedule first, a subsection of the patients which had appointments booked with this appointment schedule will be displayed.
-
 .. _below:
 
 Plan a single appointment for a patient
@@ -161,7 +147,29 @@ You can also book the actual/definitive appointment directly from the **Calendar
 
 First, make sure you are on the *scheduled* view of the calendar. Then you just need to **double click** on the appointment and the window to update the appointment will appear as above.
 
+How to delete appointments
+********************************
 
+There are many ways to delete appointments, either by deleting appointment series or selecting specific appointments to be deleted.
 
+How to delete appointment series
+===========================================================
 
+In order to easily delete appointment series, you can navigate to **Appointments** > **Delete appointment series**, under the *Study patients* section.
+
+Here, you need first to select the schedule which was used to book the appointments and then the patient. You will also have the option to delete only future appointments (for example, if the patient drops out from the study) or all the appointments.
+
+Below you can see an example, in which all the future appointments of the patient *Angelina Jolie* are being deleted.
+
+.. image:: AppDel.png
+  :width: 500
+
+.. note:: By choosing the Appointment Schedule first, only the subsection of the patients (with appointments booked with this appointment schedule) will be displayed.
+
+How to delete specific appointments
+===========================================================
+
+Please navigate to **Appointments** > **Appointments List**. Here you can select which appointments you want to delete, as shown below, and then select **Batch operations** > **Delete multiple**.
+
+.. image:: DelMultiApp.png
 
