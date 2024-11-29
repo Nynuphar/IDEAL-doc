@@ -14,7 +14,7 @@ You can access the section of letter creation by either:
 
 * Navigate to: **Patient management** > **Create Letter**, or
 * Navigate to: **Patient management** > **Patient lists (Study)** > Select patients > **Batch operations**.
-* Navigate to: :ref:`**Patient dashboard** <PatDashRef>`, search for the patient and then select the "container" *Create Letter*. This patient will be automatically selected.
+* Navigate to: :ref:`Patient dashboard <PatDashRef>`, search for the patient and then select the "container" *Create Letter*. This patient will be automatically selected.
 
 Section overview
 ********************
