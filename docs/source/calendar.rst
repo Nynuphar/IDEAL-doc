@@ -60,6 +60,8 @@ When returning to the calendar view, in the *Planned* section, you can see that 
 
 .. tip:: When a definitive date for an appointment is cancelled, the colour will revert from a transpartent to a bold shade.
 
+.. _sectionRef:
+
 Calendar export and import to another software
 *************************************************
 
