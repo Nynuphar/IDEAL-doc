@@ -1,3 +1,5 @@
+.. _AddPatientRef:
+
 Patient management: add a patient to a study
 ###########################################################################################
 
