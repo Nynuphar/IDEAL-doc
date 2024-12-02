@@ -71,6 +71,7 @@ If you want to send serial letters based on appointments, check the box *Include
 Then select again which appointments you want to include, as shown below:
 
 .. image:: LetterApp.png
+   :width: 700
 
 .. warning:: Only **booked** appointments will be added to the template letters.
 
