@@ -15,6 +15,25 @@ IDEAL has different users, who have different permissions, and consequently have
 .. note::
    This project is under active development.
 
+IDEAL users
+**************
+
+This section provides information about the different types of users and respective permissions.
+
+.. toctree::
+   :maxdepth: 1
+
+   users
+
+User registration
+**********************
+
+This section provides information about user registration and account management.
+
+.. toctree::
+   :maxdepth: 1
+
+   userRegistration
 
 IDEAL interface - an overview
 *******************************
@@ -35,16 +54,6 @@ The patient dashboard allows a centralized workflow over one specific patient.
    :maxdepth: 1
 
    patDashboard
-
-IDEAL users
-**************
-
-This section provides information about the different types of users and respective permissions.
-
-.. toctree::
-   :maxdepth: 1
-
-   users
 
 Study management: create, approve, edit and delete a study
 **************************************************************
