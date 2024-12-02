@@ -12,6 +12,7 @@ There are 2 ways of creating an account on IDEAL:
 Both ways will redirect you to the registration page (see below). Mandatory fields are: email, password, first and last name.
 
 .. image:: Registration.png
+  :width: 300
 
 After registering, you'll receive an automatic email. Simply click the link provided to fully activate your account.
 
@@ -28,10 +29,12 @@ To invite an user, please navigate to **Invite user** on the left menu.
 Here you can specify the user's email and the respective role.
 
 .. image:: InviteUser.png
+  :width: 500
 
 After inviting the user, you can monitor whether they have accepted the invitation by going to: **Users** > **Invited users**.
 
 .. image:: InvitedUser.png
+  :width: 850
 
 .. warning:: IDEAL only sends internal emails, which means only users from the respective hospital domain will receive an invitation email.
 
