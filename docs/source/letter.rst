@@ -24,7 +24,10 @@ The figure below shows an overview of the user interface. Here you can see what 
 .. image:: LetterOverview.png
    :width: 800
 
-We recommend the following work flow:
+Recommended workflow
+********************************
+
+We recommend the following workflow:
 
 1. Check the instructions on how to generate a :ref:`template letter <TempRef>` (compatible with IDEAL) - or adapt the example template we provide (see section *Template document information*).
 2. Add study patients as shown in the :ref:`section below <AddLetterRef>`.
@@ -34,12 +37,12 @@ We recommend the following work flow:
 .. _TempRef
 
 Customizable template letter
-********************************
+=====================================
 
 We provide an example of a template letter (as a .docx document) which can be customized as you please.
 
 Example of a template document
-=====================================
+------------------------------------
 
 Below is an example of a template letter we provide, available for download. This .docx document is fully customizable and includes pre-set merge fields (highlighted in orange), which IDEAL can automatically read and populate with relevant data.
 
@@ -51,7 +54,7 @@ Below is an example of a template letter we provide, available for download. Thi
 .. _AddLetterRef
 
 Select patients
-********************************
+=====================================
 
 You can select the patients either by typing the name of the patient or by expanding the list of study patients (see section *Add Study-Patients*). Once selected, they will appear under the *Setup Patient Letters* section, within *Select Patients*, as illustrated in the figure below.
 
@@ -61,7 +64,7 @@ You can select the patients either by typing the name of the patient or by expan
 .. tip:: When managing multiple studies, you can use the filter at the top of the page to quickly and easily select the patient list for a specific study.
 
 Generate serial letters based on appointments
-***************************************************
+===========================================================
 
 If you want to send serial letters based on appointments, check the box *Include appointments*.
 
@@ -70,3 +73,5 @@ Then select again which appointments you want to include, as shown below:
 .. image:: LetterApp.png
 
 .. warning:: Only **booked** appointments will be added to the template letters.
+
+
