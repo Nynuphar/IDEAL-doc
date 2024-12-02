@@ -36,8 +36,8 @@ Once the study is saved, it will appear in the “**Studies**” area, as seen b
 
 The first time a study is created, it needs the approval of the superuser. This approval process by the superuser is detailed in the next section. 
 
-Approve a new study
-********************
+Approve a new study - only for Superusers
+***********************************************
 
 Only the Superusers can approve a new study. 
 
@@ -76,8 +76,8 @@ At the bottom of the Study Details (just scroll down). A summary of changes at p
 
 .. note:: Hovering with the mouse over the icons will show you their functions.
 
-Add patients to a study
-*************************
+Add patients to a study - only for Users or Managers
+**********************************************************
 
 There are 2 ways to add patients to your study: 
 
@@ -86,8 +86,8 @@ There are 2 ways to add patients to your study:
 
 .. note:: Once a patient list is added to IDEAL, you can add *new* patients by selecting them directly from the hospital database.
 
-Block a study
-***************
+Block a study - only for Superusers
+******************************************
 
 The Superuser has the right to block a study, which temporarily revokes access to its patient data (this is a reversible feature).
 
@@ -96,7 +96,7 @@ For this, go to **Studies** > ** Studies List**, and then select "Study's detail
 .. image:: StudyDeclined.png
 
 Delete a study
-********************
+*****************
 
 An IDEAL manager can delete a study before it has been approved by a Superuser. After the study has been approved, only the Superuser has the right to delete the study.
 
