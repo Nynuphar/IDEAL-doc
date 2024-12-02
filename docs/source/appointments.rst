@@ -1,7 +1,7 @@
 .. _AppRef:
 
-Appointments
-##############
+Patient visits and how to book and how to manage
+#######################################################
 
 Patient appointments can be booked as **series** or **single** appointments. To book **appointment series**, an **appointment schedule** needs to be created first. Check `here`_ how to do it. To book **single appointments**, please check `below`_ how to do this.
 
@@ -181,6 +181,8 @@ How to delete specific appointments
 Please navigate to **Appointments** > **Appointments List**. Here you can select which specific appointments you want to delete, as shown below, and then select **Batch operations** > **Delete multiple**.
 
 .. image:: DelMultiApp.png
+
+.. _ExpAppRef:
 
 How to export appointments
 ********************************
