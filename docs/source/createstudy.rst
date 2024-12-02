@@ -86,3 +86,13 @@ To delete a study just navigate to your "**Dashboard**" and select the appropria
 .. image:: DeleteStudy.png
 
 A message will appear for you to confirm this action.
+
+Add patients to a study
+*************************
+
+There are 2 ways to add patients to your study: 
+
+1. bulk import of a pre-existing patient list (if the study is ongoing and you have been maintaining the patient list outside IDEAL) - find more details :ref:`here <BulkRef>`
+2. add new patients directly from the hospital database (newly created study, in which the patient list is directly generated in IDEAL) - find more details :ref:`here <AddPatientRef>` 
+
+.. note:: Once a patient list is added to IDEAL, you can add *new* patients by selecting them directly from the hospital database.
