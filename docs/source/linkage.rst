@@ -1,14 +1,12 @@
 IDEAL linkage
 #######################################################
 
-Linkage
-*********
+Linkage Between Hospital and Study
+*******************************************
 
 After bulk import of your study patients (see :doc:`study`), IDEAL will automatically link the patients from your study with the patients from the hospital.
 
-
 .. image:: Linkage.png
-
 
 Here for example, 100 patients were imported and from these, 80 had an immediate match with the hospital patients, while 14 "similar pairs" were linked.
 
@@ -19,7 +17,6 @@ We will look at some examples of "similar pairs" below, but first let's navigate
 .. warning:: If you get an error message when importing your patients to a study, please check either this section :doc:`trouble` or this :doc:`study`.
 
 .. note:: The linkage in IDEAL works by using an alghoritm to calculate the similarities between the patient information between the Study CSV and the Hospital. The more information provided, the more information to compare and the more accurate will it be!
-
 
 Study overview after linkage
 ******************************************************
