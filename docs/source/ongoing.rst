@@ -118,7 +118,7 @@ To import a list of patients from an ongoing study, select "**Import**" in the "
 
 .. image:: ImportStudy.png
 
-..warning:: Before importing the list of patients, first make sure you are trying to import a .CSV file and that this file follows the data format defined on IDEAL (see above how to do this).
+.. warning:: Before importing the list of patients, first make sure you are trying to import a .CSV file and that this file follows the data format defined on IDEAL (see above how to do this).
 
 Here, select the study you want to import patients to and select the CSV file which contains the Study patients.
 
@@ -127,3 +127,21 @@ Your Study patients will be automatically linked and matched to the Hospital dat
 Check the section :doc:`linkage` to understand more about the linkage process on IDEAL and how to further manage the patients in your study!
 
 .. warning:: Confirm the format and the name of your columns matches the format expected by IDEAL!
+
+Matching between imported patient list and carecenter
+=========================================================
+
+Matching between the imported patient list and the carecenter can be done in 2 ways:
+
+1. Matching by Hospital ID
+2. Matching by patient name and date of birth
+
+.. warning:: if both Hospital ID and patient name + DOB are present, the matching is done by Hospital ID.
+
+Input/output uses cases and warnings
+*********************************************
+
+The patient list should be checked for repeated entries before importing them in IDEAL. In the future we plan to develop a check which prevents these situations, but currently be aware that:
+
+* Patients with the same Study ID, but different Hospital IDs: only the last patient of the list is imported, remaining are overwritten.
+* Patients with the same Hospital ID, but different Study IDs: both patients are imported, but only the first patient is matched to the Hospital ID.
