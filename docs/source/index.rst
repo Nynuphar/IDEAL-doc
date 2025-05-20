@@ -12,6 +12,9 @@ IDEAL has different users, who have different permissions, and consequently have
 .. warning::
    Only authorized users will be able to access the IDEAL functionalities.
 
+.. warning::
+   Users are expected to access IDEAL using up-to-date web browsers that supports modern HTTPS and security protocols.
+
 .. note::
    This project is under active development.
 
