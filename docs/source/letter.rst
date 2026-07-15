@@ -3,7 +3,7 @@
 Generate serial letters based on a template letter
 ########################################################################################################
 
-This section enables you to generate serial letters using a customizable template. Simply import your template, and IDEAL will automatically personalize each letter with relevant details from the database, for multiple patients, facilitating bulk communication to patients, medical staff, etc.
+This section enables you to generate serial letters using a customizable template. Simply import your template, and CHIL will automatically personalize each letter with relevant details from the database, for multiple patients, facilitating bulk communication to patients, medical staff, etc.
 
 We offer a :ref:`customizable template letter <TempRef>` that you can easily edit and use to generate personalized serial letters.
 
@@ -29,10 +29,10 @@ Recommended workflow
 
 We recommend the following workflow:
 
-1. Check the instructions on how to generate a :ref:`template letter <TempRef>` (compatible with IDEAL) - or adapt the example template we provide (see section *Template document information*).
+1. Check the instructions on how to generate a :ref:`template letter <TempRef>` (compatible with CHIL) - or adapt the example template we provide (see section *Template document information*).
 2. Add study patients as shown in the :ref:`section below <AddLetterRef>`.
 3. Once your template letter is ready, please import it in the section *Setup Patient Letters* below *Upload template file*.
-4. If you want to generate serial letters based on Appointments booked in IDEAL, please check the box *Include Appointments*.
+4. If you want to generate serial letters based on Appointments booked in CHIL, please check the box *Include Appointments*.
 
 .. _TempRef
 
@@ -44,9 +44,9 @@ We provide an example of a template letter (as a .docx document) which can be cu
 Example of a template document
 ------------------------------------
 
-Below is an example of a template letter we provide, available for download. This .docx document is fully customizable and includes pre-set merge fields (highlighted in orange), which IDEAL can automatically read and populate with relevant data.
+Below is an example of a template letter we provide, available for download. This .docx document is fully customizable and includes pre-set merge fields (highlighted in orange), which CHIL can automatically read and populate with relevant data.
 
-.. warning:: Please do not change the names or format of the provided merge fields, as this may disrupt the proper integration of data from IDEAL. However, you are free to move them to different locations within the document.
+.. warning:: Please do not change the names or format of the provided merge fields, as this may disrupt the proper integration of data from CHIL. However, you are free to move them to different locations within the document.
 
 .. image:: LetterTempl.png
    :width: 600
