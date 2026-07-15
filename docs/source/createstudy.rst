@@ -10,7 +10,7 @@ Here you can name your study, select an acronym and add a short description for 
 
 .. note:: The items detailed with "*****" are mandatory when creating a study.
 
-.. warning:: Avoid the use of special characters (for example, *, $, &, etc) when creating a study acronym, as it can affect some features on IDEAL (for example the viewing of the Appointment Schedules) - this is a known issue we are trying to fix.
+.. warning:: Avoid the use of special characters (for example, *, $, &, etc) when creating a study acronym, as it can affect some features on CHIL (for example the viewing of the Appointment Schedules) - this is a known issue we are trying to fix.
 
 A test study named "Test01" was created here as an example, as shown below.
 
@@ -47,12 +47,12 @@ When a Superuser is logged in into their session, the to-be-approved study can b
 
 Click on the "**✓**" to approve the study. Your study is then approved.
 
-.. warning:: Only the IDEAL Superuser can approve the study. Until then, it is not possible to either import or add patients to the study.
+.. warning:: Only the CHIL Superuser can approve the study. Until then, it is not possible to either import or add patients to the study.
 
 Edit a study
 ********************
 
-If you are an IDEAL **Manager** or **Superuser** (see :doc:`users` for more information), you have the right to edit a study by selecting this icon "Study details", on your "**Dashboard**" or "**Studies**" > "**Study Lists**":
+If you are an CHIL **Manager** or **Superuser** (see :doc:`users` for more information), you have the right to edit a study by selecting this icon "Study details", on your "**Dashboard**" or "**Studies**" > "**Study Lists**":
 
 .. image:: EditStudy.png
 
@@ -81,10 +81,10 @@ Add patients to a study - only for Users or Managers
 
 There are 2 ways to add patients to your study: 
 
-1. bulk import of a pre-existing patient list (if the study is ongoing and you have been maintaining the patient list outside IDEAL) - find more details :ref:`here <BulkRef>`
-2. add new patients directly from the hospital database (newly created study, in which the patient list is directly generated in IDEAL) - find more details :ref:`here <AddPatientRef>` 
+1. bulk import of a pre-existing patient list (if the study is ongoing and you have been maintaining the patient list outside CHIL) - find more details :ref:`here <BulkRef>`
+2. add new patients directly from the hospital database (newly created study, in which the patient list is directly generated in CHIL) - find more details :ref:`here <AddPatientRef>` 
 
-.. note:: Once a patient list is added to IDEAL, you can add *new* patients by selecting them directly from the hospital database.
+.. note:: Once a patient list is added to CHIL, you can add *new* patients by selecting them directly from the hospital database.
 
 Block a study - only for Superusers
 ******************************************
@@ -98,7 +98,7 @@ For this, go to **Studies** > ** Studies List**, and then select "Study's detail
 Delete a study
 *****************
 
-An IDEAL manager can delete a study before it has been approved by a Superuser. After the study has been approved, only the Superuser has the right to delete the study.
+A CHIL manager can delete a study before it has been approved by a Superuser. After the study has been approved, only the Superuser has the right to delete the study.
 
 To delete a study just navigate to your "**Dashboard**" and select the appropriate icon as shown below:
 
