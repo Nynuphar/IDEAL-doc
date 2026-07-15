@@ -4,9 +4,9 @@ User registration and management
 User registration
 ********************
 
-There are 2 ways of creating an account on IDEAL:
+There are 2 ways of creating an account on CHIL:
 
-1. Create an account directly in the main IDEAL page, by selecting "Create an account"
+1. Create an account directly in the main CHIL page, by selecting "Create an account"
 2. Get an invitation by a Superuser
 
 Both ways will redirect you to the registration page (see below). Mandatory fields are: email, password, first and last name.
@@ -36,7 +36,7 @@ After inviting the user, you can monitor whether they have accepted the invitati
 .. image:: InvitedUser.png
   :width: 850
 
-.. warning:: IDEAL only sends internal emails, which means only users from the respective hospital domain will receive an invitation email.
+.. warning:: CHIL only sends internal emails, which means only users from the respective hospital domain will receive an invitation email.
 
 .. warning:: The invitation link is only active for 3 days. After this, you will have to ask for a new invitation (or register directly).
 
@@ -52,14 +52,14 @@ Each user is able to change their own details. However, the Superuser and Admini
 Change user role
 -------------------
 
-In the case below, an IDEAL *user* is becoming a *manager*. 
+In the case below, an CHIL *user* is becoming a *manager*. 
 
 .. image:: UserType.png
 
 Inactivate an user
 ======================
 
-IDEAL has implemented a functionality in which a User can easily be inactivated. This revokes their access to studies and patient data without deleting their account, ensuring they remain part of the audit logs.
+CHIL has implemented a functionality in which a User can easily be inactivated. This revokes their access to studies and patient data without deleting their account, ensuring they remain part of the audit logs.
 
 .. image:: UserActivation.png
 
