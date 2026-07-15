@@ -1,16 +1,16 @@
-Overview of the IDEAL interface
+Overview of the CHIL interface
 ##################################
 
-This section explains the different sections of IDEAL.
+This section explains the different sections of CHIL.
 
 .. note:: Different users have different interfaces. See below for more information about the different interfaces.
 
 Dashboard
 ***********
 
-As **IDEAL Manager** and **IDEAL User**, it gives a quick peak into your studies and the patients who belong to these studies.
+As **CHIL Manager** and **CHIL User**, it gives a quick peak into your studies and the patients who belong to these studies.
 
-As **IDEAL Superuser**, it gives an overview of the different studies and users you are managing. It is also a quick way to check if there is any new study which needs your approval.
+As **CHIL Superuser**, it gives an overview of the different studies and users you are managing. It is also a quick way to check if there is any new study which needs your approval.
 
 Patient Dashboard
 *******************
