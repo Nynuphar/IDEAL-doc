@@ -1,7 +1,7 @@
 Export of pre-defined or customized files
 ###############################################
 
-Currently only an **IDEAL manager** and **IDEAL user** can export the log files.
+Currently only an **CHIL manager** and **CHIL user** can export the log files.
 
 Go to "**Studies**" > "**Log file export**". Here, and after selecting the study, you can choose to export either pre-defined log files or create a custom export tailored to your needs.
 
