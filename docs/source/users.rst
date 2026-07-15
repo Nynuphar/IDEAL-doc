@@ -1,4 +1,4 @@
-IDEAL Users - types and permissions
+CHIL Users - types and permissions
 ######################################
 
 Types
@@ -7,27 +7,27 @@ Types
 Superuser
 ==========
 
-The IDEAL Superuser is a local administrator.
+The CHIL Superuser is a local administrator.
 
 The main responsibility of a Superuser is to approve new studies and new user accounts, and equally invite new users.
 
-Although able to approve and create a new study, the Superuser does not have direct access to the patient information of a study. Therefore, the Superuser is not able to import a study patient list. Equally, the Superuser is not able to do the IDEAL linkage between the patients in the carecenter/study and is not able to export any patient related files. The Superuser can block the access of the other IDEAL users to patients and studies at any time.
+Although able to approve and create a new study, the Superuser does not have direct access to the patient information of a study. Therefore, the Superuser is not able to import a study patient list. Equally, the Superuser is not able to do the CHIL linkage between the patients in the carecenter/study and is not able to export any patient related files. The Superuser can block the access of the other CHIL users to patients and studies at any time.
 
 Manager
 =========
 
-An IDEAL Manager could be a principle investigator or a senior study nurse.
+An CHIL Manager could be a principle investigator or a senior study nurse.
 
 The Manager has access to the patients in the carecenter and study. The Manager can import patients to a study and link these to the patients in the carecenter.
 
-The Manager has a similar role to the IDEAL user (see below) but it is able to create and manage new studies and new user accounts. Both new study and users need then to be approved by the IDEAL Superuser.
+The Manager has a similar role to the CHIL user (see below) but it is able to create and manage new studies and new user accounts. Both new study and users need then to be approved by the CHIL Superuser.
 
 User
 ======
 
-In most cases, the IDEAL user is a local study nurse or data manager.
+In most cases, the CHIL user is a local study nurse or data manager.
 
-The User has a more limited role than an IDEAL manager. The User has equally access to the patients in the carecenter and study. Equally, the User can import patients to a study and link these to the patients in the carecenter.
+The User has a more limited role than an CHIL manager. The User has equally access to the patients in the carecenter and study. Equally, the User can import patients to a study and link these to the patients in the carecenter.
 
 The User does not have permission to manage users or studies.
  
@@ -39,10 +39,10 @@ Summary table
   :header-rows: 1
 
   * - **Action**
-    - **IDEAL Superuser**
-    - **IDEAL Manager**
-    - **IDEAL User**
-  * - **IDEAL patient management**
+    - **CHIL Superuser**
+    - **CHIL Manager**
+    - **CHIL User**
+  * - **CHIL patient management**
     - 
     - 
     - 
