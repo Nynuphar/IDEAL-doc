@@ -1,10 +1,10 @@
-Troubleshooting IDEAL
+Troubleshooting CHIL
 ##########################
 
 Bulk patient import shows an error
 *************************************
 
-The most common error will be that the format of your CSV file does not match the format IDEAL expects to read. See doc:`users`, specfically `Define the data format of a study <https://nynuphar-ideal-doc.readthedocs.io/en/latest/study.html#define-the-data-format-of-a-study/>`_.
+The most common error will be that the format of your CSV file does not match the format CHIL expects to read. See doc:`users`, specfically `Define the data format of a study <https://nynuphar-ideal-doc.readthedocs.io/en/latest/study.html#define-the-data-format-of-a-study/>`_.
 
 Manually adding a patient from the Hospital database to a study
 *******************************************************************
@@ -29,7 +29,7 @@ then no patient will appear as selected, as shown below:
 
 to fix the problem, just make sure your study is selected in the filtering menu above. 
 
-.. note:: this bug will be fixed in a next release of IDEAL.
+.. note:: this bug will be fixed in a next release of CHIL.
 
 Special characters on the Study Acronym
 *****************************************
