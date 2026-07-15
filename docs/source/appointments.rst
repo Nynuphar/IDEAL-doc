@@ -132,7 +132,7 @@ You can customize the displayed appointments by filtering them based on a specif
 How to book an actual/definitive appointment
 **************************************************************
 
-So far, we just *planned* patient appointments. However, IDEAL also allows to register the actual/definitive appointment.
+So far, we just *planned* patient appointments. However, CHIL also allows to register the actual/definitive appointment.
 
 There are 2 ways of doing this:
 
