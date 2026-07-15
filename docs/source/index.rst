@@ -1,24 +1,24 @@
-IDEAL user guide
+CHIL user guide
 ###################
 
-IDEAL is a patient identity management tool, which links the patient identifying information in the hospital data warehouse to their pseudonym in the study or cohort. Therefore, IDEAL enables data sharing for research, while protecting patient identifying information.
+CHIL is a patient identity management tool, which links the patient identifying information in the hospital data warehouse to their pseudonym in the study or cohort. Therefore, CHIL enables data sharing for research, while protecting patient identifying information.
 
-Read more about the `IDEAL project <https://ideal-project.ch/about/>`_ here.
+Read more about the `CHIL project <https://ideal-project.ch/about/>`_ here.
 
-This documentation aims to provide information about the different IDEAL functionalities and equally provide a step-by-step guidance for a new user.
+This documentation aims to provide information about the different CHIL functionalities and equally provide a step-by-step guidance for a new user.
 
-IDEAL has different users, who have different permissions, and consequently have different IDEAL interfaces. Check out the :doc:`users` and :doc:`interface` section for further information about user permissions and interfaces.
-
-.. warning::
-   Only authorized users will be able to access the IDEAL functionalities.
+CHIL has different users, who have different permissions, and consequently have different CHIL interfaces. Check out the :doc:`users` and :doc:`interface` section for further information about user permissions and interfaces.
 
 .. warning::
-   Users are expected to access IDEAL using up-to-date web browsers that supports modern HTTPS and security protocols.
+   Only authorized users will be able to access the CHIL functionalities.
+
+.. warning::
+   Users are expected to access CHIL using up-to-date web browsers that supports modern HTTPS and security protocols.
 
 .. note::
    This project is under active development.
 
-IDEAL users
+CHIL users
 **************
 
 This section provides information about the different types of users and respective permissions.
@@ -38,10 +38,10 @@ This section provides information about user registration and account management
 
    userRegistration
 
-IDEAL interface - an overview
+CHIL interface - an overview
 *******************************
 
-This section provides an overview of the IDEAL interface, so it is easier to understand how IDEAL is organized.
+This section provides an overview of the CHIL interface, so it is easier to understand how CHIL is organized.
 
 .. toctree::
    :maxdepth: 1
@@ -71,16 +71,16 @@ This section explains how to create a study, approve, edit and delete a study:
 Import study patients - bulk import from a CSV file
 ***************************************************************************************************
 
-This section explains how to bulk import patients to a new study. Before the bulk import, it is important to properly define the data format of a study, so IDEAL "understands" what is being imported. 
+This section explains how to bulk import patients to a new study. Before the bulk import, it is important to properly define the data format of a study, so CHIL "understands" what is being imported. 
 
-The bulk import would be the strategy to onboard an ongoing study to IDEAL, whose patient list has been maintained on Excel (for example).
+The bulk import would be the strategy to onboard an ongoing study to CHIL, whose patient list has been maintained on Excel (for example).
 
 .. toctree::
    :maxdepth: 1
 
    import
 
-IDEAL linkage
+CHIL linkage
 ******************
 
 This area explains how to inspect the linkage after a bulk import of study patients and how to manually link patients from a study to the hospital.
@@ -95,7 +95,7 @@ Patient management: add a patient to a study
 
 This section explains how to add a patient from the hospital database to a study.
 
-This can be used to manually built a patient list for a new study created on IDEAL from scratch or add new patients to an ongoing study which was imported to IDEAL.
+This can be used to manually built a patient list for a new study created on CHIL from scratch or add new patients to an ongoing study which was imported to CHIL.
 
 .. toctree::
    :maxdepth: 1
@@ -162,10 +162,10 @@ This area explains how to use template letters to write personalized letters to 
 
    letter
 
-Worflow: onboard an ongoing study to IDEAL
+Worflow: onboard an ongoing study to CHIL
 **************************************************************************************************
 
-This section explains how to onboard a ongoing study to IDEAL: from creating a new study, to bulk import of an existing patient list and how to add new patients to this study.
+This section explains how to onboard a ongoing study to CHIL: from creating a new study, to bulk import of an existing patient list and how to add new patients to this study.
 
 .. toctree::
    :maxdepth: 1
@@ -184,7 +184,7 @@ This would be the situation for newly-started study, in which patients are added
 
    newstudyhospitaldb
 
-IDEAL troubleshooting
+CHIL troubleshooting
 ************************
 
 This area give some tips about trousbleshooting.
@@ -194,7 +194,7 @@ This area give some tips about trousbleshooting.
 
    trouble
 
-IDEAL: current known issues and new features
+CHIL: current known issues and new features
 ************************************************
 
 This is a list of current known issues we are resolving and the current new features we are working on.
