@@ -1,2 +1,2 @@
-Other IDEAL features
+Other CHIL features
 ##########################
