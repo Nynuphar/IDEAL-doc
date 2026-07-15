@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'IDEAL documentation'
-copyright = '2023, IDEAL'
+project = 'CHIL documentation'
+copyright = '2023, CHIL'
 author = 'Joana Borrego Pinto'
 
 release = '0.1'
