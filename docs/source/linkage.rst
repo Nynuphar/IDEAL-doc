@@ -1,10 +1,10 @@
-IDEAL linkage
+CHIL linkage
 #######################################################
 
 Linkage Between Hospital and Study
 *******************************************
 
-After bulk import of your study patients (see :doc:`study`), IDEAL will automatically link the patients from your study with the patients from the hospital.
+After bulk import of your study patients (see :doc:`study`), CHIL will automatically link the patients from your study with the patients from the hospital.
 
 .. image:: Linkage.png
 
@@ -16,7 +16,7 @@ We will look at some examples of "similar pairs" below, but first let's navigate
 
 .. warning:: If you get an error message when importing your patients to a study, please check either this section :doc:`trouble` or this :doc:`study`.
 
-.. note:: The linkage in IDEAL works by using an alghoritm to calculate the similarities between the patient information between the Study CSV and the Hospital. The more information provided, the more information to compare and the more accurate will it be!
+.. note:: The linkage in CHIL works by using an alghoritm to calculate the similarities between the patient information between the Study CSV and the Hospital. The more information provided, the more information to compare and the more accurate will it be!
 
 Study overview after linkage
 ******************************************************
@@ -38,7 +38,7 @@ When hovering over the different icons on the right, you can see different funct
 Linkage based on similarity score
 ******************************************************
 
-The linkage in IDEAL is performed via a similarity score calculation, calculated by a PPRL algorithm. In simple words, the patient information from the Hospital is compared with the Study list information, a score is calculated based on this similarity, and patients are matched if the similiarity score is above 85% (set as default). Because of this, IDEAL allows a small degree os mismatch (see section below).
+The linkage in CHIL is performed via a similarity score calculation, calculated by a PPRL algorithm. In simple words, the patient information from the Hospital is compared with the Study list information, a score is calculated based on this similarity, and patients are matched if the similiarity score is above 85% (set as default). Because of this, CHIL allows a small degree os mismatch (see section below).
 
 .. note::
    Note how the similarity is colour coded: red corresponds to no linkage, yellow to not perfect linkage, blue to a perfect linkage. The similarity score value is also displayed.
@@ -61,7 +61,7 @@ In this case, this patient has been recorded in the hospital database with two f
 .. image:: Duck.png
 
 
-However, because the rest of the information (surname, date of birth) is the same, the similarity is good enough for IDEAL to link them as a pair.
+However, because the rest of the information (surname, date of birth) is the same, the similarity is good enough for CHIL to link them as a pair.
 
 * Example 2:
 -------------
@@ -74,7 +74,7 @@ Similarly in the case below, the patient "Jennyfer Vengerberg" had been recorded
 * Example 3:
 ----------------
 
-In this case, someone made a mistake while writing the name in the study and wrote "Viri" instead of "Ciri". IDEAL still manages to match this patient to the right patient in the hospital database, as the rest of the information is correct.
+In this case, someone made a mistake while writing the name in the study and wrote "Viri" instead of "Ciri". CHIL still manages to match this patient to the right patient in the hospital database, as the rest of the information is correct.
 
 .. image:: Viri.png
 
@@ -93,7 +93,7 @@ In my case, there were 6 patients which were not linked to the hospital database
 .. image:: Unlinked2.png
 
 
-As this is dummy data which I have prepared, I know that the 3 first patients (Sonnie Dunlap, Annie Pennigton and Athena Hibbert) are not patients at this hospital, and therefore cannot be linked by IDEAL.
+As this is dummy data which I have prepared, I know that the 3 first patients (Sonnie Dunlap, Annie Pennigton and Athena Hibbert) are not patients at this hospital, and therefore cannot be linked by CHIL.
 
 Manual linkage
 *****************
